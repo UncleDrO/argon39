@@ -1,0 +1,7 @@
+<map id="remove_px_from_e_field" name="remove_px_from_e_field">
+<area shape="rect" id="node2" href="$ensdf_8f90.html#a662ffe3f9b4e9e979d1923db6ed6747e" title="Reads ENSDF Parent record. " alt="" coords="223,5,337,32"/>
+<area shape="rect" id="node3" href="$ensdf_8f90.html#abf41713aa86fc45deb8a017daaf563ba" title="Reads ENSDF decay dataset. " alt="" coords="385,5,541,32"/>
+<area shape="rect" id="node4" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="589,5,727,32"/>
+<area shape="rect" id="node5" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="775,5,919,32"/>
+<area shape="rect" id="node6" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="967,5,1037,32"/>
+</map>

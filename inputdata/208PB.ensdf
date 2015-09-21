@@ -1,0 +1,252 @@
+208PB    208TL B- DECAY                                          07NDS    200707
+208PB  H TYP=FUL$AUT=M. J. MARTIN$CIT=NDS 108,1583 (2007)$CUT=1-Jun-2007$       
+208PB cB IB        From I(|g+ce) imbalance for each level                       
+208PB cG E$From 1975Ko02, except where noted otherwise. Values quoted from      
+208PB2cG 2000He14 are based on E({+198}Au |g)=411.80205 {I17}. Others: 1969La23,
+208PB3cG 1969Pa02, 1973Da38                                                     
+208PB cG RI$Values given are intensities per 100 disintegrations of {+208}Tl    
+208PB2cG as recommended by 2004BeZQ, with two corrections made by the           
+208PB3cG evaluator. I|g(927.6|g) should be 0.125 {I11} rather than 0.125 {I1},  
+208PB4cG as reported by 2004BeZQ, and                                           
+208PB5cG I|g(2614|g) should be 99.754 {I4} rather than 99.79 {I1}. In the case  
+208PB6cG of the 2614|g, the authors of 2004BeZQ obtained I|g from the           
+208PB7cG requirement I|g=100/(1+|a), with |a=0.00210 {I6} taken from 1978Ro22   
+208PB8cG with an uncertainty of 3% assigned to |a. The internal pair formation  
+208PB9cG coefficient cannot be ignored. The requirement should read             
+208PBAcG I|g=100/(1+|a+|a(IPF)). With |a taken as 0.00210 and |a(IPF) taken as  
+208PBBcG 0.00037 (2005KiZT) with a 1.4% uncertainty assigned to these           
+208PBCcG quantities, one gets I|g(2614|g)=99.754 {I4}. The following sources    
+208PBDcG were used by 2004BeZQ in their evaluation: 1960Em01, 1960Sc07,         
+208PBEcG 1961Si11, 1969Au10, 1969La23, 1969Pa02, 1973Da38, 1972Ja25, 1975Ko02,  
+208PBFcG 1977Ge12, 1978Av01, 1982Sa36, 1983Sc13, 1983Va22, 1984Ge07,            
+208PBGcG 1992Li05, and 1993El08                                                 
+208PB cG $|g|g(|q): 1961Si11, 1962Wo05, 1964Sp06, 1967Jo17,                     
+208PB2cG 1972Ja25, 1976Av03. The following cascades have been studied:          
+208PB tG $  1) 583|g-2615|g, 2) 860|g-2615|g, 3) 277|g-583|g, 4) 511|g-583|g,   
+208PB tG $  5) 722|g-583|g,  6) 763|g-583|g,  7)  763|g-(583|g)-2615|g,         
+208PB tG $  8) 277|g-(583|g)-2615|g, 9) 511|g-(583|g)-2615|g.                   
+208PB cG $The transitions in parentheses denote intermediate unobserved         
+208PB2cG transitions.                                                           
+208PB3cG From 1), data of 1967Jo17 and 1972Ja25 are consistent with             
+208PB4cG mult(583|g)=Q. Data of 1961Si11 and 1962Wo05 require a small L=3       
+208PB5cG admixture. The data of 1972Ja25 allow |d(O/Q)<0.008 and                
+208PB6cG negative. From T{-1/2}(3197 level) and the recommended upper limit     
+208PB7cG on |g-ray strengths Q must be E2 with |d(M3/E2)<0.0012. The            
+208PB8cG evaluator adopts mult=E2                                               
+208PB9cG from 2), values of +0.013 {I11} (1962Wo05), +0.014 {I12} (1972Ja25),   
+208PBAcG and +0.015 {I12} (1976Av03) give a weighted average of                 
+208PBBcG |d(860|g)=+0.014 {I8}. 1961Si11 report |d=+0.032 {I6}.                 
+208PBBcG From 3), data of 1976Av03 yield |d(277|g)=+0.008 {I11}.                
+208PBCcG From 4), data of 1976Av03 yield |d(511|g)=-0.052 {I45} or -0.68 {I8}.  
+208PBDcG From 5), data of 1976Av03 yield |d(722|g)=+0.31 {I7}.                  
+208PBEcG From 6), data of 1976Av03 yield |d(763|g)=-0.01 {I6}                   
+208PBFcG from 7), data of 1961Si11 yield |d(763|g)=-0.16 {I+9-8}.               
+208PBGcG From 8), data of 1972Ja25 yield |d(277|g)=4.8 {I4}, in disagreement    
+208PBHcG with 3) and with ce data. These data of 1972Ja25 are not used.         
+208PBIcG From 9), data of 1972Ja25 yield |d(511|g)|?-0.8, in agreement          
+208PBJcG with the large solution from 4)                                        
+208PB cG MR$From |g|g(|q) except where noted otherwise                          
+208PB cG MR(A)$From (n,n'|g) as given in adopted gammas                         
+208PB cG M$From ce data. Data of 1956Kr57, 1963Da11, and 1978Av01 are           
+208PB2cG normalized to the I|g data so that |a(K)(583|g)=0.01516 (E2 theory).   
+208PB3cG Data of 1957Zh05 and 1957Vo22 are normalized to the data of 1956Kr57.  
+208PB4cG A summary of the data of 1956Kr57, 1957Zh05 and 1957Vo22 is given      
+208PB5cG in 1957Kr56. The |a(K)exp                                              
+208PB6cG values of 1954El07 are from Ice(K)/I|g with calibrated detectors       
+208PB cL $The level scheme is that of 1975Ko02 and is based on                  
+208PB2cL extensive coincidence data. 2004BeZQ suggest placement of the          
+208PB3cL 808.3 and 835.9 transitions as feeding the 3475 level, giving          
+208PB4cL new levels at 4283.4 and 4311.0. The evaluator has not adopted         
+208PB5cL these placements since the resulting levels have not been seen in      
+208PB6cL any other reaction. These transitions do not fit between any of        
+208PB7cL the known levels below the {+208}Tl Q(|b{+-}) value of 5000.           
+208PB8cL Furthermore, as pointed out by 1997Sc21, all the states expected from  
+208PB9cL single-particle-single-hole excitations up to the 8+ state at          
+208PBAcL 4611 have been identified                                              
+208TL  P 0.0           5+              3.053 M    4              4999.0   17    
+208PB  N 1.0          1.0       1.0      1.0                                    
+208PB cN NR$from the decay scheme one has the requirement that the total        
+208PB2cN intensity of the 2614|g, gammas, conversion electrons, and internal    
+208PB3cN pairs, is 100                                                          
+208PB PN                                                                     3  
+208PB  G 808.3      2 0.030   7                                                 
+208PB cG E,RI$reported only by 1993El08                                         
+208PB  G 835.9      2 0.076  11                                                 
+208PB cG E,RI$reported only by 1993El08                                         
+208PB  G 1004         0.005  LT                                                 
+208PB cG E,RI$reported only by 1969Pa02 with I(|g)|?0.01. The I|g limit is      
+208PB2cG from 1975Ko02                                                          
+208PB  L 0.0         0+                                                         
+208PB  L 2614.529  10   3-             16.7 PS   3                              
+208PB2 L G=0.54 7                                                               
+208PB cL T$from adopted levels, based on B(E3) in Coulomb excitation and        
+208PB2cL (e,e'). 1962We14 report 32 ps {I11} from |g|g(t)                       
+208PB cL $g-factor: weighted average of 1969Bo12 (|w|t/H=5.9|*10{+-8} {I15})    
+208PB2cL and 1973ScYX (|w|t/H=6.3|*10{+-8} {I9}) with T{-1/2}=16.7 ps {I3}      
+208PB3cL (see adopted levels)                                                   
+208PB  G 2614.511  10 99.754  4 E3                     0.00247                  
+208PBS G KC=0.001712 24$LC=0.000293 5$MC=6.87E-5 10$NC+=0.000392 6              
+208PBS G NC=1.743E-5 25$OC=3.46E-6 5$PC=3.62E-7 5$IPC=0.000371 6                
+208PB cG E$from 2000He14                                                        
+208PB cG M$|a(K)exp=0.00217 {I24} (1963Da11), 0.00178 {I12} (1954El07), 0.00183 
+208PB2cG {I26} (1956Kr57, 1957Vo22). The E3 theory value is 0.001712            
+208PB cG CC$includes internal pair formation. |a=0.00210, |a(IPF)=0.00037       
+208PB  L 3197.717  11  5-              294 PS     15                            
+208PB2 L G=0.023 5                                                              
+208PB cL T$weighted average of |bce(t) data of 1971Va24 (286 ps {I26}) and      
+208PB2cL |g|g(t) data of 1962We14 (298 ps {I18}). Others: 1954El07, 1954El24    
+208PB cL G$from 1969Bo01 based on |w|t/|w|t(2614 level)=0.74 {I12},             
+208PB3cL g-factor(2614 level)=0.54 {I7}, with T{-1/2}(2614 level)=16.7 ps {I3}  
+208PB4cL and T{-1/2}(3197 level)=294 ps {I15}.                                  
+208PB5cL Other: 1965Jo12                                                        
+208PB  B              49.1    7            5.61   1                             
+208PBS B EAV=649.48 71                                                          
+208PB  G 583.187    2 85.0   3  E2                      0.0205                  
+208PBS G KC=0.01511 22$LC=0.00411 6$MC=0.001010 15$NC+=0.000309 5               
+208PBS G NC=0.000256 4$OC=4.88E-5 7$PC=4.05E-6 6                                
+208PB cG E$from 2000He14                                                        
+208PB cG M$from |a(K)exp=0.0152 {I11} (1954El07). |a(K)=0.01511 (E2 theory).    
+208PB2cG Mult=Q is confirmed by |g|g(|q)                                        
+208PB  G 3197.7       0.007  LE[E5]                    0.00333                  
+208PBS G KC=0.00266 4$LC=0.000506 7$MC=0.0001204 17$NC+=3.73E-5 6               
+208PBS G NC=3.06E-5 5$OC=6.06E-6 9$PC=6.24E-7 9                                 
+208PB cG E$rounded-off value from E(level)                                      
+208PB cG RI$from 2005VaZZ. Transition not observed                              
+208PB  L 3475.088  11  4-              4 PS       3                             
+208PB cL T         from |bce(t) (1971Va24)                                      
+208PB  B              22.2    5            5.68   1                             
+208PBS B EAV=535.39 70                                                          
+208PB  G 277.371    5 6.6     3 M1+E2    +0.017  11     0.533                   
+208PBS G KC=0.436 7$LC=0.0745 11$MC=0.01744 25$NC+=0.00541 8                    
+208PBS G NC=0.00443 7$OC=0.000884 13$PC=9.45E-5 14                              
+208PB cG E$from the decay scheme (860.557 {I4} - 583.187 {I2}) (corrected for   
+208PB2cG recoil). 1977Ku25 report 277.351 {I10}. A revision upward to 277.359   
+208PB3cG {I10} is required to account for changes in the energies of the        
+208PB4cG calibration lines used by 1977Ku25. Other: 277.35 {I6} (1952Mu45)      
+208PB cG M$from |a(K)exp=0.36 {I4} (1978Av01), and |a(L1)exp=0.075 {I10}        
+208PB2cG (1963Da11). Other: 1957Vo22                                            
+208PB  G 860.557    4 12.5    1 M1+E2    +0.014  8      0.0264                  
+208PBS G KC=0.0217 3$LC=0.00360 5$MC=0.000839 12$NC+=0.000260 4                 
+208PBS G NC=0.000213 3$OC=4.26E-5 6$PC=4.57E-6 7                                
+208PB cG E$1979He10 report 860.564 {I5}. The evaluator has decreased this       
+208PB2cG value by 7 eV to correct for the change in energy of the {+110m}Ag     
+208PB3cG calibration line from 884.6852 {I30} in 1979He10 to 884.6781 {I13} in  
+208PB4cG 2000He14                                                               
+208PB cG M$from |a(K)exp=0.0246 {I10} (1978Av01), 0.026 {I4} (1963Da11),        
+208PB2cG and 0.024 (1957Vo22)                                                   
+208PB  G 3475.1       0.003  LE                                                 
+208PB cG E$rounded-off value from E(level)                                      
+208PB cG RI$from 2005VaZZ. Transition not observed                              
+208PB  L    3708.41 7  5-              100 PS     LT                            
+208PB cL T         from |bce(t) (1954El24)                                      
+208PB  B              24.2    3            5.38   1                             
+208PBS B EAV=441.53 68                                                          
+208PB  G 233.36    15 0.31    1 M1+E2    0.6     AP    0.70   AP                
+208PBS G KC AP 0.547$LC AP 0.1155$MC AP 0.0277$NC+ AP 0.00854                   
+208PBS G NC AP 0.00704$OC AP 0.001373$PC AP 0.0001297                           
+208PB cG M,MR$|a(L1)exp=0.10 {I2} (1957Vo22) gives |d<0.7, and |a(K)exp=0.45    
+208PB2cG {I9} (1957Kr56) gives |d=0.9 {I3}. No L2 or L3 lines were seen in the  
+208PB3cG spectrum of 1957Vo22, suggesting mult mainly M1; however, |d=0.6       
+208PB4cG gives L1:L2:L3=100:27:11, consistent with the non-observation          
+208PB5cG of these lines                                                         
+208PB  G 510.77    10 22.6    2M1+E2     -0.052  45    0.1027 16                
+208PBS G KC=0.0842 13$LC=0.01419 21$MC=0.00332 5$NC+=0.001029 15                
+208PBS G NC=0.000842 13$OC=0.0001680 25$PC=1.80E-5 3                            
+208PB cG M$|a(K)exp=0.080 {I4} (1978Av01) and 0.087 {I5} (1963Da11) give |d<0.39
+208PB2cG and <0.20, respectively. Other: |a(K)exp=0.082 {I17} (1956Kr57).       
+208PB3cG From |g|g(|q) one gets |d=-0.052 {I45} or -0.68 {I8}. |a(K)exp rules   
+208PB4cG out the larger solution. Note, however, that |d=-0.52 {I+7-5} is       
+208PB5cG reported in (n,n'|g)                                                   
+208PB  G 1093.9     2 0.43    2                                                 
+208PB cG RI$other: 0.36 {I7} (2005VaZZ)                                         
+208PB  G 3708.4       0.004  LE                                                 
+208PB cG E$rounded-off value from E(level)                                      
+208PB cG RI$from 2005VaZZ. Transition not observed                              
+208PB  L    3919.7810  6-                                                       
+208PB  B              0.63    5            6.68   4                             
+208PBS B EAV=358.70 66                                                          
+208PB  G 211.40    15 0.18    1 M1(+E2)  +0.04   +7-6  1.126  16                
+208PB2 G FLAG=A$                                                                
+208PBS G KC=0.922 16$LC=0.1586 23$MC=0.0372 6$NC+=0.01153 17                    
+208PBS G NC=0.00945 14$OC=0.00188 3$PC=0.000201 3                               
+208PB cG M$from |a(K)exp=0.89 (1957Kr56) and |a(L1)exp=0.14 (1957Vo22)          
+208PB  G 722.04    12 0.24    4 M1+E2    +0.31   7     0.0390 12                
+208PBS G KC=0.0320 11$LC=0.00539 16$MC=0.00126 4$NC+=0.000391 11                
+208PBS G NC=0.000320 9$OC=6.38E-5 18$PC=6.81E-6 21                              
+208PB cG M$from |a(K)exp|?0.045 (1978Av01) and |g|g(|q)                         
+208PB  L    3946.4220  4-                                                       
+208PB  B              0.046   3            7.78   3                             
+208PBS B EAV=348.43 66                                                          
+208PB  G 748.7      2 0.046   3                                                 
+208PB  L 3960.93    7  5-              18 PS      LE                            
+208PB cL T         from |bce(t) (1971Va24)                                      
+208PB  B              3.18    6            5.92   1                             
+208PBS B EAV=342.90 66                                                          
+208PB  G 252.61    10 0.78    2M1(+E2)   -0.35   10    0.63   3                 
+208PB2 G FLAG=A$                                                                
+208PBS G KC=0.51 3$LC=0.0941 19$MC=0.0222 4$NC+=0.00688 13                      
+208PBS G NC=0.00565 10$OC=0.001117 22$PC=0.000115 5                             
+208PB cG M$from |a(K)exp=0.49 {I17} (1978Av01), 0.52 {I11} (1957Vo22)           
+208PB  G 485.95    15 0.049   4                                                 
+208PB  G 763.13     8 1.79    3 M1+E2    -0.12   5     0.0356  6                
+208PB cG E         from 1969Br24                                                
+208PB  G 3960.9       0.003  LE                                                 
+208PB cG E$rounded-off value from E(level)                                      
+208PB cG RI$from 2005VaZZ. Transition not observed                              
+208PB  L     3995.6 5  4-                                                       
+208PB  B              0.007   3            8.5    2                             
+208PBS B EAV=329.64 68                                                          
+208PB  G 1381.1     5 0.007   3                                                 
+208PB  L    4125.2817  5-                                                       
+208PB  B              0.175  23            6.92   6                             
+208PBS B EAV=280.78 64                                                          
+208PB  G 650.1      3 0.05    2                                                 
+208PB  G 927.6      2 0.125  11                                                 
+208PB  L    4180.3817  5-                                                       
+208PB  B              0.227   9            6.70   2                             
+208PBS B EAV=260.44 63                                                          
+208PB  G 705.2      3 0.022   4                                                 
+208PB  G 982.7      2 0.205   8                                                 
+208PB  L 4262.0     7 4-                                                        
+208PB  B              0.002   1            8.6    2                             
+208PBS B EAV=230.73 67                                                          
+208PB  G 1647.5     7 0.002   1                                                 
+208PB cG E$unplaced by authors. Placed by evaluator on the basis of data in     
+208PB2cG (d,p|g) and (n,n'|g)                                                   
+208PB  L 4296.28   20  5-                                                       
+208PB  B              0.101  21            6.83   9                             
+208PBS B EAV=218.44 62                                                          
+208PB  G 587.7        0.06    2                                                 
+208PB cG E$from energy level difference                                         
+208PB  G 821.2      2 0.041   4                                                 
+208PB  L 4323.4     4 4+                                                        
+208PB  B              0.005   2            8.1    2                             
+208PBS B EAV=208.79 62                                                          
+208PB  G 1125.7     4 0.005   2                                                 
+208PB  L    4358.4417  4-                                                       
+208PB  B              0.044   5            7.05   5                             
+208PBS B EAV=196.43 60                                                          
+208PB  G 883.3      2 0.031   3                                                 
+208PB  G 1160.8     3 0.011   3                                                 
+208PB  G 1744.0     7 0.002   1                                                 
+208PB  L 4382.9     3 6-                                                        
+208PB  B              0.017   5            7.4    2                             
+208PBS B EAV=187.88 61                                                          
+208PB  G 1185.2     3 0.017   5                                                 
+208PB  L 4480.5     3 6-                                                        
+208PB  B              0.052   5            6.67   5                             
+208PBS B EAV=154.43 59                                                          
+208PB  G 1282.8     3 0.052   5                                                 
+
+208PB    212PO A DECAY (0.299 US)      1991RY01                  07NDS    200707
+208PB  H TYP=FUL$AUT=M. J. MARTIN$CIT=NDS 108,1583 (2007)$CUT=1-Jun-2007$       
+208PB cA HF$Requirement of HF(8784.86 |a)=1 yields                              
+208PB2cA r{-0}({+208}Pb)=1.5212 {I4}                                            
+212PO  P 0.0          0+                0.299 US 2              8954.12   11    
+208PB  N                        1.0                                             
+208PB cN BR$100% |a decay                                                       
+208PB  L 0.0          0+                                                        
+208PB  A 8784.86   12 100       1.0                                             
+208PB cA E$based on adjusted measurements of 1974Hu15, 1972RyZX, 1971De52       
+208PB2cA as given by 1991Ry01. Others: 1983Fa03, 1982Bo04                       
+

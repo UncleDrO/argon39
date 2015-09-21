@@ -1,0 +1,319 @@
+227AC    231PA A DECAY                 1979TE02,1982AN02,1970DE1901NDS    200110
+227AC  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 920 (2001)$CUT=1-May-2001$           
+227AC c  1979Bo30.                                                              
+231PA  P 0.0         3/2-              3.276E+4 Y11             5149.9    8     
+227AC  N   0.017   1  0.017  1    1.0                                           
+227AC PN                                                                     3  
+227AC cN NR        from decay scheme using |SI(|g+ce)(|g rays to g.s.)=89.0%    
+227AC2cN {I5}, with I|a(g.s.)=11.0% {I5}.                                       
+227AC cL J$From adopted levels. See also adopted levels for assignments of      
+227AC2cL parity doublet bands.                                                  
+227AC cG E$Weighted average from 1979Te02, 1979Bo30, and 1970De19, unless       
+227AC2cG otherwise specified. Others: 1974De11, 1971Le10, 1970Le11, 1969Ba20,   
+227AC3cG 1969La04, 1963Ab04, 1961Ba42, 1960As02.                                
+227AC cG RI$Best values deduced by evaluator from 1982An02, 1979Te02, and       
+227AC2cG 1970De19, unless otherwise specified.                                  
+227AC cG M         Conversion coefficients of 1979Te02 are based on absolute    
+227AC2cG intensity measurements of photons and conversion electrons.            
+227AC3cG Others: 1970De19, 1968Ha22.                                            
+227AC cG TI(X)     From I(|g+ce)(19|g)/I(|g+ce)(16|g)=18 {I5} (1974De11) and    
+227AC2cG |g-ray transition intensity balance at 46 level.                       
+227AC cG E(A)      From 1969La04.                                               
+227AC cG E(B)      From 1961Ba42.                                               
+227AC cG E(D),RI(D)$From 1970De19.                                              
+227AC cG E(E),RI(E)$From 1970Le11.                                              
+227AC cA           Others: 1963Su10, 1966Ba14, 1968Ba25, 1970Le11.              
+227AC cA E,IA      From 1961Ba42, unless otherwise specified.                   
+227AC cA IA$|g-ray transition intensity balances at each level are consistent   
+227AC2cA with measured |a-particle intensities.                                 
+227AC cA HF$Using r{-0}({+227}Ac)=1.532, average of r{-0}({+226}Ra)=1.5331      
+227AC2cA {I13}, r{-0}({+228}Ra)=1.5361 {I22}, r{-0}({+226}Th)=1.531 {I5}, and   
+227AC3cA r{-0}({+228}Th)=1.5289 {I5} (1998Ak04).                                
+227AC cA E(R),IA(R)$From 1991Ry01.                                              
+227AC cA E(S),IA(S)$From 1970Le11, 1969La04.                                    
+227AC cG E(W)$Uncertain |g ray                                                  
+227AC  G 10.9      5                                                        A   
+227AC  G 12.4      5                                                        A   
+227AC  G 14.1      1                                                            
+227AC  G 15.5      5                                                        A   
+227AC  G 18.2      5                                                        A   
+227AC  G 19.6                                                               B   
+227AC2 G FLAG=W                                                                 
+227AC  G 22.7                                                               B   
+227AC  G 27.0                                                               B   
+227AC2 G FLAG=W                                                                 
+227AC  G 31.00     5 0.59    15                                             D   
+227AC  G 31.54     5 0.41    14                                             D   
+227AC  G 34.0                                                               B   
+227AC  G 39.73     3 0.14    10                                                 
+227AC  G 39.97     2 0.77    15                                             D   
+227AC  G 42.48     5 0.35    7                                              D   
+227AC  G 43.05     5 0.41    2                                              D   
+227AC  G 56.76     4 0.36    8                                              D   
+227AC  G 70.50     5 0.41    8                                              D   
+227AC  G 96.0                                                               B   
+227AC2 G FLAG=W                                                                 
+227AC  G 106.0     5                                                        A   
+227AC2 G FLAG=W                                                                 
+227AC  G 242.2     1 0.53    8                                              D   
+227AC  G 286.55    10  0.59  9                                              D   
+227AC  G 310.0     1 0.09    3                                              D   
+227AC  G 318.1     7 0.2     1                                              E   
+227AC  G 374.93    1   0.29  4                                              D   
+227AC  G 438.7     1  0.09   3                                              D   
+227AC  L        0.0         3/2-       21.772 Y  3                              
+227AC  A 5058.6    15 11.0       259                                        R   
+227AC cA           I|a|?9, deduced by evaluator from |g-ray transition          
+227AC2cA balance.                                                               
+227AC  L      27.36 1      3/2+          38.3 NS 3                              
+227AC cL T$|a|g(t) (1985Is03). Others: 1972Ga39, 1963Su10, 1961Br32.            
+227AC  A 5032      2  2.5    AP  770                                           ?
+227AC cA           I|a|?4, deduced by evaluator from |g-ray transition          
+227AC2cA balance.                                                               
+227AC  G    27.36  1     605 24E1                        4.5   6                
+227AC cG M$from |a(L)exp=3.7 {I3}, ce(L1):ce(L2):ce(L3) exp=84 {I16}:138        
+227AC2cG {I20}:126 {I25} (1974De11). Other values: |a(L)exp=2.8 {I3},           
+227AC3cG ce(M1):ce(M2):ce(M3):ce(M4)+ce(M5) exp=9:5:10:6 (1960As02).            
+227AC4cG ce(L):ce(M):ce(N) exp=31:10:1.7 (1961Ba42). Other: 1970De19.           
+227AC5cG Multipolarity: E1+M2, |d=0.23 {I10}; |g|g(|q), |g|g(|q,H) (1982An02).  
+227AC6cG This value of |d is not consistent with the experimental conversion    
+227ACxcG coefficient.                                                           
+227AC cG CC        experimental value from |a(L)exp=3.3 {I4} (weighted average  
+227AC2cG of 2.8 {I3} (1960As02) and 3.7 {I3} (1974De11)), and ce(L):ce(M):ce(N) 
+227AC3cG exp=31:10:1.7 (1961Ba42). |a(theory, E1)=3.6.                          
+227AC  L      29.98 1       5/2-                                                
+227AC  A 5028.4    10 20.0        93                                        R   
+227AC cA           I|a=19 {I4}, deduced by evaluator from |g-ray transition     
+227AC2cA balance.                                                               
+227AC  G    29.96  2      6.4 4M1+E2       0.22   2       282 28                
+227ACS G                LC=      210 15$MC=        54 4                         
+227AC cG M,MR$from |a(L)exp=222 {I20}, ce(L1):ce(L2):ce(L3) exp=82 {I15}:74     
+227ACxcG {I12}:47 {I9} (1974De11).                                              
+227AC  L      46.35 1       5/2+                                                
+227AC  A 5013.8    14 25.4        58                                        R   
+227AC cA           I|a=27 {I14}, deduced by evaluator from |g-ray transition    
+227AC2cA balance.                                                               
+227AC  G       16.5 1  18    5  [E1]                     7.40     150     44X   
+227ACS G                LC=     3.85   $MC=      2.67                           
+227AC cG RI        from I(|g+ce) and |a.                                        
+227AC  G      19       22    7  [M1]                       119   2.69E+3  80X   
+227ACS G                LC=      2.40  $MC=     87.7                            
+227AC cG RI        from I(|g+ce) and |a.                                        
+227AC  G    46.35  2     13.1 5 [E1]                    0.895                   
+227ACS G                LC=    0.675   $MC=     0.166                           
+227AC cG M         E1+M2, |d=0.11 {I10}; |g|g(|q), |g|g(|q,H) (1982An02).       
+227AC  L      74.13 1       (7/2)-                                              
+227AC  A 4986      2  1.4         698                                           
+227AC cA           I|a=1.2 {I3}, deduced by evaluator from |g-ray transition    
+227AC2cA balance.                                                               
+227AC  G    44.15  1      3.8 3 [M1]                     39.6                   
+227ACS G                LC=      30.0  $MC=     7.20                            
+227AC  G      74.15 4   1.39 17[E2]                      43.4                   
+227ACS G                LC=      31.6  $MC=     8.63   $NC+=         3.13       
+227AC  L      84.55 1       (7/2)+                                              
+227AC  A 4975      2  0.4        2100                                           
+227AC  G    38.19  1      9.4 5M1+E2       0.18   5        92 19                
+227ACS G                LC=       69 10$MC=        17 3                         
+227AC cG M,MR      from |a(L)exp=70 {I12} (1970De19).                           
+227AC  G    54.60  2      4.5 3 [E1]                    0.578                   
+227ACS G                LC=    0.435   $MC=     0.106  $NC+=       0.0362       
+227AC  G      57.19 3   1.58 16  E2                        151              @   
+227ACS G                LC=       110  $MC=      30.0  $NC+=         10.8       
+227AC  L     109.93 2       (9/2)+                                              
+227AC  A 4951.3    14 22.8        25.3                                      R   
+227AC cA           I|a=27 {I4}, deduced by evaluator from |g-ray transition     
+227AC2cA balance.                                                               
+227AC  G      25.51 6    6.9 10[M1]                        201                  
+227ACS G                LC=       152  $MC=      36.5                           
+227AC  G    35.83  3     0.95 5 [E1]                      1.77                  
+227ACS G                LC=      1.33  $MC=     0.331                           
+227AC  G    63.65  2    2.92 24E2                        90.1                   
+227ACS G                LC=     65.7   $MC=      17.9  $NC+=        6.47        
+227AC cG M         from |a(L)exp=76 {I13} (1970De19).                           
+227AC  L     126.85 2       (9/2)-                                              
+227AC  A 4934      2  3.0        150                                            
+227AC cA           I|a=3.0 {I3}, deduced by evaluator from |g-ray transition    
+227AC2cA balance.                                                               
+227AC  G    52.73  2      5.0 3 [M1]                      23.6                  
+227ACS G                LC=      17.7  $MC=     4.27   $NC+=         1.54       
+227AC  G      96.84 3     5.6 3E2                         12.3                  
+227ACS G                LC=     8.95   $MC=      2.45  $NC+=       0.893        
+227AC cG M         from |a(L)exp=9.8 {I16} (1970De19).                          
+227AC  L        160 2                                                           
+227AC  A 4900      2  0.002    1.37E+5                                          
+227AC  L     187.30 2      (11/2+)                                              
+227AC  G      60.50 3    0.38 6 [E1]                    0.439                   
+227ACS G                LC=     0.331  $MC=   0.0807   $NC+=       0.0275       
+227AC  G    77.34  3    4.31 14[M1]                      7.68                   
+227ACS G                LC=     5.79   $MC=      1.39  $NC+=       0.502        
+227AC  G      102.6 5   0.8  LT  [E2]                    9.38                   
+227ACS G                LC=     6.83   $MC=      1.87  $NC+=       0.683        
+227AC  L     198.70 5      (11/2-)                                              
+227AC  G      71.90 7    0.11 6 [M1]                     9.51                   
+227ACS G                LC=     7.17   $MC=      1.72  $NC+=       0.620        
+227AC  G     124.58 6    0.28 7 [E2]                     4.12                   
+227ACS G KC=    0.290  $LC=      2.79  $MC=    0.762   $NC+=        0.279       
+227AC  L     210.77 6      (13/2+)                                              
+227AC  A 4853      2  1.4         91                                            
+227AC cA           I|a=1.5 {I3}, deduced by evaluator from |g-ray transition    
+227AC2cA balance.                                                               
+227AC  G     23.6      0.28  6  [M1]                     252        70    14   S
+227AC cG TI        from |g-ray intensity balance at 211 level.                  
+227AC cG RI        from I(|g+ce) and |a.                                        
+227AC  G     100.84 5   1.79 21[E2]                     10.17                   
+227ACS G                LC=     7.41   $MC=      2.02  $NC+=       0.740        
+227AC  L     271.30 6      (13/2-)                                              
+227AC  G     72.72 10    0.22 8 [M1]                     9.20                   
+227ACS G                LC=     6.94   $MC=      1.66  $NC+=       0.600        
+227AC  G     144.39 6    0.70 6 [E2]                      2.23                  
+227ACS G KC=    0.267  $LC=      1.43  $MC=    0.390   $NC+=        0.142       
+227AC  L     273.15 4       (5/2)-                                              
+227AC  A 4795      2  0.04      1220                                            
+227AC cA           Possible doublet populates 271 and/or 273 levels.            
+227AC  G    198.89 10    0.29 4                                                 
+227AC  G     243.08 7   2.84 20 M1+E2       1.1   3      0.84 13                
+227ACS G KC=    0.59 12$LC=    0.183 22$MC=     0.046 5$NC+=       0.0166 5     
+227AC cG M,MR      from |a(K)exp=0.57 {I14} (1979Te02).                         
+227AC  G     246.04 8    0.65 9 [E1]                   0.0573                   
+227ACS G KC=  0.0458   $LC=  0.00871   $MC=   0.00209  $NC+=    0.000730        
+227AC  G     273.14 6   3.51 13 M1+E2       0.7    2     0.78 10                
+227ACS G KC=     0.60 9$LC=    0.138 16$MC=     0.034 4$NC+=       0.0121 5     
+227AC cG M,MR      from |a(K)exp=0.58 {I8} (1979Te02).                          
+227AC  L     304.79 9       (5/2+)                                              
+227AC  G        230 1    0.10 5                                                 
+227AC  G     258.44 9  0.144 25                                                 
+227AC  L     330.04 1       3/2-                                                
+227AC  A 4736.0    8  8.4         2.4                                       R   
+227AC cA           I|a=9.3 {I7}, deduced by evaluator from |g-ray transition    
+227AC2cA balance.                                                               
+227AC  G    245.6  1     0.46 5 [M2]                     5.47                   
+227ACS G KC=    3.85   $LC=      1.19  $MC=     0.306  $NC+=        0.112       
+227AC  G     255.77 5     6.6 3 E2                       0.269                  
+227ACS G KC=  0.1004   $LC=     0.124  $MC=    0.0333  $NC+=       0.0120       
+227AC cG M         from |a(K)exp=0.098 {I10}, ce(K)/ce(L) exp=0.70 {I26}        
+227ACxcG (1979Te02).                                                            
+227AC  G   283.69  1   100     E1                      0.0414                   
+227ACS G KC=   0.0332  $LC=  0.00618   $MC=   0.00148  $NC+=    0.000518        
+227AC cG M         from |a(K)exp=0.04 {I1}, ce(K)/ce(L) exp=5.7 {I22}           
+227ACxcG (1979Te02).                                                            
+227AC  G   300.07  1      145 4 M1+E2     -0.12   7     0.808                   
+227ACS G KC=   0.647   $LC=     0.121  $MC=    0.0290  $NC+=       0.0103       
+227AC cG M,MR      from |a(K)exp=0.34 {I1} (1979Te02). |d=-0.12 {I7}, |g|g(|q), 
+227AC2cG |g|g(|q,H) (1982An02).                                                 
+227AC  G   302.65  5     129 16  E1                     0.0358              @   
+227ACS G KC=   0.0287  $LC=  0.00531   $MC=   0.00127  $NC+=    0.000444        
+227AC cG M$from |a(K)exp=0.037 {I10} for the doublet (1979Te02). Multipolarity: 
+227AC2cG E1+M2, |d=0.20 {I1}; |g|g(|q), |g|g(|q,H) (1982An02).                  
+227AC  G   330.06  1    82.1 12 M1+E2       0.36  6     0.571 18                
+227ACS G KC=   0.453 16$LC=     0.088 3$MC=    0.0213 6$NC+=     0.00757 19     
+227AC cG M,MR$from |g|g(|q), |g|g(|q,H) (1982An02). |d=1.0 {I4}, from           
+227AC2cG |a(K)exp=0.28 {I7}, gives ce(K)/ce(L)=4.0 which compares with          
+227AC3cG ce(K)/ce(L) exp=5.3 {I24}. Other values: |a(K)exp=0.41 {I5},           
+227ACxcG ce(K)/ce(L1) exp=3.85 {I38} (1968Ha22).                                
+227AC  L     354.48 4       1/2-                                                
+227AC  A 4713      2  1      AP   14                                            
+227AC cA           I|a=1.30 {I8}, deduced by evaluator from |g-ray transition   
+227AC2cA balance.                                                               
+227AC  G       24.5 1   0.3  AP [M1]                       226      68    AP    
+227ACS G                LC=       172  $MC=     41.2                            
+227AC cG TI        from |g-ray intensity balance at 354 level.                  
+227AC cG RI        from I(|g+ce) and |a. I|g=0.7 {I3} (1979Te02), I|g|?0.6      
+227ACxcG (1970De19).                                                            
+227AC  G     327.13 8   2.24 23(E1)                     0.0301                  
+227ACS G KC=   0.0242  $LC=  0.00443   $MC=   0.00106  $NC+=     0.000370       
+227AC  G     354.46 5   5.90 15 M1+E2       3     AP                            
+227AC cG M,MR      from |a(K)exp=0.09 {I2} (1979Te02).                          
+227AC  L     387.23 2       7/2-                                                
+227AC  A 4681      2  1.5         5.4                                           
+227AC cA           I|a=2.06 {I18}, deduced by evaluator from |g-ray transition  
+227AC2cA balance.                                                               
+227AC  G      57.19 3   0.17 3  E2                         151              @   
+227ACS G                LC=       110  $MC=      30.0  $NC+=         10.8       
+227AC cG M         from |a(L)exp=105 {I18} for the doublet (1970De19).          
+227AC cG RI$from |g-ray intensity balance at 330 and 387 levels                 
+227AC2cG (1982An02,1974De11). Other value: 0.96 {I10} (1979Te02).               
+227AC  G     260.19 6  11.05 14 M1+E2       1.4   3       0.58 8                
+227ACS G KC=     0.39 7$LC=    0.138 12$MC=     0.035 3$NC+=       0.0126 4     
+227AC cG M,MR      from |a(K)exp=0.35 {I7}, ce(K)/ce(L) exp=2.9 {I12}           
+227ACxcG (1979Te02).                                                            
+227AC  G   277.32  1    4.08 20 E1+M2       0.4   4                             
+227AC cG M,MR      from |a(K)exp=0.37 {I7}. M1+E2 (|d=1.2 {I3}) is also         
+227AC2cG consistent with |a(K)exp (1979Te02).                                   
+227AC  G     302.65 5      40 6  E1                     0.0358              @   
+227ACS G KC=   0.0287  $LC=  0.00531   $MC=   0.00127  $NC+=    0.000444        
+227AC  G     312.92 4   5.98 16 M1+E2       1.5  +9-4     0.32 5                
+227AC3 G FL=74.13                                                               
+227ACS G KC=     0.23 5$LC=     0.072 8$MC=   0.0184 19$NC+=       0.0066 4     
+227AC cG M,MR      from |a(K)exp=0.22 {I8}. Measured ce(K)/ce(L) exp=1.1 {I5}   
+227ACxcG (1979Te02).                                                            
+227AC  G     340.74 5  10.62 16 E1+M2       0.22   4      0.11 3                
+227ACS G KC=   0.084 23$LC=     0.021 5$MC=   0.0052 13$NC+=       0.0019 6     
+227AC cG M,MR      from |a(K)exp=0.084 {I20}. ce(K)/ce(L) exp=0.76 {I30} is not 
+227AC2cG consistent with |d (1979Te02).                                         
+227AC  G     357.12 9    10.3 4 M1(+E2)     0.4   4      0.45 10                
+227ACS G KC=     0.36 9$LC=    0.070 15$MC=     0.017 4$NC+=       0.0060 8     
+227AC cG M,MR      from |a(K)exp=0.36 {I10} (1979Te02).                         
+227AC  G      387.0 1  0.029 10 [E2]                   0.0787                   
+227ACS G KC=  0.0436   $LC=    0.0259  $MC=  0.00681   $NC+=      0.00243       
+227AC  L     425.56 4       5/2+                                                
+227AC  A 4643      2  0.1    AP   43                                            
+227AC cA           I|a=0.086 {I8}, deduced by evaluator from |g-ray transition  
+227AC2cA balance.                                                               
+227AC  G     351.51 7    0.43 8 [E1]                    0.0256                  
+227ACS G KC=   0.0207  $LC=   0.00375  $MC= 0.000894   $NC+=     0.000314       
+227AC  G    379.3  1     2.96 9 M1(+E2)   0.6      6     0.34 11                
+227ACS G KC=    0.27 10$LC=    0.055 16$MC=     0.013 4$NC+=       0.0047 9     
+227AC cG M,MR      from |a(K)exp=0.27 {I10}. Measured ce(K)/ce(L) exp=4.6 {I24} 
+227ACxcG (1979Te02).                                                            
+227AC  G     395.50 7  0.132 15 [E1]                    0.0199                  
+227ACS G KC=   0.0161  $LC=   0.00288  $MC= 0.000685   $NC+=     0.000241       
+227AC  G     398.14 6    0.52 6                                                 
+227AC  L     435.17 2       (1/2)+                                              
+227AC  G   407.81  2    2.13 11 M1                       0.354                  
+227ACS G KC=    0.285  $LC=   0.0527   $MC=    0.0126  $NC+=     0.00448        
+227AC cG M         from |a(K)exp=0.4 {I1}. Measured ce(K)/ce(L) exp=7.5 {I23}   
+227ACxcG (1979Te02).                                                            
+227AC  G     435.05 7   0.183 9                                                 
+227AC  L     437.97 4       (5/2-)                                              
+227AC  A 4632      2  0.1    AP   35                                            
+227AC cA           Possible doublet populates the 435 and/or 438 levels.        
+227AC  G     50.9  1    0.091 4 [M1]                      26.1                  
+227ACS G                LC=      19.7  $MC=     4.73   $NC+=         1.72       
+227AC  G     363.84 7    0.46 4                                                 
+227AC  G     391.60 7    0.46 4 [E1]                    0.0203                  
+227ACS G KC=   0.0164  $LC=   0.00295  $MC= 0.000700   $NC+=     0.000246       
+227AC  G    410.3  1     0.19 3 [E1]                    0.0184                  
+227ACS G KC=   0.0149  $LC=   0.00266  $MC= 0.000631   $NC+=     0.000222       
+227AC  G     438.01 7  0.268 23                                                 
+227AC  L     469.24 6       (9/2+)                                              
+227AC  A 4599      2  0.015      141                                            
+227AC cA           I|a=0.013 {I2}, deduced by evaluator from |g-ray transition  
+227AC2cA balance.                                                               
+227AC  G    359.3  1     0.53 6                                                 
+227AC  G     384.70 7    0.22 3                                                 
+227AC  L      501.4 4   (3/2-,5/2-)                                             
+227AC  A 4566      2  0.008      155                                            
+227AC cA           I|a=0.0009 {I3}, deduced by evaluator from |g-ray transition 
+227AC2cA balance.                                                               
+227AC  G        427 1    0.04 2                                                ?
+227AC  G      501.4 4  0.050 17                                                 
+227AC  L      537.2 4       (3/2+)                                              
+227AC  G      491.0 5   0.031 6                                                 
+227AC  G      509.7 6  0.070 18                                                 
+227AC  L     560.97 3    (3/2+,5/2+)                                            
+227AC  A 4508      2  0.003      151                                            
+227AC cA           I|a=0.0036 {I5}, deduced by evaluator from |g-ray transition 
+227AC2cA balance.                                                               
+227AC  G   486.83  2   0.117 20                                                 
+227AC  G      516.1 5  0.060 16                                                 
+227AC  G      535.8 5   0.035 6                                                 
+227AC3 G FL=27.36                                                               
+227AC  L      656.4 3      (7/2+)                                               
+227AC  A 4410      10  0.001 AP   87                                        S   
+227AC cA           I|a=0.013 {I1}, deduced by evaluator from |g-ray transition  
+227AC2cA balance.                                                               
+227AC  G      546.7 5  0.051 12                                                 
+227AC  G      571.8 5   0.031 6                                                 
+227AC  G        583 1    0.26 1                                                 
+227AC  G        609 1    0.43 2                                                 
+

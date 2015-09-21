@@ -1,0 +1,16 @@
+#
+# General
+#
+projectile a
+element SI
+mass  29
+energy erange
+#
+# Compound nucleus
+#
+widthfluc y
+#
+# Output
+#
+outspectra y
+filespectrum n

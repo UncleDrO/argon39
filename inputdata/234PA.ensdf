@@ -1,0 +1,222 @@
+234PA    234TH B- DECAY                                          07NDS    200704
+234PA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108, 681 (2007)$             
+234PA2 H CUT=1-Jun-2006$                                                        
+234PA D  Modified by E. Browne (July 26, 2006).                                 
+234PA D  NR, CC (from ^BRICC) changed but IB, LOGFT not changed as yet.         
+234PA c  2004Ab03: Measured %I|g(63.29|g) relative to                           
+234PA2c  %I|g(59.41|g) in {+241}Am decay. Source {+238}U |a decay.              
+234PA c  Measured |b|g: 1963Bj02, 1956On07, 1955De40, 1954Jo19                  
+234PA c  Measured |g|g: 1973Go40, 1962Ad01, 1954Jo19                            
+234PA tB           Measured |b's:                                               
+234PA2tB                                                                        
+234PA3tB      1953St36 (s)  1955De40 (|b|g)  1963Bj02 (s)      1973Go40 (s)     
+234PA4tB       E|b  I|b(%)   E|b   I|b(%)      E|b  I|b(%)         E|b       I|b
+234PA+tB (%)                                                                    
+234PA5tB      ----------  -----------      ----------        -----------------  
+234PA6tB                                                      22 {I3}      1.3 {
+234PA+tB I7}                                                                    
+234PA7tB                                                      60 {I3}      5.4 {
+234PA+tB I10}                                                                   
+234PA8tB      103   33    100 {I2}  35       100   33           104 {I2}     20.
+234PA+tB 7 {I10}                                                                
+234PA9tB      193   67    191    65 {I3}     194   67           198.5 {I15}  72.
+234PA+tB 5 {I20}                                                                
+234PAAtB                                                                        
+234PABtB other |b{+-} measurements: 1946Jn01, 1947Br01, 1954Jo19, 1956On07.     
+234PA cB IB        All |b branchings have been deduced from intensity           
+234PA2cB balance at each level.                                                 
+234PA cG           Ice's given here are from 1973Go40. The original intensities 
+234PA2cG have been renormalized by the evaluators such that                     
+234PA3cG |a(L1)(92.38|g)=3.53 {I5}, theoretical value (BRICC).                  
+234PA cG E         Measurements by 1973Go40 (s ce, semi |g). These measurements 
+234PA2cG are in agreement with the measurements by 1978Ch06 (semi |g),          
+234PA3cG 1963Bj02 (s ce), 1962Fo11 (s ce), 1961Ge13 (s ce). The authors of      
+234PA4cG 1973Sa33 (Ge(Li) x-ray) and 1973Ta25 (Si(Li)) measured E|g's for       
+234PA5cG the doublets in 63- and 92-keV peaks. Their measured energies          
+234PA6cG are given for comparison.                                              
+234PA cG RI        Relative photon intensities are from 1978Ch06,               
+234PA2cG unless otherwise noted.                                                
+234PA cG M         From ce data of 1973Go40. See also 1962Fo11 and 1963Bj02.    
+234PA2cG Multipolarities in square brackets are from level scheme.              
+234TH  P 0.0          0+               24.10 D   3              273       3     
+234PA  N 0.0050    4            1.0      1.0                                    
+234PA PN                                                                     3  
+234PA cN NR$From %I|g(63.29|g + 62.86|g)=3.72 {I7}, weighted average of         
+234PA2cN 3.743 {I71} (2004Ab03) and 3.65 {I11}. The latter has been calculated  
+234PA3cN from I|g(63.29|g + 62.86|g)/I|g(1001|g in {+234m}Pa |b- Decay)=4.33    
+234PA4cN {I12} [weighted average of 4.33 {I9} (1982Mo30) and 4.29 {I12}         
+234PA5cN (1990Sc09)], and %I|g(1001|g)=0.843 {I8} [value recommended by the     
+234PA6cN evaluators (See {+234m}Pa |b- Decay)].                                 
+234PA cN NR$%I|g(92.38|g + 92.80|g)=5.57 {I28} reported in 1992Li05             
+234PA2cN disagrees with 4.2% {I3}, deduced by the evaluators from               
+234PA3cN I|g(rel)(92.38|g + 92.80|g)=846 {I32} and I|g normalization=0.0050     
+234PA4cN {I4}. Although the cause for this disagreement has not been determined,
+234PA5cN it is plausible that a 93.3-keV line from Th K|a{-1}| x ray may have   
+234PA6cN affected the results in 1992Li05.                                      
+234PA  G 57.75     10 1.0    6                                                  
+234PA cG RI        from 1973Go40.                                               
+234PA  G 87.02     6  2.9    5 (M1+E2)                 15     9                 
+234PAS G LC=11 7$MC=2.9 18$NC+=1.0 6                                            
+234PAS G NC=0.8 5$OC=0.18 11$PC=0.030 17$QC=0.0007 5                            
+234PA cG RI        1.4 {I2} was measured by 1973Go40.                           
+234PA cG           Ice(L1)=5.7 {I4}; L1/M1=57 {I4}/23 {I4}=2.4 {I4}             
+234PA  G 92.00     5                                                            
+234PA cG           Ice(L1)=5.1 {I14}; L1/M1=3.0 {I17}. No photon was observed.  
+234PA  G 103.71    6                                                            
+234PA cG           Ice(L1 103.71|g)=2.9 {I8}.                                   
+234PA  G 108.00    5  1.6    2                                                  
+234PA  G 132.9                                                                  
+234PA cG           1973Go40 propose that the 132.9|g deexcites a 2+ state       
+234PA2cG at 206.8+x keV to the 0- level at 73.92+x keV.                         
+234PA cG           Ice(K)=5.9 {I20}. The ce line observed at 111.78 keV         
+234PA2cG with Ice=3.4 {I14} was assigned by 1973Go40 to L1(132.9|g);            
+234PA3cG however, the ce line observed at 112 keV was assigned by               
+234PA4cG 1963Bj02 to {+234}Pa g.s. decay (ce(K) 227.25|g).                      
+234PA cG           I|g(132.9|g)=0.19 {I6}, if it is an M2 transition, as        
+234PA2cG suggested by 1973Go40.                                                 
+234PA  G 184.8        2      1                                                  
+234PA cG RI        from 1965Fo09. No intensity is given by 1973Go40, and this   
+234PA2cG transition was not observed by 1978Ch06.                               
+234PA  L 0.0         4+                6.70 H    5                              
+234PA  L 73.92     2  (3+)                                                      
+234PA  G 73.92     2  2.6    2 (M1+E2)   0.11    3     10.6   4             *   
+234PAS G LC=7.96 25$MC=1.94 7$NC+=0.669 23                                      
+234PAS G NC=0.520 18$OC=0.124 4$PC=0.0235 7$QC=0.00185 3                        
+234PA cG           Ice(L1)=13.2 {I3}; L1:L2:M1=132 {I3}:21 {I2}:42 {I2}.        
+234PA  L 73.92+X     (0-)              1.159 M   16                          M1 
+234PA  B 198.5     15 78     2             6.4                                  
+234PAS B EAV=53.6 9                                                             
+234PA  G 10        LT                                                          S
+234PA3 G FL=73.92                                                               
+234PA cG E         transition was not observed. Energy of this expected         
+234PA2cG transition was deduced by 1973Go40 from nonobservation of its          
+234PA3cG conversion electrons. Their detection limit was 6 keV, and             
+234PA4cG if there were conversion lines belonging to this transition in the     
+234PA5cG 6 keV<E<10 keV energy range, they would have been obscured by intense  
+234PA6cG Auger and Coster-Kronig electrons.                                     
+234PA cG           I(|g+ce)(<10|g)=I(|g+ce)(73.92|g deexciting the 73.92        
+234PA2cG level). If there is no other transition deexciting the 1.159-min       
+234PA3cG isomeric level, then I(|g+ce)(<10-keV |g)=I(|g+ce)(1.159-min           
+234PA4cG isomeric-decay branch)=0.16% {I4}.                                     
+234PA  L 103.42+X    (2-)              0.5 NS    LT                             
+234PA cL T$(63|g)(L x-rays)(t) (1958Va34)                                       
+234PA  G 29.49     2  0.24   2 E2                      4.40E3                C  
+234PAS G LC=3.22E+3 5$MC=882 13$NC+=299 5                                       
+234PAS G NC=237 4$OC=53.4 8$PC=8.54 13$QC=0.01691 25                            
+234PA cG RI        calculated by the evaluator from Ice(L3) and                 
+234PA2cG theoretical conversion coefficient (BRICC) of lc3=1565 {I23}.          
+234PA cG           Ice(L3)=353 {I35}; L2:L3:M1:M2:M3:(N2+N3):O=                 
+234PA2cG 341 {I35}:353 {I35}:3.8 {I20}:97.5 {I70}:97.5 {I70}:59 {I10}:24 {I7}.  
+234PA  L 166.30+X    (1-)              0.1 NS    LE                             
+234PA cL T$(100|b)(93|g)(t) (1964Ab04)                                          
+234PA  B              14     2             6.4                                  
+234PAS B EAV=27.8 9                                                             
+234PA  G 62.86     2  3.2    5 M1+E2     0.33    8     25     5              C  
+234PAS G LC=19 4$MC=4.8 9$NC+=1.7 3                                             
+234PAS G NC=1.30 24$OC=0.30 6$PC=0.054 9$QC=0.00277 12                          
+234PA cG E         62.97 {I9} was measured by 1973Ta25.                         
+234PA cG RI        I|g(62.86|g+63.29|g)=736; I|g(62.86|g)=3.2 {I5} from         
+234PA2cG Ice(L)'s and L-subshell conversion coefficients.                       
+234PA cG           Ice(L3)=10.6 {I9}; L1:L2:L3:M1:M2:M3:N1:N2=                  
+234PA2cG 28 {I3}:20 {I1}:10.6 {I9}:6.4 {I5}:4.0 {I9}:4.0 {I3}:2.1 {I6}:1.9 {I6}.
+234PA  G 92.38     1  426    22M1                      5.27                     
+234PA3 G FL=73.92+X                                                             
+234PAS G LC=3.98 6$MC=0.960 14$NC+=0.332 5                                      
+234PAS G NC=0.257 4$OC=0.0618 9$PC=0.01180 17$QC=0.000977 14                    
+234PA cG           E|g=92.367 {I5} (1973Sa33), 92.47 {I8} (1973Ta25).           
+234PA cG RI        I|g(92.38|g+92.80|g)=846 {I43}; I|g(92.38|g)=426 {I22} from  
+234PA2cG I|g(92.38|g)/I|g(92.80|g)=50.3 {I7}/49.7 {I7}, as measured by 1973Sa33 
+234PA3cG (contribution from K|a{-1}| x ray of thorium was removed)              
+234PA cG           Ice(L1)=1504 {I2}; L1:L2:L3:M1:M2:N1:O1:P1=                  
+234PA2cG 1504 {I2}:|<184 {I2}:10 {I3}:386 {I5}:48 {I2}:115 {I1}:24 {I5}:7 {I2}. 
+234PA  L 166.72+X    (1+)              0.55 NS   10                             
+234PA cL T$(100|b)(63|g)(t) (1964Ab04). Other measurement: 1958Va34             
+234PA  B              6.4    9             6.7                                  
+234PAS B EAV=27.7 9                                                             
+234PA  G 63.29     2  733    51E1                      0.405                 C  
+234PAS G LC=0.305 5$MC=0.0750 11$NC+=0.0250 4                                   
+234PAS G NC=0.0197 3$OC=0.00447 7$PC=0.000737 11$QC=3.14E-5 5                   
+234PA cG RI$from I|g(62.86|g+63.29|g)=736 and I|g(62.86|g)=3.2 {I5}.            
+234PA cG E         63.282 {I2} (1973Sa33), 63.35 {I9} (1973Ta25).               
+234PA cG           Ice(L1)=70 {I6}; L1:L2:L3:M1:M2:M3:M4:M5:N1:N2:N3:O=         
+234PA2cG 70 {I6}:57 {I1}:62 {I2}:19 {I4}:19 {I4}:15 {I4}:1.3 {I7}:1.3 {I7}:5.1  
+234PA3cG {I11}:3.8 {I10}:4.0 {I10}:3.8 {I10}. |DI|g=51, estimated by evaluators.
+234PA  G 92.80     2  420    22E1                      0.1472                   
+234PAS G LC=0.1110 16$MC=0.0271 4$NC+=0.00910 13                                
+234PAS G NC=0.00716 10$OC=0.001643 23$PC=0.000281 4$QC=1.370E-5 20              
+234PA cG RI        see comment for I|g(92.38|g).                                
+234PA cG E         92.792 {I5} (1973Sa33), 92.82 {I8} (1973Ta25).               
+234PA cG           Ice(L1)=34 {I4}; L1:L2:L3=34 {I4}:17 {I3}:13 {I10}.          
+234PA  L 177.27+X     (1-)                                                     ?
+234PA  B             0.015   5             9.2                                 ?
+234PAS B EAV=24.8 8                                                             
+234PA  G 73.92                                                              *  ?
+234PA  G 103.35    10 0.63   19[M1]                    3.81                     
+234PAS G LC=2.87 5$MC=0.693 10$NC+=0.240 4                                      
+234PAS G NC=0.186 3$OC=0.0446 7$PC=0.00853 13$QC=0.000706 10                    
+234PA cG           The photon peak was assumed by 1973Go40 to be a doublet from 
+234PA2cG observed ce lines assigned as L1 lines.                                
+234PA cG RI        calculated from Ice(L1) and |a(L1)(M1 theory)=2.55 {I4}      
+234PA2cG (BRICC). I|g(103.35|g+103.71|g)=1.31 {I10} was measured by 1973Go40 and
+234PA3cG I|g(103.5|g)=0.8 {I1} was given by 1978Ch06.                           
+234PA cG           Ice(L1 103.35|g)=1.6 {I5}.                                   
+234PA  L 186.73+X     (1+)                                                      
+234PA  B              1.5    7             7.0                                  
+234PAS B EAV=22.3 8                                                             
+234PA  G 20.02     2  1.0    4 M1+E2     0.08    2     2.4E2  7                 
+234PAS G LC=7.E1 4$MC=124 21$NC+=43 7                                           
+234PAS G NC=33 6$OC=7.8 13$PC=1.42 20$QC=0.0885 13                              
+234PA cG RI        calculated by the evaluators from measured Ice(M)'s and      
+234PA2cG M-subshell conversion coefficients.                                    
+234PA cG           Ice(M1)=107 {I4}; M1:M2:M3:N1:N2:N3:O1=                      
+234PA2cG 107 {I4}:47 {I2}:26 {I5}:32 {I5}:13 {I3}:12 {I3}:10 {I3}.              
+234PA  G 83.30     5  12.0   6 [E1]                    0.196                    
+234PAS G LC=0.1475 21$MC=0.0361 5$NC+=0.01208 17                                
+234PAS G NC=0.00952 14$OC=0.00218 3$PC=0.000369 6$QC=1.735E-5 25                
+234PA  G 112.81    5  42     3   [E1]                   0.23  14                
+234PAS G KC LE 0.29 $ LC=0.0674 $ MC=0.01636 $ NC+=0.00581                      
+234PA cG CC        limit on |a(K) has been obtained by the evaluators from      
+234PA2cG extrapolation of |a(K)'s for E|g|>113.6 keV. The K-binding energy for  
+234PA3cG protactinium is 112.6 keV; therefore, a large uncertainty on the       
+234PA4cG total conversion coefficient is given to reflect the uncertainty       
+234PA5cG of the |a(K) value.                                                    
+
+234PA    234PA IT DECAY (1.159 M)                                07NDS    200704
+234PA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108, 681 (2007)$             
+234PA2 H CUT=1-Jun-2006$                                                        
+234PA D  Modified by E. Browne (July 28, 2006).                                 
+234PA c  Isomeric decay branching of 0.16 {I4} has been obtained by the         
+234PA2c  evaluators from the intensity of 131-keV |g following the 6.70-h       
+234PA3c  {+234}Pa |b{+-} decay (I|g=18.0% {I18}) and its intensity of           
+234PA4c  0.0286 {I4} per 100 {+234}Th decays, measured on an absolute scale     
+234PA5c  by 1990Sc09 in equilibrium with the grandparent nucleus {+238}U;       
+234PA6c  its uncertainty has been increased because of the diversity of         
+234PA7c  values for the branching obtained by various methods.                  
+234PA c  Branching(IT)=0.13% {I3} in 1963Bj02 was deduced by comparing Ice's,   
+234PA2c  I|g's, and |b{+-} disintegration rates from 6.70-h {+234}Pa following  
+234PA3c  1.159-min {+234}Pa decay with those following a pure 6.70-h            
+234PA4c  {+234}Pa source. The transition intensity of 73.92|g following         
+234PA5c  {+234}Th decay yields 0.19 {I5} when the photon intensities of         
+234PA6c  1978Ch06 are used, and 0.13 {I2} when the intensities measured         
+234PA7c  by 1973Go40 are used. Other deduced branching ratios are:              
+234PA8c  %IT=0.150 {I25} (1938Fe02), 0.12 (1945Br05), 0.63 (1954Zi02),          
+234PA9c  0.18 {I2} (1960Fo15).                                                  
+234PA  P 73.92+X     (0-)              1.159 M   16                             
+234PA  N              1.0      0.0016  4                                        
+234PA PN                                                                     3  
+234PA  L 0.0         4+                6.70 H    5                              
+234PA  L 73.92     2 (3+)                                                       
+234PA  G 73.92     2           (M1+E2)    0.11   3      11.2  3  100            
+234PAS G L/T=0.692$M/T=0.168$N+/T=0.066                                         
+234PAS G LC=8.44 22 $ MC=2.05 7 $ NC+=0.753 23                                  
+234PA cG E         given in 1973Go40 (s ce). Other measurements: 1963Bj02,      
+234PA2cG 1962Fo11.                                                              
+234PA cG M         from {+234}Th |b{+-} decay.                                  
+234PA cG           Ice(L)/I(2290|b of 1.159-min {+234}Pa)=0.10/98 (1963Bj02).   
+234PA  L 73.92+X     (0-)              1.159 M   16                          M1 
+234PA  G 10        LT                                                          S
+234PA3 G FL=73.92                                                               
+234PA cG           Transition was not observed. Its energy was deduced from     
+234PA2cG the limit on experimental detection (1973Go40).                        
+234PA3cG See {+234}Th |b{+-} decay.                                             
+

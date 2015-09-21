@@ -1,0 +1,30 @@
+210PO    210BI B- DECAY (5.012 D)                                03NDS    200307
+210PO  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 99, 649 (2003)$CUT=1-Jun-2002$           
+210PO D  MODIFIED BY E. BROWNE (MARCH 1991).                                    
+210PO cB           L{-|a} x ray/L{-|b} x ray/L{-|g} x ray                       
+210PO2cB exp={ 2.41 {I19}}/{ 2.37 {I19}}/{ 0.44 {I4}}; L| x ray/Xb-             
+210POxcB exp={ 5.1|*10{+-4} {I5}}, from L-shell autoionization in |b{+-} decay  
+210POxcB (1977Sc01). Other: 1954Bo01.                                           
+210PO cB           1971Be01 measured internal bremsstrahlung (IBS) at           
+210PO2cB 7 angles (|q=15 \|' to 120 \|')                                        
+210PO3cB via (|b)-(IBS) coin. Others: 1966Mu08, 1969Fl02, 1983El09.             
+210BI  P 0.0         1-                5.012 D   5              1162.1    8     
+210PO  N                       1.0       1.0                                    
+210PO  L 0.0         0+                138.376 D 2                              
+210PO  B 1161.5    15 100                8.0                                    
+210POS B EAV=   389.0  4$                                                       
+210PO cB E         from 1967Hs01; F-K, shape factor analyses; s, semi detector. 
+210PO2cB Other values: { 1155 {I5}} (1954Pl30), { 1160.5 {I5}} (1962Da03);      
+210PO3cB { 1162.1 {I8}} (1995Au04).                                             
+210PO4cB see also 1939Fl02, 1940Ne04, 1949La06, 1953Ba80, 1955Li02, 1969Fl02.   
+210PO cB           Measured longitudinal pol (-V/C)={ 0.718 {I24}} for          
+210PO2cB E|b={ 900 keV} (1977Po08); pol(-V/C)={ 0.70 {I7}}, { 0.70 {I5}},       
+210PO3cB { 0.71 {I5}} for E|b=150-, 220- and { 300 keV}, respectively           
+210PO4cB (1980Ri07). Others: 1958Ge34, 1958Bu09, 1959Al01, 1959We31, 1961Ul01,  
+210POxcB 1964Sc11, 1965Cu04.                                                    
+210PO cB           |b shape factor and longitudinal pol data of others          
+210PO2cB analyzed (1974Be23)                                                    
+210PO cB           |b anisotropy via pol {+210}Bi decay studied (1973NaYV)      
+210PO cB           |b transition proceeds from configuration={ ((|p 1h{-9/2})(|n
+210PO2cB \ 2g{-9/2}))} to configuration={ (|p 1h{-9/2}){+2}} predominantly      
+

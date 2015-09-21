@@ -1,0 +1,10 @@
+<map id="read_ensdf_decay_file" name="read_ensdf_decay_file">
+<area shape="rect" id="node2" href="$iostuff_8f90.html#af759d00c9a49b8f430c17756db8dabbb" title="Opens external file including error handling. " alt="" coords="259,5,335,32"/>
+<area shape="rect" id="node3" href="$ensdf_8f90.html#aef08c69b5333de28d12cb2d80f47c453" title="Reads ENSDF Identification record. " alt="" coords="239,56,356,83"/>
+<area shape="rect" id="node5" href="$ensdf_8f90.html#a662ffe3f9b4e9e979d1923db6ed6747e" title="Reads ENSDF Parent record. " alt="" coords="240,107,355,133"/>
+<area shape="rect" id="node7" href="$ensdf_8f90.html#a7dbd2855a294788264321f83bb6ed0d2" title="Reads ENSDF Normalization record. " alt="" coords="240,157,355,184"/>
+<area shape="rect" id="node8" href="$ensdf_8f90.html#a6d91f3b61ac11d378e6bda9af255ae44" title="Reads ENSDF Alpha record. " alt="" coords="240,208,355,235"/>
+<area shape="rect" id="node9" href="$ensdf_8f90.html#a649d449decd0afde48a0a49911c27617" title="Appends alpha level to a variable of type abra (alpha decay branch) " alt="" coords="209,259,385,285"/>
+<area shape="rect" id="node4" href="$ensdf_8f90.html#ac85c1610cf6186365e8b9104254d54a0" title="Converts all alphanumeric characters in the string to upper case. " alt="" coords="485,56,551,83"/>
+<area shape="rect" id="node6" href="$ensdf_8f90.html#ab4961a9932af3496daa4d38479bd89b0" title="Removes +X from E entries in ENSDF record. " alt="" coords="433,107,603,133"/>
+</map>

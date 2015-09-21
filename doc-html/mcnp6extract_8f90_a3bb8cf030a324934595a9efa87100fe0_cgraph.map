@@ -1,0 +1,4 @@
+<map id="get_inputs" name="get_inputs">
+<area shape="rect" id="node2" href="$iostuff_8f90.html#ad77856a6e12b6bafdb9db600d0a26385" title="Subroutine that extracts inputfile name from commnad line. " alt="" coords="137,5,265,47"/>
+<area shape="rect" id="node3" href="$iostuff_8f90.html#af759d00c9a49b8f430c17756db8dabbb" title="Opens external file including error handling. " alt="" coords="163,71,239,98"/>
+</map>

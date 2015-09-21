@@ -1,0 +1,25 @@
+!
+! input file for argon39 code
+! Ondřej Šrámek, Charles University in Prague, ondrej.sramek@gmail.com, 2015
+!
+&inputs
+        model_name          = "WK14OCpub",
+
+        input_directory     = "../inputdata",
+        file_abundances     = "elem_wtfrac_WK14OC+C",
+        file_atomic_mass    = "atom_wt_nist_full.94",
+        file_decay_chains   = "decay.chains",
+        file_stopping_power = "srim_tot_RG03MC_13ThU",
+        file_an_targets     = "targets_tendl-2012-F.an",
+
+        which_an_calc       = 2,            !! 1=local(kinematic), 2=talys
+        local_directory     = "../localxs",
+        talys_directory     = "../talysxs",
+
+        rock_density        = 2.83,  !CRUST2.0 average density in layers 3-7
+
+        dEtalys = 0.1,
+        dEan = 0.01,
+        mcnp6_accu = 0.005,
+        mcnp6_radcm = 300.,
+/

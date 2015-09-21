@@ -1,0 +1,227 @@
+231TH    235U A DECAY                                            01NDS    200110
+231TH  H TYP=MOD$AUT=T.W. Burrows$DAT=9-AUG-2002$                               
+231TH2 H COM=Added assumed MULT(19.6G). Reran HSICC. ADDED CC(64G)              
+231TH  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 986 (2001)$CUT=1-May-2001$           
+231TH D  MODIFIED A HINDRANCE FACTORS (E. BROWNE, JULY 2000).                   
+231TH D  New reference (1999Yu01) included (E. Browne, July 2000).              
+231TH D  Modified by E. Browne (June 2001)                                      
+235U   P 0           7/2-              703.8E+6 Y 5             4678.7    7     
+231TH  N 1.00      1  1.0      1.0                                              
+231TH PN                                                                     3  
+231TH cN NR        from 1982Va04 (|g's per |a). Others: 1956Ma01, 1962Pi06      
+231TH cA HF        Using r{-0}({+231}Th)=1.524, average of                      
+231TH2cA r{-0}({+230}Th)=1.5216 {I5} and r{-0}({+232}Th)=1.527 {I3} (1998Ak04). 
+231TH cA E(R)      From 1991Ry01                                                
+231TH cG           K| x ray=11% (1962Pi06), L| x ray studied (1975Va11,1990Po14)
+231TH cG           K| x ray=9.0 {I5}, L| x ray=46 {I6} MEDLIST calc (1976MaZW)  
+231THxcG from decay scheme                                                      
+231TH cL J         From adopted levels                                          
+231TH cL T         From 1959St49                                                
+231TH cA E         From 1971Ar48, 1975Va11, except as noted                     
+231TH cA IA        From 1975Va11, 1971Ar48, except as noted from intensity      
+231THxcA balance                                                                
+231TH cA IA(B)$From intensity balance                                           
+231TH cG           For coincidence results, see 1974Te03, 1975Va11, 1999Yu01;   
+231TH2cG |a|g(|q) (1958Fi10).                                                   
+231TH cG E,RI$From 1986LoZT, unless otherwise specified. Others: 1974HeYW,      
+231TH2cG 1971KrZH.                                                              
+231TH cG E(A),RI(A)$From 1977Ba72.                                              
+231TH cG E(B),RI(B)$From 1975Va11.                                              
+231TH cG E(C),RI(C)$From 1974Te03                                               
+231TH cG M$From adopted gammas                                                  
+231TH cG E(X)      Unobserved but expected |g ray.                              
+231TH  G 73.72     5  0.01   AP                                             A   
+231TH  G 251.5     1  0.04   LE                                             A   
+231TH  G 279.50    5  0.27   AP                                             A   
+231TH  G 310.69    6  0.005  AP                                             B   
+231TH  G 325.80    10 0.004  AP                                             A   
+231TH  G 433.0     5  0.004  AP                                             A   
+231TH  G 455.1     1  0.008  AP                                             B   
+231TH  G 517.2        0.0004 AP                                             B   
+231TH  G 742.5     2  0.0004 AP                                             B   
+231TH cG           Uncertain |g ray                                             
+231TH  G 794.7     1  0.0006 AP                                             B   
+231TH cG           Uncertain |g ray                                             
+231TH  L 0             5/2+                                                     
+231TH  A 4596.4    13 5.0    5  2.34E3                                      R   
+231TH  L 42.0          7/2+                                                     
+231TH  A 4556      2  4.2    3 1.37E3                                           
+231TH  G 41.96     15 0.06   1     M1+E2  1.2    3       450  80 27       2     
+231TH cG TI        from intensity balance                                       
+231TH cG M,MR      from I(|g+ce) and I|g                                        
+231THB G L/T=0.80 5$ M+/T=0.2                                                   
+231TH  L 96.1          9/2+                                                     
+231TH  A 4502      2  1.7    2 1.34E3                                           
+231TH  G 54.25     5  0.03   LE   [M1+E2] 0.4    SY      49.9    1.5      LEA   
+231THS G L/T=0.724 $M/T=0.1878 $N/T=0.0690                                      
+231TH cG TI        from intensity balance                                       
+231TH  G 96.09     2  0.091  12   [E2]                  13.9                C   
+231THS G LC=10.08 $MC=2.77 $NC+=1.028                                           
+231TH  L 162.0        11/2+                                                     
+231TH  A 4435      5  0.7    AP1.0E3                                            
+231TH  G 120.35    5  0.026  AP   [E2]                   5.14    0.16     APA   
+231THB G K/T=0.0424 $L/T=0.577 $M/T=0.1586 $N/T=0.0590                          
+231TH cG RI        from intensity balance I|g|?0.14                             
+231TH cG TI        from intensity balance                                       
+231TH  L 185.7         5/2-            0.77 NS   12                             
+231TH  A 4414      4  2.1    2 226                                              
+231TH  G 143.76    2  10.96  8     E1                   0.210                   
+231TH cG RI$10.9 {I2} (1996Ru11).                                               
+231THS G KC=0.1635 $LC=0.0349 $MC=0.00839 $NC+=0.00298                          
+231TH  G 185.715   5  57.2   5   E1                     0.114                   
+231THS G KC=0.0895 $LC=0.01813 $MC=0.00436 $NC+=0.00154                         
+231TH  L 205.3         7/2-                                                     
+231TH  A 4397.8    13 55     3  6.1                                         R   
+231TH  G 19.59                 [M1,E2]                 1.0E+4 10 61       3 B   
+231TH cG           Seen in |a|g coincidence measurement (1975Va11).             
+231TH cG TI        from intensity balance at 185, 205 levels. Other value:      
+231TH2cG 90 {I6} (1999Yu01), is inconsistent with transition intensity balance. 
+231THS G L/T=0.30 28$M/T=0.52 21                                                
+231TH  G 109.16    2  1.54   5    [E1]                  0.0946                  
+231TH cG RI$1.80 {I6} (1996Ru11).                                               
+231THS G LC=0.0712 $MC=0.01723 $NC+=0.00611                                     
+231TH  G 163.33    2  5.08   4    (E1)                  0.155                   
+231TH cG RI$5.09 {I5} (1996Ru11).                                               
+231THS G KC=0.1214 $LC=0.0251 $MC=0.00605 $NC+=0.00214                          
+231TH  G 205.311   10 5.01   5    (E1)                  0.090                   
+231TH cG RI$5.04 {I5} (1996Ru11).                                               
+231THS G KC=0.0708 $LC=0.01410 $MC=0.00339 $NC+=0.00120                         
+231TH  L 221.4         3/2+                                                     
+231TH  A              0.31   LT806     GT                                   B  ?
+231TH  G 221.38    2  0.12   1     M1                   2.08                    
+231THS G KC=1.659 $LC=0.314 $MC=0.0755 $NC+=0.0275                              
+231TH  L 236.9         9/2-                                                     
+231TH  A 4366.1    20 17     2 11                                           R   
+231TH  G 31.60     5  0.017  5    [M1+E2] 0.5    AP      682  AP            C   
+231THS G LC AP 503$ MC AP 134.3                                                 
+231TH cG MR        estimated from intensity balance                             
+231TH  G 51.22     10 0.034   7   [E2]                   280                B   
+231THS G LC=203.9 $MC=55.6 $NC+=20.53                                           
+231TH  G 75.02     5  0.06   1    [E1]                  0.255                   
+231THS G LC=0.1920 $MC=0.0468 $NC+=0.01625                                      
+231TH  G 140.76    4  0.22   2    [E1]                  0.221                   
+231THS G KC=0.1718 $LC=0.0368 $MC=0.00886 $NC+=0.00315                          
+231TH  G 194.94    1  0.63   1    [E1]                  0.101                   
+231TH cG RI$0.61 {I2} (1996Ru11).                                               
+231THS G KC=0.0799 $LC=0.01605 $MC=0.00386 $NC+=0.00137                         
+231TH  L 240.8         5/2+                                                     
+231TH  A              0.24   7 733                                          B   
+231TH  G 198.90    2  0.042  6     M1                    2.80                   
+231THS G KC=2.233 $LC=0.425 $MC=0.1021 $NC+=0.0373                              
+231TH  G 240.87    3  0.075  6   M1(+E2)  0.3    3       1.53 24                
+231THS G KC=1.21 22 $LC=0.241 14 $MC=0.0585 24 $NC+=0.0213  9                   
+231TH  L 275.2         7/2+                                                     
+231TH  A              0.21   4 447                                          B   
+231TH  G 34.7      1  0.037  AP   [M1]                   89.1               A  ?
+231THS G LC=67.5 $MC=16.24                                                      
+231TH  G 54.1      1  0.002  LT   [E2]                  215     0.37      LEB  ?
+231THS G LC=156.3 $MC=42.7 $NC+=15.73                                           
+231TH cG RI$from intensity balance at 221.4 level                               
+231TH  G 233.50    3  0.029  5     M1                   1.79                    
+231THS G KC=1.431 $LC=0.270 $MC=0.0650 $NC+=0.02367                             
+231TH  G 275.43    10 0.007  2   M1(+E2)   0.25  25      1.08 13            B   
+231THS G KC=0.86 12 $LC=0.166 10 $MC=0.0402 20 $NC+=0.0146  7                   
+231TH cG RI$from (n,|g). For the 275-keV doublet I|g=0.052 {I5}                 
+231TH  L 278.0        (11/2-)                                                   
+231TH  A              4.4    5  20                                              
+231TH cA IA        measured group to 275-, 278-keV levels is I|a=4.6 {I5}       
+231TH  G 41.4      3  0.03   2    [M1]                   52.8                   
+231THS G LC=40.0 $MC=9.64                                                       
+231TH  G 72.7      2  0.11   AP   [E2]                   51.8                   
+231THS G LC=37.7 $MC=10.33 $NC+=3.81                                            
+231TH cG RI        from intensity balance I|g=0.065                             
+231TH  G 115.45    5  0.03   1    [E1]                  0.356               B   
+231THS G KC=0.274 $LC=0.0615 $MC=0.01487 $NC+=0.00528                           
+231TH  G 182.1                                                              B  ?
+231TH  L 301.740   10 (5/2)+                                                    
+231TH  A 4295      AP 0.009  AP 6400                                            
+231TH  G 301.7     1  0.005  AP    M1                   0.878               B   
+231THS G KC=0.703 $LC=0.1322 $MC=0.0318 $NC+=0.01156                            
+231TH  L 317.1         5/2+                                                     
+231TH  A              0.1    AP 430    AP                                       
+231TH cA IA$from intensity balance                                              
+231TH  G 76.198    4   0.008  1                                                S
+231TH cG E,RI$from Adopted Gammas                                               
+231TH  G 95.7                                                                   
+231TH cG E$from 1975Va11.                                                       
+231TH  G 275.129      0.052  5  M1+E2    0.6     1       0.89  6            C   
+231THS G KC=0.69  6 $LC=0.152  5 $MC=0.0374  9 $NC+=0.0136  4                   
+231TH cG           From (n,|g)                                                  
+231TH  G 317.10    8  0.001  AP    M1                   0.766               B   
+231THS G KC=0.613 $LC=0.1153 $MC=0.0277 $NC+=0.01007                            
+231TH  L 324.9        (9/2)+                                                    
+231TH  A              0.033  113E3                                          B   
+231TH  G 228.78    5  0.007        M1                   1.90                B   
+231THS G KC=1.515 $LC=0.286 $MC=0.0689 $NC+=0.0251                              
+231TH  G 282.92    5  0.006  AP   [M1]                  1.05                B   
+231THS G KC=0.839 $LC=0.1580 $MC=0.0380 $NC+=0.01382                            
+231TH  L 331         (13/2-)                                                    
+231TH  A 4271      5  0.4    AP83                                               
+231TH  G 94        5                                                        X  S
+231TH2 G FL=236.9                                                               
+231TH  L 377.5        (7/2+)                                                    
+231TH  A 4219      6  0.9    AP15                                              ?
+231TH cA IA        inconsistent with adopted decay scheme (I|a|?0.11).          
+231TH  G 60.5                                                               X  S
+231TH cG E         from level energies difference.                              
+231TH  G 136.55    5  0.012  AP   [M1]                   8.13               A   
+231THS G KC=6.48 $LC=1.238 $MC=0.298 $NC+=0.1096                                
+231TH  G 173.3     10 0.006  5    [E1]                  0.134               B   
+231THS G KC=0.1054 $LC=0.02160 $MC=0.00520 $NC+=0.00184                         
+231TH  G 281.42    5  0.006  AP    M1                   1.06                B   
+231THS G KC=0.851 $LC=0.1604 $MC=0.0386 $NC+=0.01403                            
+231TH  L 385.7        (11/2+)                                                   
+231TH  A              0.017  2 696                                              
+231TH  G 289.56    4  0.007  AP   [M1]                  0.983               B   
+231THS G KC=0.787 $LC=0.1482 $MC=0.0357 $NC+=0.01296                            
+231TH  G 343.5     2  0.003  AP                                             B   
+231TH  L 387.8         7/2-                                                     
+231TH  A 4214.7    19 5.7    6  2.0                                         R   
+231TH  G 147.0                                                              B  ?
+231TH  G 150.93    2  0.08   1    [M1]                   6.11                   
+231THS G KC=4.87 $LC=0.930 $MC=0.2235 $NC+=0.0821                               
+231TH  G 182.61    5  0.34   2    [M1]                   3.56                   
+231TH cG RI$0.43 {I5} (1996Ru11).                                               
+231THS G KC=2.84 $LC=0.541 $MC=0.1300 $NC+=0.0476                               
+231TH  G 202.11    2  1.08   2    [M1]                   2.67                   
+231TH cG RI$1.06 {I4} (1996Ru11).                                               
+231THS G KC=2.136 $LC=0.406 $MC=0.0976 $NC+=0.0356                              
+231TH  G 291.65    3  0.040  5    [E1]                  0.040               C   
+231THS G KC=0.0320 $LC=0.00602 $MC=0.00144 $NC+=0.00051                         
+231TH cG RI        1977Ba72 report I|g=0.096                                    
+231TH  G 345.90    3  0.040  5    [E1]                  0.0274              C   
+231THS G KC=0.02203 $LC=0.00405 $MC=0.00097 $NC+=0.00034                        
+231TH  G 387.82    3  0.040  5    [E1]                 0.0214               C   
+231THS G KC=0.01729 $LC=0.00313 $MC=0.00075 $NC+=0.00027                        
+231TH  L 452.2         9/2-                                                     
+231TH  A 4150      5  0.9    2 3.6                                              
+231TH  G 64.35     2              [M1+E2]              5E1    4 0.65      25X  S
+231TH cG CC$assumed 50% mixing                                                  
+231THS G L/T=0.736 $M/T=0.212 $N/T=0.089                                        
+231TH cG TI        calc from intensity balance                                  
+231TH  G 215.28    3  0.029  3    [M1]                  2.24                B   
+231THS G KC=1.793 $LC=0.340 $MC=0.0817 $NC+=0.0298                              
+231TH  G 246.84    4  0.053  3    [M1]                  1.53                    
+231THS G KC=1.226 $LC=0.2312 $MC=0.0557 $NC+=0.02025                            
+231TH  G 266.45    5  0.006  2    [E2]                  0.250               C   
+231THS G KC=0.0934 $LC=0.1140 $MC=0.0308 $NC+=0.01138                           
+231TH  G 291.2                                                              B   
+231TH2 G FL=162.0                                                               
+231TH  G 356.03    5  0.005  AP   [E1]                  0.0257              B   
+231THS G KC=0.02071 $LC=0.00380 $MC=0.00091 $NC+=0.00032                        
+231TH  G 410.29    4  0.003  AP   [E1]                 0.0190               B   
+231THS G KC=0.01538 $LC=0.00277 $MC=0.00066 $NC+=0.00024                        
+231TH  L 531.0        (11/2-)                                                   
+231TH  A             0.02    AP 34                                              
+231TH cA IA        from intensity balance                                       
+231TH  G 142.40    5  0.005  AP   [E2]                   2.53               A   
+231TH2 G FL=387.8                                                               
+231THS G KC=0.257 $LC=1.654 $MC=0.453 $NC+=0.1682                               
+231TH  L 634.0        7/2-                                                      
+231TH  A              0.001  AP 83                                              
+231TH cA IA$from intensity balance                                              
+231TH  G 428.71    4  0.001  AP                                                S
+231TH cG E,RI$from Adopted Gammas                                               
+231TH  G 448.40    6  0.001  AP                                             B   
+231TH cG           Placement based on (n,|g).                                   
+

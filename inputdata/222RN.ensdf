@@ -1,0 +1,109 @@
+222RN    226RA A DECAY                                           11NDS    201111
+222RN  H TYP=FUL$AUT=Sukhjeet Singh, A. K. Jain, Jagdish K. Tuli$               
+222RN2 H CIT=NDS 112,2851 (2011)$CUT=31-Mar-2011$                               
+222RN c  E|a(g.s.)=4784.34 {I25} gives Q(|a)({+226}Ra)=4870.54 {I25}; from      
+222RN2c  their mass adjustment, 2003Au03, 2011AuZZ recommend                    
+222RN3c  Q(|a)({+226}Ra)=4870.62 {I25}; the input value is listed as            
+222RNxc  Q(|a)=4870.70 {I25}.                                                   
+222RN t  |a|g(|q): 1989Po03                                                     
+222RN2t                    E|g       E(level)     deduced J|p    rejected spins 
+222RN3t                 --------    --------     -----------    --------------  
+222RN4t                   262         448             4+        0, 1, 2, 3      
+222RN5t                   414         601             1-        2, 3            
+222RN6t                   601         601             1-        2, 3            
+222RN7t                   449         635             3-        0, 1, 2, 4      
+222RN8t                                                                         
+222RN9t            Other |a|g(|q) measurements: 1954Ro06, 1954Mi53.             
+222RN2t                                                                         
+222RN t  (|a)(|a)(|q):                                                          
+222RN2t  ({+226}Ra a)({+222}Rn a)(|q): 1968Bi08 observed isotropic correlation. 
+222RN t  |a|g(|q,H):     see 1970Or02, 1974Or02.                                
+222RN2t                                                                         
+222RN t  |a|g(t): T{-1/2}(186 level)=0.32 ns {I2} (1960Be25).                   
+222RN c  See 1994Da26 for Bremsstrahlung emission accompanying the {+226}Ra |a  
+222RNxc  decay                                                                  
+222RN cA $See 1992De44, 1987Be43, 1986Ch36, 1977Ba70, 1996De19 for theoretical  
+222RN2cA calculations of |a-decay widths.                                       
+222RN cA E$From 1963Ba62, except where otherwise noted. Other                   
+222RN2cA measurements: 1958Wa16, 1953Ba29, 1949Ro08.                            
+222RN cA IA $|a intensity per 100 |a decays; I|a's are from 1963Ba62. The       
+222RN2cA uncertainties on 4784.34|a and 4601|a are given as recommended by      
+222RNxcA 1991Ry01.                                                              
+222RN cA HF$HF(4784|a)=1.0 gives r{-0}({+222}Rn)=1.5397 {I3}.                   
+222RN cG $|g|g: 1971Lo19.                                                       
+222RN2cG For calculated alpha decay life time see 2005Sh42, 2006Xu04, 2007Pe30, 
+222RN3cG 2009Ni06, 2009De32                                                     
+222RN cG E $From 1971Lo19, except where noted otherwise. Other                  
+222RN2cG measurements: 1960St20, 1956Ha71.                                      
+226RA  P 0.0          0+               1600 Y    7              4870.62   25    
+222RN  N 1.0                   1.0                                              
+222RN PN                                                                     2  
+222RN  L 0.0          0+                                                        
+222RN  A 4784.34   25 93.84  11 1.0                                             
+222RN cA E $from 1971Gr17. The original energy has been decreased by            
+222RN2cA 0.16 keV, as recommended by 1991Ry01. Other measurements 1996Wi27.     
+222RN3cA I(|a) from 2007Ne01                                                    
+222RN  L 186.211   13 2+                 0.32 NS 2                              
+222RN  A 4601      1  6.16   3  0.857   6                                       
+222RN cA E$the original energy has been increased by 3 keV, as                  
+222RN2cA recommended by 1991Ry01, because of a change in the calibration energy.
+222RN3cA I(|a) from 2007Ne01                                                    
+222RN4cA E|a=4601.7 {I2} was recommended by 1983Co22 and 1987El01 from          
+222RN5cA measurements of 1958Wa16. E|a=4601.43 {I26} from E|a(g.s.)=4784.34     
+222RNxcA {I25} and E(level).                                                    
+222RN  G 186.211   13 3.64   4  E2                     0.693                    
+222RNS G KC=0.193 $ LC=0.367 $ MC=0.0977 $ NC+=0.0340                           
+222RN cG E $from 1993Di09 and 1977Zo01. Other measured energies:                
+222RN2cG 186.0 {I1} (1969Li10), 185.97 {I5} (1971Lo19), 186.196 {I12}           
+222RN3cG (1974AlZT), 185.8 {I2} (1975Ha31), 186.19 {I10} (1976De48), 186.19     
+222RN4cG {I16} (1982Ak03). Earlier measurements: 1951Co15, 1960St20, 1964Ew04.  
+222RN cG RI $absolute photon intensity per 100 {+226}Ra |a decays, as           
+222RN2cG measured by 2001La14. Other absolute measurements: 3.50 {I5}           
+222RN3cG (1983Ol01), 3.51 {I6} (1983Sc13), 3.29 {I3} (1983Co22), 3.59 {I6}      
+222RNxcG (1991Li11).                                                            
+222RN cG $I|g=3.28 {I3} from intensity balance at the 186-keV level.            
+222RN cG $Other values: I|g(186|g)/I|g(609|g of {+214}Bi in equilibrium)=       
+222RN2cG 0.0858 {I5} (1993Di09), 0.0823 {I3} (1983Bu14), 0.092 {I10} (1982Ak03),
+222RN3cG 0.0907 {I14} (1982Fa10), 0.076 {I4} (1981We18), 0.0900 {I11}           
+222RN4cG (1977Zo01), 0.087 {I15} (1975Ha31), 0.0820 {I12} (1970Mo28), 0.079     
+222RN5cG {I8} (1964Ew04). I|g(609|g of {+214}Bi in equilibrium)=46.1% {I5} is   
+222RN6cG adopted in the Nuclear Data Sheets for A=214.                          
+222RN7cG Other I|g measurements: 1976De48, 1974AlZT, 1969Li10, 1969Wa27,        
+222RNxcG 1969Gr33, 1967Ma51.                                                    
+222RN cG M $from ce ratios measured by 1963Go21, 1955Ju14, 1954Ro05.            
+222RN2cG 1973De50 |a(K)=0.200 {I9}, |a(L)=0.380 {I20} were deduced by 1973De50  
+222RN3cG from I(K| x ray)/I(186|g), I(L| x ray)/I(186|g).                       
+222RN  L 448.37    12 4+                                                        
+222RN  A 4340      1  0.0065 3  10.3   5                                        
+222RN  G 262.27    5  0.0050 5    [E2]                 0.212                    
+222RNS G KC=0.0928 $ LC=0.0880 $ MC=0.0232 $ NC+=0.00806                        
+222RN cG RI$from I|g(262|g)/I|g(186|g)=0.0014 {I2} (1993Di09,1971Lo19). Other   
+222RN2cG measured ratios: 0.0029 (1960St20), 0.0025 (1956Ha71).                 
+222RN3cG I(262|g)=0.0054 {I3} from I(4340|a)=0.0065 {I3} and |a(262|g)=0.212.   
+222RN  L 600.66    5  1-                                                        
+222RN  A 4191      2  0.0010 1  4.4    5                                        
+222RN cA E$4194.4 {I3} from level energy and E|a (to g.s.).                     
+222RN  G 414.60    5 0.00030    [E1]                   0.0164                   
+222RN cG RI$from I|g(414.6|g)/I|g(186|g)=0.000086 (1971Lo19). Other measured    
+222RN2cG ratio: 0.00021 (1960St20).                                             
+222RN  G 600.66    5 0.00049    [E1]                   0.00766                  
+222RN cG RI$from I|g(600|g)/I|g(186|g)=0.00014 (1971Lo19). Other measured       
+222RN2cG ratio: 0.00033 (1960St20).                                             
+222RN  L 635.47    15 3-                                                        
+222RN  A 4160      2 0.00027 5  8.6    16                                       
+222RN  G 34.8      16                                                          S
+222RN cG E$transition was not observed; its energy is from the level            
+222RN2cG scheme.                                                                
+222RN  G 187.10    20                                                          S
+222RN cG E$transition was not observed; its energy is from the level            
+222RN2cG scheme.                                                                
+222RN cG $I(|g+ce)(34.8|g)+I(|g+ce)(187.1|g)=0.0008 from the intensity balance  
+222RN2cG at the 635.47-keV level; the intensity balance at the 448.37-keV level 
+222RN3cG yields I(|g+ce)(187.1|g)=0.0061 {I6}-0.0065 {I3}. See the section on   
+222RN4cG {+222}Rn adopted levels, gammas for the references where E1 transition 
+222RN5cG probabilities and E1/E2 ratios were calculated and discussed in terms  
+222RN6cG of octupole deformations.                                              
+222RN  G 449.37    100.00019    [E1]                   0.0138                   
+222RN cG RI $from I|g(449|g)/I|g(186|g)=5.5|*10{+-5} (1971Lo19). Other measured 
+222RN2cG ratio: 9|*10{+-5} (1960St20).                                          
+

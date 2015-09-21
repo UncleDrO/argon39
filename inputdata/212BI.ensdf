@@ -1,0 +1,99 @@
+212BI    212PB B- DECAY                1969SC06,1984GE07         05NDS    200503
+212BI  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 104, 427 (2005)$CUT=1-Jan-2004$          
+212BI D  Modified by E. Browne (Jan. 28, 2004). Changed RI(415G), ICC, Mult.    
+212BI2D  Recalculated B- feedings, log ft's.                                    
+212BI cB IB$From |g+ce imbalance, based on measured absolute |g-ray intensities.
+212BI cG $I(K| x ray)/I(238.632|g)=0.73 {I4} (1961Gi02); 0.76 {I8} (1982Sa36).  
+212BI cG $I(K|a{-1}| x ray):I(K|a{-2}| x ray):I(K|b| x ray)=15.6 {I9}: 11.0     
+212BIxcG {I6}: 5.9 {I4} (1982Sa36)                                              
+212BI tG $Others:  E|g: 1970Da28, 1968An08, 1968Da21, 1964Wi11, 1960Be11, 1960Ka
+212BI2tG        I|g: 1982Sa36, 1978Av01, 1973Da38, 1968Da21, 1960Em01           
+212BI3tG        ce-data: 1978Av01, 1969Kr06, 1965Da07, 1957Ni11, 1956So24, 1955K
+212BI+tG e39                                                                    
+212BI cG RI$Relative intensity from 1984Ge07. Others: 1992Li05, 1983Sc13,       
+212BI2cG 1983Va22.                                                              
+212BI cG E(A)$From 1975SlZZ, observed with {+212}Pb source and found to be      
+212BI2cG converted in Bi.                                                       
+212BI cL E$Deduced by evaluator from a least-squares fit to E|g                 
+212BI cL J$From adopted levels                                                  
+212BI cL $|g|g: 1961Gi02, 1960Ro16, 1958De25                                    
+212BI cL $|g|g(|q): (300.087|g)(115.183|g)(|q) agrees only with                 
+212BI2cL 1(D)2(D)1 sequence if J(0.0 level)=1 and both 115.183|g and 300.087|g  
+212BI3cL are M1 (1960Ro16,1961Gi02).                                            
+212PB  P 0.0          0+                10.64 H  1              569.9     19    
+212BI  N 0.436     4            1         1                                     
+212BI PN                                                                     3  
+212BI cN NR$From weighted average of the following measured absolute            
+212BI2cN |g-ray intensities: I|g(239)=44.1% {I10} (1992Li05), 43.3% {I4}        
+212BI3cN (1984Ge07), 43.5% {I12} (1983Sc13), and 44.0% {I6} (1983Va22).         
+212BI4cN Others: I|g(239)=43.3 {I4} per 100 decays of {+228}Th (=100 decays of  
+212BI5cN {+212}Pb) in {+232}U source in equilibrium (1984Ge07), measured        
+212BI6cN relative to I|g(2614|g, {+208}Pb) with I|a/I|b({+212}Bi)=35.94/64.06   
+212BIxcN {I6}.                                                                  
+212BI  G   42.11                                                            A   
+212BI  G   47.91                                                            A   
+212BI  G   48.56                                                            A   
+212BI  G   52.91                                                            A   
+212BI  G   56.72                                                            A   
+212BI  G  164.2                                                                 
+212BI cG E$from 1973SlZJ; observed with {+212}Pb source and found to be         
+212BI2cG converted in Bi. Not observed (1960Ro16).                              
+212BI  L    0.0        1(-)                                                     
+212BI  B 590       20 11.9   16            6.79   6                             
+212BIS B EAV=171.7 7                                                            
+212BI cB E$measured value (1948Za05)                                            
+212BI cB IB$measured value 12 {I2} (1948Ma30)                                   
+212BI  L  115.183  5  2(-)               8 PS    4                              
+212BI cL T$from (ce)(ce)(t) (1971Va24)                                          
+212BI  G  115.183  5   1.368 17  M1                     7.12                 C  
+212BIS G KC=5.79$  LC=1.015$  MC=0.238$  NC+=0.0806                             
+212BI cG E$weighted average of 115.190 {I6} (1977Ku25), 115.179 {I9} (1963Ew06),
+212BI2cG 115.174 {I8} (1963Se20). (E|g have been recalculated by the evaluator  
+212BI3cG from the B|*|r measurements of 1963Ew06 and 1963Se20.)                 
+212BI cG M$from |a(K)exp=5.8 {I9} (measured K| x ray/|g in coincidence          
+212BI2cG experiment, 1960Ro16) and |a(L)exp ratios (1959Se59,1957Kr49,1957Zh05).
+212BI  L  238.632  2  0(-)               1.0 PS  2                              
+212BI cL J$(250<E|b<350)(238.632|g)(|q) isotropic favors J=0 (1969Sc06)         
+212BI cL T$from |b|g(t) (1963Li08); other |<5 ps (|b(ce)(t) 1971Va24)           
+212BI  B  335      4  83.1   16            5.17  1                              
+212BIS B EAV=93.5 7                                                             
+212BI cB E$from 330.7 keV 25 (1948Ma30) and 338 keV 5                           
+212BI2cB (1958Se71). Other: 340 keV (1949Gr26)                                  
+212BI  G  123.5                 [E2]                    2.84                A   
+212BIS G KC=0.428$  LC=1.786$  MC=0.473$  NC+=0.158$                            
+212BI  G  238.632  2 100.0   8   M1                     0.909                C  
+212BIS G KC=0.740$  LC=0.1284$  MC=0.0302$  NC+=0.01009                         
+212BI cG           I(ce(K))/(|S|b{+-})=0.313 {I6} (1948Ma30), 0.288 (1948Fe09). 
+212BI2cG Other: 1955Ni19                                                        
+212BI cG E$from 1979He10. Others: 238.625 {I6} (1977Ku25), 238.624 {I9}         
+212BI2cG (1965Gr05, E|g recalculated by the evaluator from B|*|r measurement)   
+212BI cG RI$I|g=43.3 {I4} per 100 {+228}Th decays (=100 {+212}Pb decays) from   
+212BI2cG 232Th decay chain in equilibrium (1984Ge07). Other: 1992Sh16.          
+212BI cG M$from |a(K)exp=0.74 {I7} (measured K| x ray/|g in coincidence         
+212BI2cG experiment, 1960Ro16), K/L and L-subshell ratios                       
+212BIxcG (1969Ge01,1967Ho13,1959Se59,1957Kr49,1957Vo22)                         
+212BI  L  415.272  11  1(-)              10 PS   LE                             
+212BI cL T$from |b(ce)(t) (1971Va24)                                            
+212BI  B               5.08  9             5.34  2                              
+212BIS B EAV=41.1 6                                                             
+212BI  G  176.68   5   0.120 14   M1                    2.11                 C  
+212BIS G KC=1.715$  LC=0.300$  MC=0.0704$  NC+=0.0236                           
+212BI cG E$from 1957Zh05                                                        
+212BI cG M$from K/L=5.6 {I6} (1957Kr49) and |a(K)exp=1.9 {I2} (Ice of 1957Zh05, 
+212BI2cG adopted I|g and |a(L1)(115.178|g, M1)=0.912).                          
+212BI  G  300.087  10  7.57  7    M1                    0.484                C  
+212BIS G KC=0.394$  LC=0.0682$  MC=0.0160$  NC+=0.00534                         
+212BI cG E$from 1977Ku25                                                        
+212BI cG RI$other: 7.32 {I14} (1983Va22)                                        
+212BI cG M$from K/L1=5.7 {I6} (1957Vo22) and |a(K)exp=0.37 {I4} (from Ice of    
+212BI2cG 1957Vo22, adopted I|g and |a(K)(238.632|g, M1)=0.740). (theory:        
+212BIxcG K/L1=6.42)                                                             
+212BI  G  415.2        0.030 5   (M1)                   0.185                   
+212BIS G KC=0.151$  LC=0.0257$  MC=0.0060$  NC+=0.0019                          
+212BI cG E$from 1963Da11, 1957Vo22                                              
+212BI cG RI$from I|g(415)/I|g(300)=0.0039 {I6} (1990VeZW). Other values:        
+212BI2cG I|g(415)=0.33 {I5} (1961Gi02), I|g(415)|?0.3 (1960Ro16).               
+212BI3cG Others: 1957Zh05, 1957Vo22.                                            
+212BI cG M$From |a(K)exp|?0.23 (from ce(K)=0.003% (1957Kr49) and I|g=0.013%     
+212BIxcG {I2})                                                                  
+

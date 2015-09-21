@@ -1,0 +1,1206 @@
+223RA    223FR B- DECAY                1993AB01,1967MA19,1982ALZL01NDS    200110
+223RA  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+223RA  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223RA cL E$Deduced by evaluator from a least-squares fit to |g-ray energies.    
+223RA cL J$Although octupole deformations are small in this region, nuclear     
+223RA2cL states are no longer fully characterized by single Nilsson orbitals.   
+223RA3cL This terminology, however, is used throughout this evaluation to       
+223RA4cL label states rather than to accurately describe their nature.          
+223RA CL BAND(A)   3/2(631) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(B)   3/2(761) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(D)   5/2(633) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(E)   5/2(752) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(F)   1/2(640) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(G)   1/2(770) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA cG           1993Ab01: {+223}Fr source was continuously separated from    
+223RA2cG its {+223}Ra daughter during the measurement of the |g-ray spectrum.   
+223RA3cG Measured E|g, I|g, |g|g coin. Detectors: high-purity germanium.        
+223RA cG           1967Ma19: chemically separated {+223}Fr source. Detector:    
+223RAxcG Ge(Li).                                                                
+223RA cG           1964Yt01: detector: scintillator.                            
+223RA cG           Unplaced |g rays are from 1993Ab01,                          
+223RA2cG unless otherwise specified.                                            
+223RA cG           Experimental Ra K| x ray intensities: 53 {I3} (K|a{-2}| x    
+223RA3cG ray), 88 {I3} (K|a{-1}| x ray) (1982AlZL). These values compare with   
+223RA4cG 55 {I2} (K|a{-2}| x ray), 90 {I4} (K|a{-1}| x ray), 42 {I2} (K|b| x    
+223RA5cG ray), deduced by evaluator (using the RADLST program) from the |g-ray  
+223RA6cG intensities and K-conversion coefficients presented here, and using a  
+223RAxcG K-fluorescence yield of 0.97.                                          
+223RA cG E,RI$Weighted average (LWM) from 1993Ab01, 1967Ma19,                   
+223RA2cG and 1982AlZL, unless otherwise specified. Other: 1964Yt01              
+223RA cG M$From adopted gammas                                                  
+223RA cG E(A),RI(A)$Observed by 1993Ab01 only.                                  
+223FR  P 0.0            3/2(-)         22.00 M   7              1149.1    9     
+223RA  N 0.030     6           1.0       1.0                                    
+223RA PN                                                                     3  
+223RA cN NR$from experimental %I|g(50|g)=40 {I10} (1954Hy26) and                
+223RA2cN %I|g(204|g)=0.92 {I18} (1981Va28).                                     
+223RA  G 15        3                                                            
+223RA cG E$from 1964Yt01. Others: 1954Hy26, 1960Wa16. Energy of Ra L{-|b} x ray 
+223RAxcG is 15.2 keV.                                                           
+223RA  G 24.14      3  9.5    7                                             A   
+223RA  G 27.27      3  2.3    4                                             A   
+223RA  G 150.6      4  0.10   3                                             A   
+223RA  G 222.9      3  0.08   2                                             A   
+223RA  G 269.6      3  0.03   1                                             A   
+223RA  G 289.68     5  6.7                                                  @   
+223RA2 G FLAG=A                                                                 
+223RA cG RI        I|g(289 doublet)=7.65 (20), weighted average from 1993Ab01,  
+223RA2cG 1967Ma19, and 1982AlZL.                                                
+223RA  G 293.2      2  0.14   3                                             A   
+223RA  G 382.3      2  0.03   1                                             A   
+223RA  G 682.3      3  0.03   1                                             A   
+223RA  G 694.6      3  0.03   1                                             A   
+223RA  L 0.0            3/2+                                                A   
+223RA  B              1      LE             7.6  GE                            ?
+223RAS B EAV=380.7 4                                                            
+223RA  L     29.85917   (5/2)+                                              A   
+223RA  B              1      LE             7.5  GE                            ?
+223RAS B EAV=369.4 4                                                            
+223RA  G 29.78      4  1.8    4 M1+E2    0.41    10    5.4E2  15            A   
+223RAS G LC=4.3E+2 14$MC=1.1E+2 4                                               
+223RA cG RI        from I|g(29|g, 79 level)|?0.8, and I|g(29|g)=2.6 {I4}        
+223RAxcG (1993Ab01).                                                            
+223RA cG MR$from {+227}Th |a decay.                                             
+223RA  L     50.09312   3/2-                                                B   
+223RA  B              70     7             5.66   5                             
+223RAS B EAV=361.7 4                                                            
+223RA  G 20.27      5  53     5 [E1]                     7.76               A   
+223RAS G LC=5.77$MC=1.50                                                        
+223RA cG RI$I|g=32 {I5} from I|g(20|g)/I|g(50|g)=0.028 {I3} in {+227}Th |a decay
+223RA2cG and I|g(50|g)=1.13E3 13.                                               
+223RA  G 50.094    15 1.13E3 13 E1                      0.709                   
+223RAS G LC=0.534$MC=0.130$NC+=0.0439                                           
+223RA cG E$other values: 51 {I4} (1960Wa16), 49.8 {I3} (1954Hy26), 48.8 {I16}   
+223RAxcG (1950Le13).                                                            
+223RA  L     61.44724   (7/2)+                                              A   
+223RA  G 31.69      5  0.05     M1+E2    0.28    6      2.7E2  8            A   
+223RAS G LC=2.0E+2 6$MC=52 15                                                   
+223RA  G 61.43      5  0.13     E2                        98                    
+223RAS G LC=72.0$MC=19.5$NC+=6.99                                               
+223RA cG RI        from 1993Ab01                                                
+223RA  L     79.65211   (5/2)-                                              B   
+223RA  B              15     2             6.29   6                             
+223RAS B EAV=350.4 4                                                            
+223RA  G      29.60 3 0.8    AP                                                 
+223RA cG E         not observed. From {+227}Th |a decay.                        
+223RA cG RI        from I|g(29|g)/I|g(79|g)|?0.0026 in {+227}Th |a decay, and   
+223RA2cG I|g(79|g)=294 {I41} in {+223}Fr |b{+-} decay.                          
+223RA  G 49.80      5  93     8 E1                      0.719                   
+223RAS G LC=0.543$MC=0.133                                                      
+223RA  G 79.651    13  2.9E2  4 E1                      0.205                   
+223RAS G LC=0.155$MC=0.0374$NC+=0.0127                                          
+223RA  L    123.73723   (7/2-)                                              B   
+223RA  B              0.26   7             7.99  12                             
+223RAS B EAV=333.8 4                                                            
+223RA  G 44.0       1  0.05     M1+E2    0.52    4       134  12            A   
+223RAS G LC=99 9$MC=26.0 24                                                     
+223RA  G 62.31      6  0.6    2 E1                      0.395               A   
+223RAS G LC=0.298$MC=0.0724$NC+=0.0244                                          
+223RA  G 73.5       1  0.05   3 E2                       41.7               A   
+223RAS G LC=30.5$MC=8.26$NC+=2.97                                               
+223RA  G 93.88      5  2.2    3 E1                      0.132               A   
+223RAS G LC=0.100$MC=0.0241$NC+=0.00826                                         
+223RA  L    234.77919   (5/2)+                                              D   
+223RA  B              10.1   2             6.223  9                             
+223RAS B EAV=292.5 4                                                            
+223RA  G 111.05     3  0.18   4                                             A   
+223RA  G 155.5      5  0.1                                                  A   
+223RA  G 173.38     4  3.9    4 M1,E2                    2.2  13                
+223RAS G KC=1.5 13$LC=0.55 4$MC=0.141 18$NC+=0.050 7                            
+223RA  G 184.68     4  8.27   5 E1                      0.110                   
+223RAS G KC=0.088$LC=0.0172$MC=0.00410$NC+=0.00142                              
+223RA  G 204.90     4  32.6  11 M1+E2    -0.12   7       2.13  4                
+223RAS G KC=1.71 4$LC=0.320 1$MC=0.0766$NC+=0.0271                              
+223RA  G 234.75     4  100    2 M1(+E2)  -0.07   2       1.47                   
+223RAS G KC=1.18$LC=0.219$MC=0.0522$NC+=0.0184                                  
+223RA  L     280.19 4   (7/2+)                                              D   
+223RA  G 200.7      2  0.10   3                                             A   
+223RA  G 218.80     5  0.32   2 M1                       1.79               A   
+223RAS G KC=1.44$LC=0.267$MC=0.0637$NC+=0.0225                                  
+223RA  G 250.24     5  0.58     M1                       1.23               @   
+223RAS G KC=0.99$LC=0.183$MC=0.0437$NC+=0.0154                                  
+223RA  G 280.7      5  0.02                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  L     286.07 4   1/2+                                                F   
+223RA  B              0.05   2             8.44  18                             
+223RAS B EAV=273.8 4                                                            
+223RA  G 236.05     5  1.0    2 E1                      0.0615              A   
+223RAS G KC=0.0492$LC=0.0093$MC=0.00222$NC+=0.00077                             
+223RA  G 256.17     5  1.00  20 E2                      0.254                   
+223RAS G KC=0.099$LC=0.114$MC=0.0304$NC+=0.0109                                 
+223RA  G 286.00    20  0.35  18 M1+E2                                           
+223RA  L     329.83 3   3/2-                                                G   
+223RA  B              0.05   1             8.36   9                             
+223RAS B EAV=257.9 4                                                            
+223RA  G 43.5       2  0.08     E1                       1.03               A   
+223RAS G LC=0.779$MC=0.191                                                      
+223RA  G 205.6      2  0.22     E2                      0.540               A   
+223RAS G KC=0.156$LC=0.281$MC=0.0759$NC+=0.0272                                 
+223RA  G 250.24     5  0.11     M1+E2    -2.1    4       0.45  7            @   
+223RAS G KC=0.27 7$LC=0.136 5$MC=0.0353 8$NC+=0.0126 3                          
+223RA  G 299.95     5  0.69  11 E1                      0.0354                  
+223RAS G KC=0.0285$LC=0.00522$MC=0.00124$NC+=0.00043                            
+223RA  G 329.80     5  0.90   5 (E1)                    0.0286                  
+223RAS G KC=0.0231$LC=0.00418$MC=0.00099$NC+=0.00035                            
+223RA  L     334.30 4   5/2+                                                F   
+223RA  B              0.05   1             8.36   9                             
+223RAS B EAV=256.3 4                                                            
+223RA  G 210.60     5  0.36   2 E1                      0.0805              A   
+223RAS G KC=0.0642$LC=0.0123$MC=0.00294$NC+=0.00102                             
+223RA  G 254.6      2  0.21   2 E1                      0.0516              A   
+223RAS G KC=0.0413$LC=0.00772$MC=0.00184$NC+=0.00064                            
+223RA  G 272.8      2  0.15   2 M1+E2                                       A   
+223RA  G 304.40     5  0.50  18M1+E2(+E0)0.26    4                              
+223RA  G 334.30     6  0.38   9 M1+E2    -0.61   4      0.436 12                
+223RAS G KC=0.342 11$LC=0.0708 11$MC=0.0172 2$NC+=0.00606 8                     
+223RA  L     342.51 4   3/2+                                                F   
+223RA  B              0.05   1             8.34   9                             
+223RAS B EAV=253.3 4                                                            
+223RA  G 262.9      2  0.13   3 E1                      0.0479              A   
+223RAS G KC=0.0384$LC=0.00715$MC=0.00170$NC+=0.00059                            
+223RA  G 280.7      5  0.02                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  G 312.65     5  0.56  10 M1+E2    0.16    3      0.654  6                
+223RAS G KC=0.525 5$LC=0.098 1$MC=0.0233 1$NC+=0.00820 4                        
+223RA  G 342.50     7  0.67  24 M1+E2    1.29    2      0.261  3                
+223RAS G KC=0.191 3$LC=0.0520 3$MC=0.0130 1$NC+=0.00461 2                       
+223RA  L     350.5310   1/2-                                                G   
+223RA  G 350.5      2  0.10   5 E1                      0.0250              A   
+223RAS G KC=0.0202$LC=0.00363$MC=0.00086$NC+=0.00030                            
+223RA  L    369.35118   (5/2)-                                              E   
+223RA  B              1.7    1             6.76   3                             
+223RAS B EAV=243.7 4                                                            
+223RA  G 89.08     10  2.0    1                                             A   
+223RA  G 134.59     5  17.7   6 [E1]                    0.237                   
+223RAS G KC=0.186$LC=0.0388$MC=0.0093$NC+=0.00321                               
+223RA  G 245.60     5  0.96  20                                                 
+223RA  G 289.68     5  1.0                                                  @   
+223RA2 G FLAG=A                                                                 
+223RA  G 307.78    14  0.05  LT                                             @   
+223RA2 G FLAG=A                                                                 
+223RA  G 319.260   22  16.3   5 M1+E2    0.18    3      0.615  6                
+223RAS G KC=0.493 5$LC=0.092 1$MC=0.0219 1$NC+=0.00772 4                        
+223RA  G 339.50     5  2.24  20                                                 
+223RA  G 369.38     6  3.30  20                                                 
+223RA  L     376.1015   (7/2)-                                              G   
+223RA  B              0.005  1             9.28   9                             
+223RAS B EAV=241.2 4                                                            
+223RA  G 296.5      2  0.05   1 M1+E2    -0.13   2      0.762  4            A   
+223RAS G KC=0.612 3$LC=0.114$MC=0.0271 1$NC+=0.0095                             
+223RA  G 314.6      2  0.08   2 E1                      0.0318              A   
+223RAS G KC=0.0256$LC=0.00467$MC=0.00111$NC+=0.00039                            
+223RA  L     593.5812                                                           
+223RA  B              0.015  4             8.31  12                             
+223RAS B EAV=165.6 3                                                            
+223RA  G 307.78    14  0.45   5                                             @   
+223RA2 G FLAG=A                                                                 
+223RA cG RI        I|g(308 doublet)=0.81 {I27}, weighted average from 1967Ma19  
+223RA2cG and 1982AlZL.                                                          
+223RA  G 469.3      2  0.04                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  L     782.5417   1/2,3/2                                                 
+223RA  B              0.0012 3             8.82  11                             
+223RAS B EAV=104.1 3                                                            
+223RA  G 439.6      3  0.011  3                                             A   
+223RA  G 452.9      2  0.03                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  L     787.14 5   5/2                                                     
+223RA  B              0.023  5             7.52  10                             
+223RAS B EAV=102.7 3                                                            
+223RA  G 444.5      3  0.04   1                                             A   
+223RA  G 452.9      2  0.03                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  G 457.5      2  0.03                                                 A   
+223RA  G 506.9      2  0.08   2                                             A   
+223RA  G 552.3      2  0.10   2                                             A   
+223RA  G 663.7      3  0.04   1                                             A   
+223RA  G 708.3      3  0.05   1                                             A   
+223RA  G 737.4      3  0.033  8                                             A   
+223RA  G 757.20     5  0.34   6                                                 
+223RA  G 787.6      2  0.01  LT                                             @   
+223RA2 G FLAG=A                                                                 
+223RA  L     803.77 3   3/2,5/2                                                 
+223RA  B              0.14   3             6.67  10                             
+223RAS B EAV=97.5 3                                                             
+223RA  G 434.4      1  0.08   2                                             A   
+223RA  G 469.3      2  0.04                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  G 568.94    11  1.83  20                                                 
+223RA  G 724.15     5  0.52   8                                             A   
+223RA  G 742.4      3  0.04   1                                             A   
+223RA  G 753.65     5  0.35   5                                             A   
+223RA  G 803.77     5  1.97  25                                                 
+223RA  L     805.3810   1/2,3/2,5/2                                             
+223RA  B              0.005  1             8.11   9                             
+223RAS B EAV=97.0 3                                                             
+223RA  G 475.4      1  0.10                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  G 806.0      2  0.05   1                                             A   
+223RA  L     823.22 7   1/2,3/2,5/2+                                            
+223RA  B              0.016  4             7.53  11                             
+223RAS B EAV=91.5 3                                                             
+223RA  G 480.9      3  0.05   1                                             A   
+223RA  G 493.4      2  0.09   2                                             A   
+223RA  G 537.2      2  0.12                                                 A   
+223RA2 G FLAG=A                                                                 
+223RA  G 823.20     7  0.26   3                                                 
+223RA  L     825.94 4   (3/2+)                                                  
+223RA  B              0.6    1             5.94   8                             
+223RAS B EAV=90.6 3                                                             
+223RA  G 475.4      1  0.11                                                 &   
+223RA2 G FLAG=A                                                                 
+223RA  G 539.8      2  0.22   5                                             A   
+223RA  G 545.4      4  0.011  3                                             A   
+223RA  G 746.30     5  0.73   8                                                 
+223RA  G 775.83     5  15.4  15                                                 
+223RA  G 825.95     7  1.8    4                                                 
+223RA  L     842.25 5   3/2+,5/2                                                
+223RA  B              0.036  8             7.09  10                             
+223RAS B EAV=85.6 3                                                             
+223RA  G 556.3      3  0.04   1                                             A   
+223RA  G 607.6      3  0.08   2                                             A   
+223RA  G 762.6      2  0.09   2                                             A   
+223RA  G 780.8      1  0.11   3                                             A   
+223RA  G 792.2      3  0.020  5                                                 
+223RA  G 812.40     6  0.69   8                                             A   
+223RA  G 842.19    10  0.18   2                                                 
+223RA  L     846.41 4   5/2                                                     
+223RA  B              0.10   2             6.63   9                             
+223RAS B EAV=84.4 3                                                             
+223RA  G 516.7      2  0.12   2                                             A   
+223RA  G 723.1      4  1.45  20                                                 
+223RA  G 765.8      9  0.81   8                                                 
+223RA  G 784.93     5  0.51  19                                                 
+223RA  G 796.22     5  0.35   5                                                 
+223RA  G 846.86    10  0.2   LT                                             @   
+223RA2 G FLAG=A                                                                 
+223RA  L     867.33 7   3/2,5/2+                                                
+223RA  B              0.026  7             7.12  12                             
+223RAS B EAV=78.0 3                                                             
+223RA  G 524.8      2  0.16   3                                             A   
+223RA  G 533.1      3  0.07   6                                             A   
+223RA  G 537.2      2  0.07                                                 A   
+223RA2 G FLAG=A                                                                 
+223RA  G 581.3      4  0.05   1                                             A   
+223RA  G 632.7      3  0.08   2                                             A   
+223RA  G 787.6      2  0.10   2                                             @   
+223RA2 G FLAG=A                                                                 
+223RA  G 836.2     14  0.28   8                                                 
+223RA  G 867.4      1  0.06   1                                             A   
+223RA  L      905.9 4                                                           
+223RA  B              0.0012 4             8.25  15                             
+223RAS B EAV=66.5 3                                                             
+223RA  G 576.1      4  0.04   1                                             A   
+223RA  L     926.56 7     3/2,5/2                                               
+223RA  B              0.11   3             6.17  12                             
+223RAS B EAV=60.5 3                                                             
+223RA  G 592.3      4  0.12   3                                             A   
+223RA  G 596.9      4  0.03   1                                             A   
+223RA  G 846.86    10  1.71  23                                             @   
+223RA  G 876.50    10  1.36  20                                                 
+223RA  G 896.71    20  0.51   5                                                 
+223RA  G 926.5      3  0.06   1                                             A   
+223RA  L     940.7913     3/2-,5/2                                              
+223RA  B              0.006  1             7.34   8                             
+223RAS B EAV=56.3 3                                                             
+223RA  G 816.5      2  0.05   1                                             A   
+223RA  G 911.3      2  0.03   1                                             A   
+223RA  G 941.2      3  0.11   2                                             A   
+223RA  L     943.27 9     3/2,5/2                                               
+223RA  B              0.009  2             7.15  10                             
+223RAS B EAV=55.6 3                                                             
+223RA  G 600.7      4  0.020  5                                             A   
+223RA  G 613.6      4  0.04   1                                             A   
+223RA  G 863.60    10  0.120 20                                                 
+223RA  G 893.10    20  0.093 20                                                 
+223RA  G 913.6      3  0.015  5                                             A   
+223RA  L     957.7311    3/2-,5/2+                                              
+223RA  B              0.020  5             6.70  11                             
+223RAS B EAV=51.4 3                                                             
+223RA  G 671.9      4  0.020  5                                             A   
+223RA  G 833.9      2  0.05   1                                             A   
+223RA  G 878.1      2  0.12   2                                             A   
+223RA  G 907.61    20  0.47   7                                                 
+223RA  G 958.0      7  0.013  3                                             A   
+223RA  L     1019.3 4                                                           
+223RA  B              0.0005 2             7.78  18                             
+223RAS B EAV=34.1 3                                                             
+223RA  G 969.2      4  0.012  3                                             A   
+223RA  G 989.4      5  0.005  1                                             A   
+223RA  L    1024.6023                                                           
+223RA  B              0.0005 1             7.72   9                             
+223RAS B EAV=32.7 3                                                             
+223RA  G 975.2      5  0.006  2                                             A   
+223RA  G 994.3      3  0.004  1                                             A   
+223RA  G 1025.1     5  0.005  1                                             A   
+223RA  L    1028.9425                                                           
+223RA  B              0.0013 4             7.26  14                             
+223RAS B EAV=31.5 3                                                             
+223RA  G 949.3      4  0.012  3                                             A   
+223RA  G 978.7      4  0.025  5                                             A   
+223RA  G 999.3      5  0.007  2                                             A   
+
+223RA    227TH A DECAY                 1990BR23,1972HE18,1969BR2701NDS    200110
+223RA  H TYP=ERR$AUT=E. BROWNE$DAT=27-MARCH-2003$                               
+223RA2 H COM=MODIFIED JPI BASED ON 1998Jo08 AND LETTER FROM JONES$              
+223RA  H TYP=ERR$AUT=E. BROWNE$DAT=27-Aug-2012$CIT=NDS 96,391 (2002)            
+223RA2 H COM=Corrected normalization$                                           
+223RA  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223RA D  MODIFIED BY E. BROWNE. ADDED G-RAY MULTPS. FROM 1998Jo08.              
+223RA2D  RECALCULATED ALPHA HF USING R0 FROM 1998Ak04 (DEC.1999).               
+223RA3D  ADDED EG, RI FROM 1993Ab01 (Jan. 2000).                                
+223RA D  Modified spin/parity assignments based on AG(THETA) and                
+223RA2D  ACE(THETA) measurements in 1998Jo08. E. Browne, March 2003.            
+223RA c  1998Jo08: measured |a|g(|q), (|a)(ce)(|q). Deduced |g-ray              
+223RA2c  multipolarities and mixing ratios. Detectors: |>for |g rays,           
+223RA3c  Si(Li) for electrons, pin diodes for alpha particles.                  
+223RA c  1993Ab01: measured E|g, I|g. Detector: high-purity germanium.          
+223RA2c  Data quoted as from a private communication from |g. Ardisson          
+223RA3c  (unpublished).                                                         
+223RA c  1990Br23: measured E|g, I|g, |a|g(|q), |g|g(|q), |g(|q,H).             
+223RA2c  Detectors: high-purity germanium, Si(Li).                              
+223RA c  1972He18: measured E|g, I|g, |a|g coin. Detectors: Ge(Li), semi.       
+223RA c  1969Br27: measured E|g, I|g,|a|g coin. Detectors: Ge(Li),              
+223RA2c  crystal spectrometer.                                                  
+223RA cG E         Weighted average (lwm) from 1993Ab01, 1990Br23, 1972He18,    
+223RA2cG and 1969Br27, unless otherwise specified.                              
+223RA cG RI        Weighted average (lwm) from 1993Ab01, 1972He18, and          
+223RA2cG 1969Br27, unless otherwise specified.                                  
+223RA cG           Others: 1971Br29, 1971Br28, 1970Ge02, 1969Pe17, 1968Wa09,    
+223RA2cG 1968Br30, 1967Vi04, 1966Po02, 1966La10, 1965Tr02, 1960Pe13, 1960Wa16,  
+223RAxcG 1957Pi31, 1955Fr25.                                                    
+223RA cG E(A),RI(A)$From 1993Ab03                                               
+223RA cG E(B),RI(B)$From 1990Br23                                               
+223RA cG E(C),RI(C)$From 1972He18                                               
+223RA cG E(D),RI(D)$From 1969Br27                                               
+223RA cA E(R)      E|a from 1971Gr17, I|a from 1964Ba33, values recommended     
+223RA2cA by 1991Ry01.                                                           
+223RA cG E(W)$Uncertain |g ray                                                  
+223RA cA E(S)      From 1964Ba33. Original energies have been increased by 1.7  
+223RA2cA keV to correct for systematic differences with |a (g.s.), |a           
+223RA3cA (62), and |a (286) of 1971Gr17 (1977Ma32).                             
+223RA cA IA        from 1964Ba33. Because of the abundance of low-energy        
+223RA2cA |g rays, I|a values deduced from |g-ray transition intensity balances  
+223RA3cA are very inaccurate, and therefore not shown here.                     
+223RA cA HF        Using r{-0}({+223}Ra)=1.536, average of                      
+223RA2cA r{-0}({+222}Ra)=1.5383 {I8} and r{-0}({+224}Ra)=1.5332 {I8} (1998Ak04).
+223RA cL E$Deduced by evaluator from a least-squares fit to |g-ray energies.    
+223RA cL J$Parity doublet rotational band assignments are                       
+223RA2cL from 1986Sh02, 1988Sh34, 1988Le13, 1990Ja11, and 1990Br23.             
+223RA3cL Spin and parity assignments are based on |g-ray multipolarities,       
+223RA4cL |g|g(|q), and |a|g(|q), unless otherwise specified.                    
+223RA cL J$Although octupole deformations are small in this region, nuclear     
+223RA2cL states are no longer fully characterized by single Nilsson orbitals.   
+223RA3cL This terminology, however, is used throughout this evaluation to       
+223RA4cL label states rather than to accurately describe their nature.          
+223RA CL BAND(A)   3/2(631) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(B)   3/2(761) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(D)   5/2(633) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(E)   5/2(752) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(F)   1/2(640) PARITY DOUBLET ROTATIONAL BAND.                     
+223RA CL BAND(G)   1/2(770) PARITY DOUBLET ROTATIONAL BAND.                     
+227TH  P 0.0                (1/2+)     18.68 D   9              6146.43   15    
+223RA  N   0.129   11             1.0                                           
+223RA PN                                                                     3  
+223RA cN NR$from |SI(|g+ce)(g.s. and 29.9)=72.9% {I10},                         
+223RA2cN given I|a(g.s. and 29.9)=27.1% {I10}.                                  
+223RA  G 22.0      2  0.07   7                                              A   
+223RA  G 24.13     5  0.68   5                                              A   
+223RA  G 27.41     9  0.23   4                                                  
+223RA  G 59.6      5  0.08   3                                              C   
+223RA  G 66.2      5  0.05   3                                              C   
+223RA  G 66.4      5  0.06   3                                              C   
+223RA  G 68.70     10 0.046                                                 B   
+223RA  G 77.4      4  0.08                                                  D   
+223RA  G 112.6     5  0.07   3                                              C   
+223RA2 G FLAG=W                                                                 
+223RA  G 117.5     5  0.10   3                                              C   
+223RA  G 128.02    2  0.025  4                                              A   
+223RA  G 129.4     2  0.010  5                                              A   
+223RA  G 138.4     1  0.11   2                                              A   
+223RA  G 140.6     3  0.17   12                                                 
+223RA  G 164.52    10 0.113  20                                                 
+223RA  G 171.5     2  0.03   1                                              A   
+223RA  G 181.1     3  0.02   1                                              A   
+223RA  G 182.3     2  0.03   1                                              A   
+223RA  G 202.5     5  0.05   2                                              C   
+223RA  G 206.4        0.02   2                                              C   
+223RA2 G FLAG=W                                                                 
+223RA  G 216.0     1  0.002  1                                              A   
+223RA  G 219.0     3  0.39   9                                              C   
+223RA  G 223.2     4  0.04   1                                              A   
+223RA  G 248.1     1  0.19   4                                              A   
+223RA  G 260.6     2  0.04   1                                              A   
+223RA  G 265.3     2  0.04   1                                              A   
+223RA  G 306.1     3  0.08   3                                              A   
+223RA  G 314.75    10 0.27                                                  B   
+223RA  G 332.2     2  0.013  4                                              A   
+223RA  G 348.5     5  0.05   2                                              C   
+223RA  G 379.4     1  0.08   2                                              A   
+223RA  G 392.4     5  0.08   2                                              C   
+223RA  G 398.6     3  0.011  3                                              B   
+223RA  G 442.5     10 0.00046                                               D   
+223RA  G 445          0.004  4                                              D  ?
+223RA  G 462       1  0.00038                                               D   
+223RA  G 469.0     2  0.007  2                                              A   
+223RA  G 521.8     3  0.003  1                                              A   
+223RA  G 540.2     3  0.002  1                                              A   
+223RA  G 565.4     1  0.011  2                                              A   
+223RA  G 585.8     1  0.007  1                                              A   
+223RA  G 598.9     2  0.005  1                                              A   
+223RA  G 648.5     5 0.00015 5                                              D   
+223RA2 G FLAG=W                                                                 
+223RA  G 722.1     6  0.0029 9                                              D   
+223RA  G 757.3     4  0.0081 19                                                 
+223RA  G 762.6     5  0.0021 4                                                  
+223RA  G 787.6     5  0.0008921                                                 
+223RA  G 818.0     10 0.00023 9                                             D   
+223RA  G 828.9     2  0.0060 2                                              A   
+223RA  L        0.0         3/2+        11.43 D   2                         A   
+223RA cL J         from adopted levels.                                         
+223RA  A 6038.01   15 24.2    9  118                                        R   
+223RA cA           Other values: E|a=6039 {I1}, I|a=23 (1957Pi31,1977Ma32);     
+223RA2cA E|a=6038.3 {I15}, I|a=24.5 {I10} (1964Ba33,1977Ma32).                  
+223RA  L     29.858 8      5/2+                                             A   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA  A 6008.8    15 2.90   15  717                                        S   
+223RA cA           Other value: E|a=6010, I|a=2.8 (1957Pi31,1977Ma32).          
+223RA  G      29.86 1  0.59   8  M1+E2   0.41    10    5.4E2  15                
+223RAS G                LC=4.3E+2 140     $MC=1.1E+2 4                          
+223RA cG CC$|a=5.4E2 13 from |g-ray transition intensity balance at 29.9 level, 
+223RA2cG and %|a=2.90 {I15} (1964Ba33).                                         
+223RA cG M$|d=0.54, from ce(L1):ce(L2):ce(L3) exp=2.4:8.7:11 (1957Pi31);        
+223RA2cG |d=0.29 {I7}, from |a(L)exp=270 {I80} (1970Ge02,1977Ma32); |d=1.7 {I4} 
+223RA3cG from L| x ray intensities (1972Sc44). |d=0.41 {I10} from |a(exp)=5.4E2 
+223RA4cG 13, deduced from |g-ray transition intensity balance at 29.9 level.    
+223RA  L     50.128 9       3/2-         0.63 NS 7                          B   
+223RA cL J         50|g E1 to 3/2+; |g|g(|q) for the 236|g-50|g cascade is      
+223RA2cL consistent with J=3/2 (1957Pi31,1960Pe13,1961Br44,1965Cl05,1970Le13).  
+223RA cL T         |a|g(t), |g|g(t) (1958Va29,1961Fo08).                        
+223RA cL           g-factor=+0.28 {I4}, integral perturbed angular correlations,
+223RA2cL using T{-1/2}=0.63 ns {I7} (1970Le13).                                 
+223RA  A 5989.4    20 0.002  3 8.35E+5                                      S   
+223RA  G      20.25 5   1.84 20   [E1]                  7.73                    
+223RAS G                LC=     5.74   $MC=      1.49                           
+223RA cG E         other values: 20.3 (1971Br29,1966Fr07), 20.27 (1971Br28).    
+223RA  G      50.13 1      65 3    E1                   0.707                   
+223RAS G                LC=    0.533   $MC=     0.130  $NC+=      0.0438        
+223RA cG E         other value: 50.1 {I1} (1968Da10).                           
+223RA cG M$from ce(L1):ce(L2):ce(L3) exp=1.4:1.4:1.7 (1971Br28); |g(|q,H)       
+223RAxcG (1990Br23).                                                            
+223RA cG RI        %I|g=8.4 {I6} (1969Pe17) and %I|g=8.18 {I17} (1990Ko40), both
+223RA2cG absolute intensity measurements,                                       
+223RA3cG agree with %I|g=8 {I1}, from adopted I|g and decay scheme              
+223RAxcG normalization.                                                         
+223RA  L     61.42410      (7/2)+       0.6 NS   AP                         A   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5977.72   10 23.5   9   63                                         R   
+223RA cA           Other values: E|a=5979, I|a=24 (1957Pi31,1977Ma32);          
+223RA2cA E|a=5978.0 {I15}, I|a=23.4 {I10} (1964Ba33,1977Ma32).                  
+223RA  G      31.58 1   0.53  8   M1+E2    0.28   6       272 75                
+223RAS G                LC=      203 40$MC=       52 11                         
+223RA cG E$other values: 31.63 {I5} (1957Pi31,1977Ma32), 31.63 {I2}             
+223RAxcG (1970Ge02,1977Ma32).                                                   
+223RA cG M$from ce(L1):ce(L2):ce(L3):ce(M1):ce(M2):ce(M3)                       
+223RA2cG exp=3.6:4.1:5.4:1.5:2.5:2.1 (1957Pi31).                                
+223RA cG MR$from ce(L1):ce(L2):ce(L3) exp=4.8 {I3}:5.3 {I3}:5.4 {I3}            
+223RA2cG (1971Br28). Other value: |d=0.28 {I5}, from A{-2}=-0.88 {I5},          
+223RAxcG A{-4}=0.10 {I6}, |a|g(|q) (1998Jo08).                                  
+223RA  G    61.441 20   0.70  8    E2                    98.4                   
+223RAS G                LC=     72.0   $MC=      19.5  $NC+=        6.98        
+223RA cG M         from ce(L1):ce(L2):ce(L3) exp=0.09 {I1}:3.5 {I2}:3.0 {I2}    
+223RA2cG (1969Br27). A{-2}=0.49 {I4}, A{-4}=-0.33 {I5}, |a|g(|q) (1998Jo08).    
+223RA  L     79.70813      (5/2)-      0.24 NS   8                          B   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5959.7    15 3.00   15  404                                        S   
+223RA cA           Other value: E|a=5961, I|a=3.5 (1957Pi31,1977Ma32).          
+223RA  G      29.60 3   0.04 AP [M1+E2]  1.3     AP     2078  AP                
+223RA cG MR$from |a(exp)=2070 {I370}, deduced from |g-ray transition intensity  
+223RA2cG balance at 79.7 level, and I|a=3.00 {I15}.                             
+223RAS G                LC=    280   $MC=     72                                
+223RA cG RI        from 1990Br23.                                               
+223RA  G      49.82 5    3.3  7   E1                    0.716                   
+223RAS G                LC=    0.540   $MC=     0.132                           
+223RA cG E         other value: 49.9 {I1} (1968Da10).                           
+223RA cG M         from ce(L1):ce(L3) exp=0.10 {I1}:0.12 {I1} (1971Br28).       
+223RA  G      79.69 2   15.1  5    E1                    0.205                  
+223RAS G                LC=     0.155  $MC=    0.0373  $NC+=       0.0127       
+223RA cG E         other value: 79.8 {I1} (1968Da10).                           
+223RA cG M$from ce(L1):ce(L2):ce(L3) exp=0.13 {I1}:0.08 {I1}:0.085 (1969Br27);  
+223RA2cG |g(|q,H) (1990Br23). A{-2}=-0.40 {I2}, A{-4}=0.00 {I3}, |a|g(|q)       
+223RAxcG (1998Jo08).                                                            
+223RA  L     104.6013                                                          ?
+223RA  G     43.8   5   0.43 17                                                ?
+223RA  G     75.01  5    0.21 8                                                ?
+223RA  L    123.79318      7/2-        0.45 NS   +10-6                      B   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5916.0    15 0.775  30  963                                        S   
+223RA cA           Other value: E|a=5917, I|a=0.9 (1957Pi31,1977Ma32).          
+223RA  G     44.22 12   0.41 10    M1+E2    0.52  4       132 12                
+223RAS G                LC=        98 6$MC=     25.8 17                         
+223RA cG MR$from ce(L1):ce(L2) exp=0.13 {I1}:0.26 {I3} (1971Br28).              
+223RA  G      62.45 5   1.57 20    E1                   0.393               &   
+223RAS G                LC=     0.296  $MC=   0.0719   $NC+=       0.0242       
+223RA cG M         from |a|g(|q) (1990Br23). A{-2}=0.44 {I3}, A{-4}=-0.11 {I5}  
+223RA2cG |a|g(|q) (1998Jo08).                                                   
+223RA cG E         other value: 62.2 {I1} (1968Da10).                           
+223RA  G      73.63 5  0.11   4   E2                     41.3                   
+223RAS G                LC=      30.2  $MC=     8.19   $NC+=         2.94       
+223RA cG M$from ce(L1):ce(L2):ce(L3) exp |?0.0085:0.13 {I1}:0.11 {I1}           
+223RAxcG (1971Br28).                                                            
+223RA  G      93.88 5  11.71 25     E1                  0.132                   
+223RAS G                LC=   0.0999   $MC=    0.0241  $NC+=     0.00825        
+223RA cG E         other values: 93.5 {I10} (1966Po02), 94.0 {I1} (1968Da10).   
+223RA cG M$from ce(L1):ce(L2):ce(L3) exp=0.082 {I8}:0.042 {I4}:0.041 {I4}       
+223RA2cG (1971Br28). A{-2}=-0.34 {I3}, A{-4}=0.01 {I4}, |a|g(|q) (1998Jo08).    
+223RA  L    130.14118       9/2 +      0.3 NS    GT                         A   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         Doppler broadening (1971Br29).                               
+223RA  A 5909.9    15 0.174  8   4000                                       S   
+223RA  G 6.5       3  0.7     2 [E1]                    41.2                    
+223RA cG E         others: 1971Br29, 1969Br27, 1968Da10                         
+223RA  G      68.74 3    0.45 8  M1+E2      0.45          17.8              &   
+223RAS G                LC=      13.2  $MC=      3.39  $NC+=         1.21       
+223RA cG E         other value: 68.7 {I1} (1968Da10).                           
+223RA cG M,MR      from ce(L1):ce(L2):ce(L3) exp=0.25 {I3}:0.20 {I2}:0.14 {I1}  
+223RAxcG (1971Br28).                                                            
+223RA  G     100.27 3   0.65 12    E2                    9.61                   
+223RAS G                LC=     7.01   $MC=      1.91  $NC+=       0.690        
+223RA cG M         from ce(L1):ce(L2):ce(L3) exp=0.015:0.34 {I3}:0.26 {I3}      
+223RA2cG (1969Br27); |g(|q,H) (1990Br23). A{-2}=0.46 {I8}, A{-4}=-0.27 {I12},   
+223RAxcG |a|g(|q) (1998Jo08).                                                   
+223RA  L    174.56924       9/2-       0.20 NS   6                          B   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         Doppler broadening (1971Br29).                               
+223RA  A 5866.6       2.42   10  175                                        S   
+223RA cA           Other value: E|a=5868, I|a=3.0 (1957Pi31,1977Ma32).          
+223RA  G      44.40 5   0.03  3   [E1]                  0.978               @   
+223RA cG RI        from exp Ice(L1) and |a(L1) (E1, Theory).                    
+223RAS G                LC=    0.737   $MC=     0.181                           
+223RA  G      50.85 5 0.12    5  M1+E2     0.4   1         54 14                
+223RAS G                LC=        40 8$MC=     10.4 21$NC+=         3.7 10     
+223RA cG M,MR      from ce(L1):ce(L2):ce(L3) exp=|?0.027:|?0.027:|?0.025        
+223RAxcG (1971Br28).                                                            
+223RA  G       69.8 3   0.08 3                                                 ?
+223RA cG E         from 1972He18.                                               
+223RA  G      94.97 5  0.19  11    E2                     12.4              &   
+223RAS G                LC=     9.07   $MC=      2.47  $NC+=       0.892        
+223RA cG E         other value: 95.2 {I2} (1968Da10).                           
+223RA cG M         from ce(L2):ce(L3) exp=0.062 {I6}:0.049 {I5} (1971Br28).     
+223RA2cG A{-2}=-0.38 {I5}, A{-4}=-0.26 {I5}, |a|g(|q) (1998Jo08).               
+223RA  G   113.11  5    4.2        E1                    0.362              @   
+223RAS G KC=    0.281  $LC=   0.0611   $MC=    0.0147  $NC+=     0.00506        
+223RA cG E         other value: 113.1 {I1} (1968Da10).                          
+223RA cG RI        from 1971Br29. I|g=6.6 {I3} (1993Ab01).                      
+223RA cG M         from |a(L1)exp=0.032 (1971Br29,1977Ma32). A{-2}=-0.18 {I1},  
+223RA2cG A{-4}=-0.035 15, |a|g(|q) (1998Jo08).                                  
+223RA  L     174.58 4       11/2+      0.14 NS   5                          A   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         Doppler broadening (1971Br29).                               
+223RA  G      44.40 5    0.10 7    M1                     35.2              @   
+223RA cG RI        from I|g=0.13 {I6} and I|g(44.|g from 174.58 level)=0.03     
+223RAxcG {I3}.                                                                  
+223RAS G                LC=      26.7  $MC=     6.39                            
+223RA cG M         from |a(L1)exp=23 {I12} (1971Br28,1977Ma32).                 
+223RA  G   113.11  5    1.2        E2                    5.78               @   
+223RAS G KC=    0.304  $LC=     4.00   $MC=      1.09  $NC+=       0.394        
+223RA cG RI        from 1971Br29. I|g=6.6 {I3} (1993Ab01).                      
+223RA cG M$from ce(L2):ce(L3) exp=0.35:0.24 (1971Br27) and |a(L)exp=3.99        
+223RA2cG (1971Br29,1977Ma32). A{-2}=-0.18 {I1}, A{-4}=-0.035 {I15}, |a|g(|q)    
+223RAxcG (1998Jo08).                                                            
+223RA  L    234.85819       5/2+                                            D   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA  A 5807.5    15 1.27   2   169                                        S   
+223RA cA           Other value: E|a=5808, I|a=1.0 (1957Pi31,1977Ma32).          
+223RA  G     173.45 3 0.135  20  M1,E2                                          
+223RA cG E         other value: 173.4 {I2} (1968Da10).                          
+223RA cG M         from ce(K):ce(L2):ce(L3) exp=15:5.4:8.6 (1957Pi31).          
+223RA  G     184.65 5    0.28 3    E1                    0.110                  
+223RAS G KC=  0.0876   $LC=    0.0172  $MC=    0.0041  $NC+=      0.00142       
+223RA cG M$from |a|g(|q) (1990Br23). A{-2}=-0.44 {I8}, A{-4}=-0.06 {I13},       
+223RAxcG |a|g(|q) (1998Jo08).                                                   
+223RA cG E         other value: 184.8 {I2} (1968Da10).                          
+223RA  G    204.98 10   1.27 20  M1+E2   -0.12   7       2.13  4                
+223RAS G KC=1.70 4$LC=0.320 1$MC=0.0765$NC+=0.0270                              
+223RA cG M$M1 from ce(K):ce(L1):ce(L2): exp=0.24:0.047 {I5}:0.006 {I1}          
+223RA2cG (1971Br28). ce(L1)=47 given by 1971Br28 is probably a typographical    
+223RA3cG error (1977Ma32). |a|g(|q) (1990Br23).                                 
+223RA cG MR$from A{-2}=0.58 {I4}, A{-4}=-0.05 {I6}, |a|g(|q) (1998Jo08).        
+223RA  G    234.76 10    3.5  4  M1(+E2) -0.07   2       1.47                   
+223RAS G KC=1.18$LC=0.219$MC=0.0522$NC+=0.0184                                  
+223RA cG M$M1(+E2) from ce(K):ce(L1):ce(L2) exp=54:9.7 {I10}:|?0.6 (1971Br28).  
+223RA cG MR$from A{-2}=-0.23 {I3}, A{-4}=-0.05 {I4}, |a|g(|q) (1998Jo08).       
+223RA  L     247.39 4       11/2-      0.15 NS   5                          B   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5795.5    15 0.311  5   599                                        S   
+223RA cA           Other value: E|a=5796, I|a=0.3 (1957Pi31,1977Ma32).          
+223RA  G     72.85  5  0.19  15                                                 
+223RAF G FL=174.569                                                             
+223RA cG           Possible doublet.                                            
+223RA  G     117.20 5   1.54 11    E1                    0.332                  
+223RAS G KC=    0.258  $LC=   0.0557   $MC=    0.0134  $NC+=     0.00461        
+223RA cG E         other value: 117.2 {I1} (1968Da10).                          
+223RA cG M$from ce(L1):ce(L2) exp=|?0.005:|?0.003 (1971Br28); |g(|q,H)          
+223RA2cG (1990Br23). A{-2}=-0.27 {I3}, A{-4}=-0.05 {I4}, |a|g(|q) (1998Jo08).   
+223RA  G    123.58 10    0.11 4                                                 
+223RA  L    280.18222      (7/2)+      0.075 NS  25                         D   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5762.3    15 0.228  10  561                                        S   
+223RA cA           Other value: E|a=5764, I|a=0.3 (1957Pi31,1977Ma32).          
+223RA  G      105.2 1                                                           
+223RA cG E$from 1990Br23.                                                       
+223RAF G FL=174.569                                                             
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA cG           Possible doublet.                                            
+223RA  G    150.14 20  0.086 24                                                 
+223RA  G      175.8 3   0.16  4                                             C  ?
+223RA  G      200.5 1   0.10  7                                                 
+223RA  G    218.90  5    0.85 8  M1                      1.79               &   
+223RAS G KC=1.44$LC=0.266$MC=0.0635$NC+=0.0224                                  
+223RA cG M$from A{-2}=0.38 {I19}, A{-4}=0.44 {I30}, |a|g(|q) (1998Jo08)         
+223RA  G     250.15 5 0.069  13   M1                     1.23                   
+223RAF G FL=29.858                                                              
+223RAS G KC=     0.99  $LC=     0.183  $MC=   0.0436   $NC+=       0.0154       
+223RA cG M$from |a|g(|q) (1990Br23). A{-2}=-0.40 {I12}, A{-4}=0.19 {I19},       
+223RAxcG |a|g(|q) (1998Jo08).                                                   
+223RA  L    286.08714       1/2+        0.77 NS  7                          F   
+223RA cL J         236|g E1 to 3/2-; |g|g(|q) for the 236|g-50|g cascade is     
+223RA2cL consistent with J=1/2 (1957Pi31,1960Pe13,1961Br44,1965Cl05,1970Le13).  
+223RA3cL Isotropic |a|g(|q) distributions for |a(286)-236|g                     
+223RA4cL (1960Pe13,1990Br23), and for |a(286)-256|g, -286|g (1990Br23) are      
+223RA5cL also consistent with J=1/2. Nonisotropic |a|g(|q) distribution for     
+223RA6cL |a(286)-236|g measured by 1972He18 disagrees with these results.       
+223RA cL T         |a|g(t) (1958Va29,1961Fo08). Other value: 0.56 ns, |a|g(t)   
+223RAxcL (1965Co22).                                                            
+223RA  A 5756.87   15 20.4   9   5.9                                        R   
+223RA cA           Other values: E|a=5758, I|a=21 (1957Pi31,1977Ma32);          
+223RA2cA E|a=5756.9 15, I|a=20.3 {I10} (1964Ba33,1977Ma32).                     
+223RA  G   235.96  2      100 2    E1                  0.0615                   
+223RAS G KC=  0.0493   $LC=  0.00930   $MC=   0.00222  $NC+=    0.000769        
+223RA cG E         other value: 236.0 {I1} (1968Da10).                          
+223RA cG M         from ce(K):ce(L1):ce(L2):ce(L3) exp=61:8.7 {I9}:2.6 {I3}:1.7 
+223RA2cG {I3} (1971Br28). A{-2}=0.00 {I2}, A{-4}=0.02 {I3}, |a|g(|q) (1998Jo08).
+223RA  G     256.23 2   54.3 10    E2                  0.253                    
+223RAS G KC=  0.0990   $LC=     0.113  $MC=    0.0303  $NC+=       0.0108       
+223RA cG E         other values: 256.2 {I1} (1968Da10); 256.25 {I5}             
+223RA2cG (1965Br23,1977Ma32); 256.36 {I8} (1957Pi31).                           
+223RA cG M         from ce(K):ce(L1):ce(L2):ce(L3) exp=71:13 {I1}:47 {I5}:24    
+223RA2cG {I2} (1971Br28). A{-2}=0.03 {I2}, A{-4}=0.02 {I3} (1998Jo08).          
+223RA  G   286.09  20   13.5 12  M1+E2                                          
+223RA cG E         other value: 286.1 {I1} (1968Da10).                          
+223RA cG M         from ce(K):ce(L1):ce(L2) exp=77: 13.3 {I8}:2.15 {I20}        
+223RA2cG (1971Br28). A{-2}=0.01 {I2}, A{-4}=-0.01 {I3}, |a|g(|q) (1998Jo08).    
+223RA  L     315.99 6     (13/2-)                                           B   
+223RA  A 5728.1    16 0.0342 25  2490                                       S   
+223RA  G    141.42  5   0.92 18                                             &   
+223RAF G FL=174.58                                                              
+223RA  L    329.85614       3/2-       0.42 NS   4                          G   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5713.2    16 4.89   20   15                                        S   
+223RA cA           Other value: E|a=5715, I|a=5.0 (1957Pi31,1977Ma32).          
+223RA  G      43.77 5   1.65 10    E1                   1.014                   
+223RAS G                LC=    0.765   $MC=     0.187                           
+223RA cG M         from |a|g(|q) (1990Br23); |a(L1)exp|?0.26                    
+223RA2cG (1971Br28,1977Ma32). A{-2}=-0.51 {I4}, A{-4}=-0.02 {I5}, |a|g(|q)      
+223RAxcG (1998Jo08).                                                            
+223RA cG E         other value: 43.7 {I2} (1968Da10).                           
+223RA  G      94.97 5  0.19  11                                             &   
+223RA  G     206.08 5   1.97 20    E2                   0.535                   
+223RAS G KC=    0.155  $LC=     0.278  $MC=   0.0750   $NC+=       0.0269       
+223RA cG E         other value: 206.0 {I2} (1968Da10).                          
+223RA cG M$from ce(K):ce(L1):ce(L2):ce(L3) exp=0.033:0.0067:0.036 {I4}:0.020    
+223RA2cG {I2} (1971Br28); A{-2}=0.12 {I5}, A{-4}=0.04 {I6}, |a|g(|q)            
+223RAxcG (1998Jo08). |a|g(|q) (1990Br23).                                       
+223RA  G     250.27 8   3.5   3  M1+E2   -2.1    4      0.45   5                
+223RAF G FL=79.708                                                              
+223RAS G KC=0.27 4$LC=0.136 3$MC=0.0353 5$NC+=0.0126 2                          
+223RA cG MR$weighted average of 2.1 {I4} (1990Br23), 4.1 {I7} (1998Jo08), and   
+223RA2cG 1.9 {I2} (1971Br28, 1977Ma32). Negative                                
+223RA3cG sign is from 1998Jo08. |d=1.9 {I2} from ce(K):ce(L1):ce(L2)            
+223RA4cG exp=12:|?2:2.4 (1971Br28,1977Ma32).                                    
+223RA cG E         other value: 250.1 {I1} (1968Da10).                          
+223RA  G     279.80 5   0.42 10  M1+E2   0.12    11      0.90  3                
+223RAS G KC=0.72 2$LC=0.134 2$MC=0.0319 4$NC+=0.0112 1                          
+223RA cG M         from ce(K):ce(L1):ce(L3) exp=69:13 {I2}: <0.003 (1971Br28).  
+223RA cG MR$from A{-2}=0.18 {I10}, A{-4}=0.05 {I15}, |a|g(|q) (1998Jo08).       
+223RA  G     299.98 3   17.1  5    E1                   0.0354                  
+223RA cG RI        from 1972He18.                                               
+223RAS G KC=   0.0285  $LC=  0.00522   $MC=   0.00124  $NC+=    0.000431        
+223RA cG E         other values: 299.8 {I1} (1968Da10), 299.7 {I6} (1966Po02).  
+223RA cG M         from |g(|q,H) and |a|g(|q) (1990Br23).                       
+223RA2cG A{-2}=-0.06 {I2}, A{-4}=0.00 {I3}, |a|g(|q) (1998Jo08).                
+223RA  G   329.85  2    22.8 12   (E1)                  0.0286                  
+223RAS G KC=   0.0231  $LC=  0.00418   $MC= 0.000993   $NC+=     0.000345       
+223RA cG E         other values: 329.7 {I1} (1968Da10), 329.7 {I8} (1966Po02).  
+223RA cG M         from ce(K):ce(L1) exp=75:9 {I2} (1971Br28).                  
+223RA2cG A{-2}=0.38 {I3}, A{-4}=-0.02 {I5}, |a|g(|q) (1998Jo08).                
+223RA  L    334.37012       5/2+       0.28 NS   4                          F   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5708.8    16 8.3    3    8.2                                           
+223RA cA E,IA      from 1964Ba33, recommended by 1991Ry01.                      
+223RA2cA Other value: E|a=5711, I|a=8.7 (1957Pi31,1977Ma32).                    
+223RA  G      48.30 3   0.11 4     E2                      313                  
+223RAS G                LC=       231  $MC=     62.3                            
+223RA cG E         other value: 48.2 {I1} (1957Pi31,1977Ma32).                  
+223RA cG M         from ce(L2):ce(L3) exp=1.1 {I1}: 1.0 {I1} (1971Br29).        
+223RA  G      54.19 4  0.05   1    (M1)                 19.7                &   
+223RA2 G FLAG=A                                                                 
+223RAS G                LC=      14.8  $MC=      3.55  $NC+=         1.26       
+223RA cG M         from ce(L1)|?14 (1971Br28,1977Ma32).                         
+223RA  G     99.58 10  0.20   5                                             A   
+223RA  G    204.14 10   1.76 20    E2                   0.553                   
+223RAS G KC=    0.158  $LC=     0.289  $MC=   0.0780   $NC+=       0.0279       
+223RA cG E         other value: 20.4 {I3} (1968Da10).                           
+223RA cG M         from ce(K):ce(L1):ce(L2):ce(L3) exp=34:5.4 {I10}:36 {I4}:18  
+223RA2cG {I4} (1971Br28); |a|g(|q) (1990Br23). A{-2}=0.22 {I4}, A{-4}=0.00      
+223RAxcG {I6}, |a|g(|q) (1998Jo08).                                             
+223RA  G     210.62 5    9.7  7    E1                  0.0805                   
+223RAS G KC=  0.0642   $LC=    0.0123  $MC=   0.00294  $NC+=    0.001018        
+223RA cG E         other values: 210.6 {I1} (1968Da10), 211.4 {I7} (1966Po02).  
+223RA cG M         from ce(K):ce(L1) exp=77:8.5 {I17} (1971Br28); |g(|q,H)      
+223RA2cG (1990Br23). A{-2}=-0.12 {I2}, A{-4}=0.03 {I3}, |a|g(|q) (1998Jo08).    
+223RA  G     254.63 3    5.5 10    E1                  0.0515                   
+223RAS G KC=  0.0413   $LC=  0.00772   $MC=   0.00184  $NC+=    0.000638        
+223RA cG E         other value: 254.2 {I2} (1968Da10).                          
+223RA cG M         from ce(K):ce(L1) exp=26:|?3.5 (1971Br28). A{-2}=0.40 {I2},  
+223RA2cG A{-4}=0.02 {I3}, |a|g(|q) (1998Jo08).                                  
+223RA  G     272.91 5  3.94   6  M1+E2                                          
+223RA cG E         other values: 272.5 {I2} (1968Da10); 272.9 {I10} (1966Po02). 
+223RA cG M         from |a(K)exp=0.11 {I2} (1971Br28,1977Ma32). |d=4.9+21-22    
+223RA2cG from ce data; |d=-29+20-29 |g(|q,H); |d=-28+10-34 |a|g(|q); |d=8.5     
+223RA3cG {I18}, from A{-2}=-0.16, A{-4}=0.08 {I3}, |a|g(|q) (1998Jo08).         
+223RA  G    284.24 10  0.31  10                                                 
+223RA cG E         other value: 283.8 {I3} (1968Da10).                          
+223RA  G   304.50   2   8.9  10M1+E2(+E0)  0.26  4     1.1    1                 
+223RA cG E         other values: 304.4 {I2} (1968Da10), 304.5 {I10} (1966Po02). 
+223RA cG M,MR$from ce(K):ce(L1):ce(L2):ce(L3) exp=100:17:2.2 {I3}:0.25 {I8};    
+223RA2cG |a(K)exp=0.95 {I12} (1971Br28,1977Ma32) suggests an E0 component.      
+223RA3cG |d=-0.22+5-7, |g(|q,H); |d=0.17+7-5, |a|g(|q) (1990Br23). |d=-0.07     
+223RA4cG {I4}, from A{-2}=0.52 {I2}, A{-4}=0.01 {I3}, |a|g(|q) (1998Jo08).      
+223RA cG CC        experimental value (1966Po02).                               
+223RA  G   334.37  2      8.8 6  M1+E2    -0.61  4      0.435 12                
+223RAS G KC=0.341 11$LC=0.0708 11$MC=0.0172 2$NC+=0.00606 8                     
+223RA cG E         other value: 334.2 {I1} (1968Da10), 333.7 {I13} (1966Po02).  
+223RA cG M,MR$weighted average of |d=0.58 {I7},                                 
+223RA2cG from ce(K):ce(L1):ce(L2):ce(L3) exp=370:70 {I10}:15 {I3}:|?2           
+223RA3cG (1971Br28), and |d=0.62 {I4}, from A{-2}=0.68 {I2}, A{-4}=0.12 {I3},   
+223RA4cG |a|g(|q) (1998Jo08). Negative sign is from 1998Jo08.                   
+223RA  L    342.59019       3/2+        0.050 NS LT                         F   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  A 5700.8    16 3.63   20   17                                        S   
+223RA cA           Other value: E|a=5702, I|a=4.0 (1957Pi31,1977Ma32).          
+223RA  G     56.42 14  0.07   6  M1+E2     0.47  2       40.8 16                
+223RAS G                LC=     30.2 10$MC=     7.82 25$NC+=        2.80 12     
+223RA cG M,MR$from ce(L1):ce(L2):ce(L3) exp=0.09 {I1}:0.10 {I1}:0.08 {I1}       
+223RAxcG (1971Br28).                                                            
+223RA  G     107.76 7  0.060 20    (M1)                   13.4              &   
+223RAS G KC=     10.8  $LC=      2.01  $MC=    0.480   $NC+=        0.172       
+223RA cG E         other value: 108.4 {I2} (1968Da10).                          
+223RA cG M         from |a(L1)exp|?1.4 (1971Br28,1977Ma32).                     
+223RA  G     262.87 5    0.83 6    E1                  0.0479                   
+223RAS G KC=  0.0384   $LC=  0.00715   $MC=   0.00170  $NC+=    0.000590        
+223RA cG E         other value: 262.9 {I2} (1968Da10).                          
+223RA cG M$from |a(K)exp=0.038 {I15} (1971Br28,1977Ma32); |g(|q,H) (1990Br23).  
+223RA2cG A{-2}=-0.17 {I5}, A{-4}=0.02 {I7}, |a|g(|q) (1998Jo08).                
+223RA  G     281.42 5    1.38 9                                             &   
+223RAF G FL=61.424                                                              
+223RA cG E         other value: 281.3 {I1} (1968Da10).                          
+223RA  G     292.41 5   0.51  6    E1                   0.0375                  
+223RAS G KC=   0.0302  $LC=  0.00554   $MC=   0.00132  $NC+=    0.000457        
+223RA cG E         other value: 292.4 {I2} (1968Da10).                          
+223RA cG M$from |g(|q,H) (1990Br23). A{-2}=0.36 {I6}, A{-4}=-0.03 {I9}, |a|g(|q)
+223RAxcG (1998Jo08).                                                            
+223RA  G     312.69 3     4.0 3  M1+E2    0.16   3      0.654  6                
+223RAS G KC=0.525 5$LC=0.098 1$MC=0.0233 1$NC+=0.00820 4                        
+223RA cG E         other values: 312.6 {I2} (1968Da10), 313.5 {I13} (1966Po02). 
+223RA cG M,MR$weighted average of |d=-0.14 {I3}, |a|g(|q) (1990Br23); and       
+223RA2cG |d=0.20 {I4}, from A{-2}=0.12 {I2}, A{-4}=-0.01 {I3}, |a|g(|q)         
+223RA3cG (1998Jo08). Other value:|d=0.41+6-9, from |a(K)exp=0.52 {I8}           
+223RAxcG (1971Br28,1977Ma32).                                                   
+223RA  G     342.55 4     2.7 7  M1+E2      1.29 2       0.261                  
+223RAS G KC=    0.191  $LC=   0.0520   $MC=    0.0130  $NC+=     0.00457        
+223RA cG E         other values: 342.4 {I1} (1968Da10), 342.4 {I8} (1966Po02).  
+223RA cG M,MR$from ce(K):ce(L1):ce(L2):ce(L3) exp=90:17 {I3}:7 {I1}:5 {I2}      
+223RA2cG (1971Br28). Original values of ce(L2) and ce(L3) reported by 1971Br28  
+223RA3cG seem to be incorrect. Values presented here have been corrected by     
+223RA4cG 1977Ma32. |d=-0.43+12-16, |g(|q,H); |d=-0.62+13-22, |a|g(|q)           
+223RA5cG (1990Br23). |d=1.30 {I25}, from A{-2}=-0.62 {I3}, A{-4}=-0.03 {I3},    
+223RAxcG |a|g(|q) (1998Jo08).                                                   
+223RA  L    342.65421      (9/2)+      0.10 NS   LT                         D   
+223RA cL T         nuclear recoil (1971Br29).                                   
+223RA  G      62.45 5   1.57 20   M1+E2     0.29  5      19.0 21            &   
+223RAS G LC=14.2 15$MC=3.6 4$NC+=1.27 15                                        
+223RA cG M,MR$from A{-2}=0.29 {I6}, A{-4}=-0.07 {I8}, |a|g(|q) (1998Jo08).      
+223RA2cG Other value: |?0.2, from ce(L1):ce(L2) exp=0.07:0.023 {I2} (1971Br28). 
+223RA  G    107.76  7  0.060 20   [E2]                   7.16               &   
+223RAF G FL=234.858                                                             
+223RAS G KC=    0.282  $LC=     5.02   $MC=      1.36  $NC+=       0.494        
+223RA cG E         other value: 108.4 {I2} (1968Da10).                          
+223RA  G    168.36 10  0.115 20                                                 
+223RA cG           Possible doublet.                                            
+223RA cG E         other value: 168.6 {I3} (1968Da10).                          
+223RA  G     212.70 4  0.61   7  M1+E2   -0.4    1      1.74  9                 
+223RAF G FL=130.141                                                             
+223RAS G KC=     1.36 9$LC=    0.283 17$MC=     0.069 4$NC+=       0.0242 6     
+223RA cG E         other value: 212.7 {I2} (1968Da10).                          
+223RA cG MR$sign is from |a|g(|q) (1998Jo08).                                   
+223RA cG M,MR$from ce(K):ce(L1):ce(L2): exp=10.5:1.8 {I4}:0.35 {I7} (1971Br28). 
+223RA2cG Other value: |d=-0.35 {I35}, from A{-2}=0.60 {I7}, A{-4}=-0.05 {I10},  
+223RA3cG |a|g(|q) (1998Jo08).                                                   
+223RA  G    218.90  5    0.85 8                                             &   
+223RA  G 281.42     5  1.38  9   M1+E2      0.53  2     0.738               &   
+223RAF G FL=61.424                                                              
+223RAS G KC=   0.578   $LC=     0.120  $MC=    0.0291  $NC+=       0.0103       
+223RA cG E         other value: 281.3 {I1} (1968Da10).                          
+223RA cG M,MR$from ce(K):ce(L1):ce(L2) exp=97:17 {I2}:|?3.4 (1971Br28).         
+223RA2cG |d=-0.43+5-8, |g(|q,H) (1990Br23). A{-2}=-0.28 {I7}, A{-4}=-0.14 {I9}, 
+223RAxcG |a|g(|q) (1998Jo08).                                                   
+223RA  L     350.53 6      (1/2)-                                           G   
+223RA  A 5693.0    16 1.50   10   38                                        S   
+223RA cA           Other value: E|a=5695, I|a=1.5 (1957Pi31,1977Ma32).          
+223RA  G    8.15   20  0.06   2                                             A   
+223RAF G FL=342.590                                                             
+223RA cG E$other values: 8.3 keV {I1} (1968Da10), 8.0 keV {I2} (1969Br27).      
+223RA  G     64.35 10   0.20  3   [E1]                  0.363                   
+223RAS G                LC=     0.274  $MC=   0.0665   $NC+=       0.0224       
+223RA  G   300.50  16    0.11 2  (M1+E2)                                        
+223RA2 G FLAG=A                                                                 
+223RAF G FL=50.128                                                              
+223RA cG M         A{-2}=-0.05 {I2}, A{-4}=0.01 {I3}, |a|g(|q) (1998Jo08).      
+223RA  G     350.54 7   0.85 14    E1                   0.0251                  
+223RAS G KC=   0.0203  $LC=   0.00364  $MC= 0.000863   $NC+=     0.000300       
+223RA cG E         other value: 350.6 {I2} (1968Da10).                          
+223RA cG M         from |a(K)exp=0.023 {I5} (1971Br28,1977Ma32). A{-2}=0.06     
+223RA2cG {I4}, A{-4}=0.03 {I5}, |a|g(|q) (1998Jo08).                            
+223RA  L     369.36 4      (5/2)-      0.20 NS   5                          E   
+223RA cL T         Doppler broadening (1971Br29).                               
+223RA  A 5674.3    16 0.0572 35   791                                       S   
+223RA  G    134.6   1    0.26 5   [E1]                   0.238                  
+223RAS G KC=    0.186  $LC=   0.0389   $MC=  0.00930   $NC+=      0.00322       
+223RA cG M$A{-2}=0.40 {I13}, A{-4}=-0.12 {I19}, |a|g(|q) (1990Jo08).            
+223RA cG E         other value: 134.6 {I1} (1968Da10).                          
+223RA  G    289.59 10   15    3                                                 
+223RA2 G FLAG=A                                                                 
+223RA  G    319.24  5    0.25 5   M1+E2    0.18   3     0.615                   
+223RAS G KC=   0.494   $LC=   0.0919   $MC=    0.0219  $NC+=     0.00771        
+223RA cG E         other values: 319.4 {I2} (1968Da10), 317.7 {I15} (1966Po02). 
+223RA cG M,MR$from |g(|q,H) (1990Br23).                                         
+223RA  G     369.35 5  0.048 10                                                 
+223RA cG E         other value: 369.4 {I3} (1968Da10).                          
+223RA  L    376.29611       7/2-       0.03 NS   LT                         G   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA cL T         Doppler broadening (1971Br29).                               
+223RA  A 5668.0    15 2.06   12   20                                        S   
+223RA cA           Other value: E|a=5670, I|a=1.9 (1957Pi31,1977Ma32).          
+223RA  G      33.39 8 0.06    2   [E1]                   2.09               A   
+223RAS G                LC=      1.57  $MC=    0.389                            
+223RA  G     41.93  5   0.22 10   [E1]                    1.12                  
+223RAS G                LC=    0.846   $MC=     0.208                           
+223RA  G      46.45 5                                                           
+223RA cG E         from 1990Ba23                                                
+223RA  G     96.03  5   0.54 10   (E1)                   0.124                  
+223RAS G                LC=   0.0940   $MC=    0.0226  $NC+=     0.00777        
+223RA cG M         from |a(L1)exp|<0.08 (1971Br28,1977Ma32).                    
+223RA  G     141.42 5  0.92  18     E1                  0.210               &   
+223RAS G KC=    0.165  $LC=    0.0340  $MC=  0.00814   $NC+=      0.00282       
+223RA cG E         other values: 140.9 {I10} (1966Po02), 141.2 {I1} (1968Da10). 
+223RA cG M         from |a(K)exp|?0.15 (1971Br28,1977Ma32).                     
+223RA2cG A{-2}=-0.35 {I4}, A{-4}=0.04 {I6}, |a|g(|q) (1998Jo08).                
+223RA  G   201.64  10 0.184  20 M1+E2    1.59    9       1.05  4                
+223RAF G FL=174.569                                                             
+223RAS G KC=0.63 4$LC=0.314 1$MC=0.0818 1$NC+=0.0292                            
+223RA cG M,MR$from A{-2}=0.48 {I11}, A{-4}=0.46 {I17}, |a|g(|q) (1998Jo08).     
+223RA cG E         other value: 201.4 {I3} (1968Da10).                          
+223RA  G    246.12 10 0.095   7                                                 
+223RA  G    252.50  5   0.86 12    M1                    1.20                   
+223RAS G KC=   0.966   $LC=     0.179  $MC=   0.0426   $NC+=       0.0150       
+223RA cG M$from ce(K):ce(L1) exp=8.5:1.5 {I2} (1971Br28). A{-2}=0.48 {I6},      
+223RA2cG A{-4}=0.11 {I9}, |a|g(|q) (1998Jo08).                                  
+223RA  G     296.50 5     3.4 3  M1+E2   -0.13   2      0.762  4                
+223RAS G KC=0.612 3$LC=0.114$MC=0.0271 1$NC+=0.0095                             
+223RA cG MR$negative sign is from |a|g(|q) (1998Jo08).                          
+223RA cG MR$weighted average of |d=0.12+2-1, |a|g(|q) (1990Br23), and           
+223RA2cG |d=0.16 {I2}, from A{-2}=-0.03 {I2}, A{-4}=0.06 {I3}, |a|g(|q)         
+223RA3cG (1998Jo08). |d; other values: |d=0.04+7-8, |g(|q,H) (1990Br23).        
+223RA4cG |d=0.25 {I8} from ce(K):ce(L1):ce(L2) exp=30:5.2 {I5}:0.67 {I13}       
+223RAxcG (1971Br28).                                                            
+223RA cG M$from ce(K):ce(L1):ce(L2) exp=30:5.2 {I5}:0.67 {I13} (1971Br28).      
+223RA  G     314.85 4     3.8 3    E1                   0.0318              &   
+223RAS G KC=   0.0256  $LC=  0.00466   $MC=   0.00111  $NC+=    0.000384        
+223RA cG E         other value: 314.8 {I2} (1968Da10).                          
+223RA cG M         from |a(K)exp|?0.024 (1971Br29,1977Ma32).                    
+223RA2cG A{-2}=0.52 {I4}, A{-4}=-0.03 {I6}, |a|g(|q) (1998Jo08).                
+223RA  G    325.99 18 0.049  20                                                 
+223RA  G    346.45  1 0.093  10                                                 
+223RA cG E         other value: 346.5 {I2} (1968Da10).                          
+223RA  G    376.27 10  0.04   1                                             A   
+223RA cG E         other value: 376.0 {I3} (1968Da10).                          
+223RA  L     405.07 3      (7/2)-                                           E   
+223RA  A 5640.2    15 0.0179 15   1660                                      S   
+223RA  G      62.68 3 0.056  20  [E1]                    0.40                   
+223RAF G FL=342.654                                                             
+223RAS G                LC=     0.302  $MC=   0.0734   $NC+=       0.0247       
+223RA  G    124.44 20  0.032 17                                                 
+223RA  G    169.95 10  0.043 17                                                 
+223RA  G    229.9   5  0.03   1                                             A   
+223RAF G FL=174.58                                                              
+223RA  G      280.7 3  0.02   1                                             A   
+223RA  G    324.88 20  0.08   2  M1+E2                                      A   
+223RA cG E         other value: 323 {I1} (1966Po02).                            
+223RA cG M         from |a(K)exp=0.6 {I2} (1971Br28,1977Ma32). |b               
+223RA  G    374.80 20   0.012                                                   
+223RA  L     424.12 5      (11/2+)                                          D   
+223RA  A 5622.0    17 0.0070 4   3380                                       S   
+223RA  G      109.2 4 0.041  12                                                ?
+223RA  G      249.6 5 0.06    2                                                ?
+223RAF G FL=174.569                                                             
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA2 G FLAG=C                                                                 
+223RA  G    362.63 10 0.393  10                                                 
+223RA cG E         other value: 362.3 {I3} (1968Da10).                          
+223RA  L     432.24 3      (5/2)-                                           G   
+223RA  A 5613.3    16 0.216  8   99                                         S   
+223RA  G      56.00 6  0.038   M1                      17.9                 B   
+223RAS G                LC=      13.5  $MC=      3.23  $NC+=         1.15       
+223RA cG M         from ce(L1):ce(L2) exp=0.05:|<0.005 (1971Br28), and          
+223RA2cG |a(L1)exp|?10 (1971Br28,1977Ma32).                                     
+223RA  G       89.6 4  0.03   1                                             A   
+223RAF G FL=342.590                                                             
+223RA  G    102.50 10  0.009                                                B   
+223RA  G     308.40 3  0.131 20  M1+E2                                          
+223RA cG M         from |a(K)exp|?0.33 (1971Br28,1977Ma32).                     
+223RA  G    352.61 10  0.078 17  M1+E2                                      C   
+223RA cG M         from |a(K)exp|?0.3 (1971Br28,1977Ma32).                      
+223RA  G     370.93 8  0.031 21                                                 
+223RA cG E         other value: 370.6 {I13} (1966Po02).                         
+223RA  G      382.2 3  0.050 10                                                 
+223RA cG E         other value: 382.2 {I3} (1968Da10).                          
+223RA  G      402.2 3  0.06   4                                                 
+223RA  G    432.33 10  0.032  4                                                 
+223RA cG E         other value: 432.4 {I3} (1968Da10).                          
+223RA  L     442.35 8      (7/2+)                                           F   
+223RA cL J         other assignment: J|p=9/2- member of K|p=5/2- band           
+223RA2cL (1988Le13,1986Sh02,1988Sh34).                                          
+223RA  G       99.6 2    0.1                                                B   
+223RAF G FL=342.590                                                             
+223RA  G    162.19 10  0.060 20                                                 
+223RA cG E         other value: 162.2 {I3} (1968Da10).                          
+223RA  G    267.86 20  0.055 20                                                 
+223RAF G FL=174.569                                                             
+223RA cG           Possible doublet.                                            
+223RA  G    318.46 20  0.052 17                                             C   
+223RA  L    445.07119       9/2+                                            F   
+223RA DL           JPI modified by E. Browne, March 27, 2003.                   
+223RA  A 5600.6    18 0.170  17  108                                        S   
+223RA  G      20.94 5 0.02    5                                             A   
+223RA  G      40.20 3 0.12    3                                             A   
+223RAF G FL=405.07                                                              
+223RA cG E         other value: 40.2 {I3} (1968Da10).                           
+223RA  G      68.74 3    0.45 8                                             &   
+223RA  G     110.65 5  0.025 16 E2                     6.37                     
+223RAS G KC=    0.296  $LC=     4.43   $MC=      1.21  $NC+=       0.437        
+223RA cG M         from ce(L2):ce(L3) exp=0.024:0.016 {I3} (1971Br28).          
+223RA  G    197.56 10    0.10 3                                                 
+223RA  G    270.56 20    0.22 7                                                 
+223RAF G FL=174.569                                                             
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA  G    314.85  4     3.8 3    M1                   0.655               &   
+223RAS G KC=   0.527   $LC=   0.0969   $MC=    0.0231  $NC+=     0.00812        
+223RA cG M         from |a(K)exp=0.6 {I2} (1971Br28,1977Ma32).                  
+223RA2cG A{-2}=0.34 {I9}, A{-4}=0.18 {I12}, |a|g(|q) (1998Jo08).                
+223RA  G     383.51 4  0.19  18  M1+E2   -0.46   12      0.33  2                
+223RAS G KC=0.262 21$LC=0.051 3$MC=0.0122 6$NC+=0.00431 19                      
+223RA cG E         other values: 383.3 {I2} (1968Da10), 384.0 {I8} (1966Po02).  
+223RA cG M$from |a(K)exp=0.28 {I6} (1971Br28,1977Ma32).                         
+223RA cG MR$from A{-2}=0.54 {I10}, A{-4}=-0.03 {I15}, |a|g(|q) (1998Jo08)       
+223RA  G    415.11 10   0.011 5                                                 
+223RA  L     459.93 5      (9/2)-                                           E   
+223RA cL J         other assignment: J|p=(7/2+) member of K|p=1/2+ band         
+223RA2cL (1988Le13,1986Sh02,1988Sh34).                                          
+223RA  A 5585.9    16 0.176  6    87                                        S   
+223RA  G     117.20 5              E1                    0.332                  
+223RAF G FL=342.654                                                             
+223RAS G KC=    0.258  $LC=   0.0557   $MC=    0.0134  $NC+=     0.00461        
+223RA cG E         other value: 117.2 {I1} (1968Da10).                          
+223RA cG M         from ce(L1):ce(L2) exp=|?0.005:|?0.003 (1971Br28), and       
+223RA2cG |a(L1)exp|?0.029 (1971Br28,1977Ma32).                                  
+223RA  G      212.7 3   0.15  4                                             C  ?
+223RA  G      225.5 3   0.07  2                                             A  ?
+223RA  G   285.52  10   0.34  9                                                 
+223RAF G FL=174.58                                                              
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA  G      398.6 3   0.011 3                                                 
+223RA cG E         other value: 398.9 {I5} (1968Da10).                          
+223RA  L     514.25 8  (11/2-)                                              E   
+223RA cL J         other assignment: J|p=11/2- member of K|p=1/2- band          
+223RA2cL (1988Le13,1986Sh02,1988Sh34).                                          
+223RA  A 5531.7    18 0.021  2  377                                         S   
+223RA  G    54.19  10 0.005   1 (M1)                    19.7                &   
+223RA2 G FLAG=A                                                                 
+223RAS G                LC=      14.8  $MC=      3.55  $NC+=         1.26       
+223RA cG M         from |a(L1)exp|?14 (1971Br28,1977Ma32).                      
+223RA  G   267.05  20  0.08   2                                             A   
+223RA  G   339.76  10  0.03   1                                             A   
+223RAF G FL=174.58                                                              
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA  L     537.1611                                                           
+223RA  A 5509.9    20 0.0166 3   362                                        S   
+223RA  G   289.77  10  0.15   3                                                 
+223RA2 G FLAG=A                                                                 
+223RA  L        568 2                                                           
+223RA  A 5480.4    22 0.0012 1   3400                                       S   
+223RA  L      590.310                                                           
+223RA  A 5458.6    20 0.00270 5  1140                                       S   
+223RA  G     466.8  2 0.0038  2                                             A  ?
+223RA  L        641 3                                                           
+223RA  A 5408.7    30 0.00044 7  3700                                       S   
+223RA  L        685 3                                                           
+223RA  A 5365.0    25 0.00066 3  1410                                       S   
+223RA  L      712.7 4                                                           
+223RA  A 5335.9    50 0.0002 1   3240                                       S   
+223RA  G      632.3 7  0.0011 2                                             D   
+223RA  G      662.8 40.00046 14                                             D   
+223RA  L        729 4                                                           
+223RA  A 5321.8    40 0.0002410  2190                                       S   
+223RA  L     784.0217                                                           
+223RA  G      722.1 6  0.0029 9                                             D   
+223RA  G      734.4 5  0.0008 3                                             D   
+223RA  G      754.1 2 0.0019 11                                             &   
+223RA  G      784.2 50.00077 19                                             D   
+223RA  L     786.9017                                                           
+223RA  A 5264.3    20 0.0026 2    94                                        S   
+223RA  G      452.9 6 0.002   5                                             A  ?
+223RA  G     457.5 1  0.00054                                               D  ?
+223RA  G     552.4 5  0.0018  4                                             D   
+223RA  G      707.2 7 0.00031 9                                             D   
+223RA  G     738.4 100.00054 13                                             D  ?
+223RA  G      756.9 2 0.0015  4                                             D   
+223RA  G      787.4 50.00031 18                                             &   
+223RA2 G FLAG=D                                                                 
+223RA  L      792.6 6                                                           
+223RA  G      792.6 6 0.00023 6                                                ?
+223RA  L     803.44 9                                                           
+223RA  A 5248.3    20 0.0032016   61                                        S   
+223RA  G      569.0 3  0.0046 7                                             D  ?
+223RA  G      723.5 1  0.0021 8                                             D   
+223RA  G      754.1 2 0.0019 11                                             &   
+223RAF G FL=50.128                                                              
+223RA  G      803.9 4  0.005  4                                                 
+223RA  L     818.1818                                                           
+223RA  G      756.9 2  0.0015 4                                                ?
+223RA  G      787.4 50.00031 18                                             &  ?
+223RA2 G FLAG=D                                                                 
+223RA  G        818 1 0.0013  6                                             &  ?
+223RA  L     823.03 9                                                           
+223RA  A 5229.2    20 0.0098 3    16                                        S   
+223RA  G        480 1  0.0023 7                                             D  ?
+223RAF G FL=342.654                                                             
+223RA  G      493.1 2  0.0042 6                                             D   
+223RA  G      536.9 1 0.0085 13                                             D   
+223RA  G      589.0 60.00046 12                                             D  ?
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA  G      773.4 4  0.0012 3                                                 
+223RA  G      792.6 6 0.00031 8                                             D  ?
+223RA  G      823.4 4 0.020   2                                                 
+223RA  L      826.7 3     (3/2+)                                                
+223RA cL J         from adopted levels                                          
+223RA  G      746.4 7  0.0008 3                                             D   
+223RA  G      766.3 5  0.0023 5                                             D   
+223RAF G FL=61.424                                                              
+223RA  G      775.8 5 0.012   1                                                 
+223RA  G      826.7 5  0.0013 4                                             D   
+223RA  L     842.05 8                                                           
+223RA  A 5210.2    20 0.0070 3    17                                        S   
+223RA  G      507.5 1 0.0051 20                                                 
+223RA  G      556.1 2 0.0029 12                                                 
+223RA  G      607.7 3  0.0014 3                                                 
+223RA  G     718.5 10 0.00023 9                                                ?
+223RA  G      762.2 5  0.0021 4                                                 
+223RA  G      781.0 5  0.0025 5                                                 
+223RA  G      812.6 4   0.013 2                                                 
+223RA  G      842.5 3 0.0069 10                                                 
+223RA  L     859.0711                                                           
+223RA  A 5193.7    25 0.0038027   25                                        S   
+223RA  G        482 1  0.0011 3                                             D  ?
+223RA  G      516.6 3  0.0022 8                                                 
+223RAF G FL=342.590                                                             
+223RA cG           Populates 342.590 (3/2+) or 342.654 ((9/2)+)                 
+223RA  G      524.5 4  0.0015 3                                                 
+223RA  G      579.0 2 0.0035 25                                                 
+223RA  G      735.4 2  0.0013 4                                                 
+223RA  G      797.3 5  0.0071 9                                                 
+223RA  G     808.6  4 0.0006  2                                             A  ?
+223RA  G      828.5 5  0.0015 4                                             &  ?
+223RA2 G FLAG=D                                                                 
+223RA  G      858.9 2  0.0020 3                                                 
+223RA  L      867.5 4                                                           
+223RA  G      837.8 5  0.0041 9                                                 
+223RA  G      867.3 5 0.0023 17                                                 
+223RA  L     879.4117    (7/2+)                                                 
+223RA cL J         from adopted levels                                          
+223RA  A 5180.6    40 0.0012024   60                                        S   
+223RA  G      644.3 30.0007   3                                                 
+223RA  G      704.3 50.00062 12                                             D  ?
+223RAF G FL=174.569                                                             
+223RA cG           Populates 174.569 ((9/2)-) or 174.58 ((11/2)+)               
+223RA  G      748.8 4 0.0032  9                                                ?
+223RA  G      818.1 2 0.0013  6                                             &   
+223RA  G      848.3 6 0.0021  6                                                ?
+223RA  L      884.2 5                                                          ?
+223RA  A 5171.0    30 0.0017017   39                                        S   
+223RA  G      854.3 50.00054 11                                             D  ?
+223RA  L        891 1                                                          ?
+223RA  G        891 1 0.00015 5                                             D  ?
+223RA  L      904.412                                                          ?
+223RA  G     534.6  40.00077 23                                             D  ?
+223RA  L     908.0322                                                           
+223RA  A 5146.5    20 0.00410 8   12                                        S   
+223RA  G      448.0 6  0.0011 6                                             D   
+223RA  G      621.4 50.00046 12                                             D   
+223RA  G      828.5 5  0.0015 4                                             &  ?
+223RA2 G FLAG=D                                                                 
+223RA  G      857.3 70.00046 14                                             D   
+223RA  G      878.2 4 0.0011  3                                             D   
+223RA  G      908.6 4 0.0185 25                                                 
+223RA  L     926.4816     (3/2,5/2-)                                            
+223RA cL           From adopted levels                                          
+223RA  A 5128.7    30 0.00062 5   60                                        S   
+223RA  G      576.0 20.0025  15                                                 
+223RA  G        596 1 0.00008 4                                             D  ?
+223RA  G      692.0 7 0.00031 9                                             D   
+223RA  G      846.7 50.00115 23                                             D   
+223RA  G      876.3 4  0.0018 6                                                 
+223RA  G      896.1 50.00085 21                                             D   
+223RA  G        927 1.00005   2                                             D   
+223RA  L      943.110     (3/2,5/2)                                             
+223RA cL J         from adopted levels                                          
+223RA  A 5110.5    40 0.00028 2  106                                        S   
+223RA  G        863 1 0.00015 6                                             D  ?
+223RA  G        893 1 0.00010 3                                             D   
+223RA  L     971.3125                                                           
+223RA  A 5083.5    400.00015015  133                                        S   
+223RA  G      641.0 5 0.00015 5                                             D   
+223RA  G        910 1 0.00012 5                                             D   
+223RA  G      941.6 3 0.00055 8                                             D   
+223RA  G     971.7 10.00008   4                                             D  ?
+223RA  L     999.8517                                                           
+223RA  A 5056.1    40 0.00023 2   58                                        S   
+223RA  G      623.8 5  0.0013 3                                                 
+223RA  G      920.0 5.00009   2                                             D   
+223RA  G      938.0 8 0.00008 3                                             D   
+223RA  G      970.0 2 0.0011  9                                                 
+223RA  G      999.8 5 0.00023 6                                                 
+223RA  L     1015.2 7                                                          ?
+223RA  G     1015.2 7 0.00012 3                                             D  ?
+223RA  L     1020.1 3                                                           
+223RA  G      958.7 30.00048 10                                             D   
+223RA  G      990.0 7 0.00027 7                                             D   
+223RA  G       1020 1 0.00015 5                                             D   
+223RA  L     1025.010                                                           
+223RA  A 5033.5    40 0.00031 2   30                                        S   
+223RA  G        995 1 0.00005 3                                             D  ?
+223RA  G       1025 1 0.00012 3                                             D   
+

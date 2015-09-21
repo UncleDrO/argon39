@@ -1,0 +1,51 @@
+<map id="argon39" name="argon39">
+<area shape="rect" id="node2" href="$iostuff_8f90.html#a6d3fdd9af1f968e4b407c599e712c2dc" title="Starts outputfile after calling get_inputs. " alt="" coords="350,309,511,336"/>
+<area shape="rect" id="node6" href="$elemnucl_8f90.html#ad8eafb0d250e2592d19a8690599a6343" title="Sets up element and nuclide data structures from input files. " alt="" coords="347,157,514,184"/>
+<area shape="rect" id="node11" href="$elemnucl_8f90.html#a34a7c0381935af30e589aa4b0734163a" title="Reads rock composition from input file. " alt="" coords="141,932,271,959"/>
+<area shape="rect" id="node12" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="134,755,278,781"/>
+<area shape="rect" id="node24" href="$stoppow_8f90.html#a76170db348b32b123b2759b1a9184622" title="Read in stopping power from input file. " alt="" coords="131,1049,281,1076"/>
+<area shape="rect" id="node25" href="$stoppow_8f90.html#a65317bfea168be8b9cae828b00d5ae38" title="Calculate and output alpha particle range. " alt="" coords="353,1243,509,1269"/>
+<area shape="rect" id="node30" href="$neutron_8f90.html#ad50d8fae10d3044e2a4281665df03b4c" title="Outputs possible (alpha,n) targets, where &quot;possible&quot; means a particular target nuclide is present..." alt="" coords="124,63,288,89"/>
+<area shape="rect" id="node31" href="$mcnp6extract_8f90.html#acd47d7c90f820f36e4410de86184c731" title="Gets (alpha,n) targets from input file and allocates targets(:) array. " alt="" coords="342,881,519,908"/>
+<area shape="rect" id="node32" href="$neutron_8f90.html#a673c2e038a4f5b55299066fedf562cc5" title="Sets up values and pointers to target nuclide properties. " alt="" coords="133,137,279,164"/>
+<area shape="rect" id="node33" href="$neutron_8f90.html#ac1e14a79afff201a9f50533f971052e7" title="Reads (a,n) cross section. " alt="" coords="126,524,286,551"/>
+<area shape="rect" id="node34" href="$neutron_8f90.html#a5110672e8691955a1f3abff1f54c4039" title="Top subroutine to calculate (a,n) neutron yield from each alpha decay branch of each chain..." alt="" coords="131,1298,281,1339"/>
+<area shape="rect" id="node40" href="$neutron_8f90.html#ac9afffbf2d4d8afc896dcbe976991b28" title="Top subroutine to calculate (a,n) neutron energy spectra from each decay chain. " alt="" coords="131,1578,281,1619"/>
+<area shape="rect" id="node49" href="$fission_8f90.html#a3c6ac74dedece146555620d34c97ebf3" title="calculate_sf_neutron\l_production" alt="" coords="133,983,279,1025"/>
+<area shape="rect" id="node50" href="$iostuff_8f90.html#a59df1b192d6920203b1a945ffd3ab950" title="Closes output file and prints final message on stdout. " alt="" coords="152,1100,260,1127"/>
+<area shape="rect" id="node3" href="$iostuff_8f90.html#a38e224d9341ed418ce42515c2cad9052" title="Gets inputs from inputfile. " alt="" coords="623,208,707,235"/>
+<area shape="rect" id="node5" href="$iostuff_8f90.html#af759d00c9a49b8f430c17756db8dabbb" title="Opens external file including error handling. " alt="" coords="839,897,915,924"/>
+<area shape="rect" id="node4" href="$iostuff_8f90.html#ad77856a6e12b6bafdb9db600d0a26385" title="Subroutine that extracts inputfile name from commnad line. " alt="" coords="813,201,941,242"/>
+<area shape="rect" id="node7" href="$ensdf_8f90.html#ac85c1610cf6186365e8b9104254d54a0" title="Converts all alphanumeric characters in the string to upper case. " alt="" coords="844,117,909,144"/>
+<area shape="rect" id="node8" href="$elemnucl_8f90.html#a34c1f3496ecbc454c7857809cf1798c2" title="Adds nuclide to the nuclide array by expanding its size. " alt="" coords="607,56,723,83"/>
+<area shape="rect" id="node10" href="$elemnucl_8f90.html#a9431cbc73d2a2f6ee5119073ac6723f5" title="Simply fills names of elements in element array. " alt="" coords="597,157,734,184"/>
+<area shape="rect" id="node9" href="$ensdf_8f90.html#a9f343a9e65fbf1717c6c4887c0e74884" title="Returns NUCID from Z and A compliant to ENSDF standard, i.e., mass number in cols 1&#45;3 right&#45;justied..." alt="" coords="830,45,923,72"/>
+<area shape="rect" id="node13" href="$decchains_8f90.html#a846040297eef709abf3f8dac36b0bdd4" title="Gets decays chains from input file and allocates dchain(:) array. " alt="" coords="355,747,506,789"/>
+<area shape="rect" id="node15" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="362,593,499,620"/>
+<area shape="rect" id="node22" href="$decchains_8f90.html#a3a5066500c84a1857b9e5983e2c9fb08" title="Outputs parameters of decay chain ic to output file. " alt="" coords="360,543,501,569"/>
+<area shape="rect" id="node23" href="$decchains_8f90.html#a31f59d79ebc87116c67becd7087688eb" title="Outputs energy spectra of alphas produced in chain ic " alt="" coords="348,819,513,845"/>
+<area shape="rect" id="node14" href="$ensdf_8f90.html#a4572e087dca23cd61cb6b6e236aa5060" title="Checks NUCID format. " alt="" coords="589,745,741,772"/>
+<area shape="rect" id="node16" href="$ensdf_8f90.html#abf41713aa86fc45deb8a017daaf563ba" title="Reads ENSDF decay dataset. " alt="" coords="587,644,743,671"/>
+<area shape="rect" id="node17" href="$decchains_8f90.html#a533a9c47122d882f670c3ab5fd7ea8d6" title="Appends alpha branch adec to dchain(ic)Abranch array. " alt="" coords="591,411,740,453"/>
+<area shape="rect" id="node18" href="$decchains_8f90.html#ac3f1457cdc888bfbf46092efccffc1fa" title="Appends beta branch bdec to dchain(ic)Bbranch array. " alt="" coords="585,477,746,518"/>
+<area shape="rect" id="node19" href="$decchains_8f90.html#ac88a325210435f8430ff77723b4e6f56" title="Calculates the total, including up&#45;the&#45;chain, branching of each decay branch. " alt="" coords="579,543,752,569"/>
+<area shape="rect" id="node20" href="$ensdf_8f90.html#a42cf66c8a060d39f6c3e1da42f56b3ed" title="Gets A and Z from NUCID. " alt="" coords="619,593,712,620"/>
+<area shape="rect" id="node21" href="$elemnucl_8f90.html#a80682d75c547656792b6819000fb25ed" title="Returns index inuc of nuclide Z,A " alt="" coords="599,5,731,32"/>
+<area shape="rect" id="node26" href="$nr__dqtrap_8f.html#a694ce7543be4910a1892809a7c8a2119" title="Returns as s the integral of the function func from a to b. " alt="" coords="639,1252,691,1279"/>
+<area shape="rect" id="node28" href="$stoppow_8f90.html#a9fbcbf8e4672f621ffcfcfe00abd9238" title="Function 1 / linear_stopping_power provided for integration of alpha range. " alt="" coords="621,1303,710,1329"/>
+<area shape="rect" id="node27" href="$nr__dtrapzd_8f.html#ad4ab46147be364cc1164eeec24d5638f" title="This routine computes the nth stage of refinement of an extended trapezoidal rule. " alt="" coords="847,1387,906,1413"/>
+<area shape="rect" id="node29" href="$general_8f90.html#ae1acc3fd1375342897df419160518e3f" title="Interpolation of type between tabulated values of function fa at xi " alt="" coords="805,1543,948,1569"/>
+<area shape="rect" id="node35" href="$neutron_8f90.html#ab150153b0d7ccb063bd1ec88e79e1534" title="Tabulates neutron production function. " alt="" coords="336,1305,525,1332"/>
+<area shape="rect" id="node37" href="$neutron_8f90.html#a8260069a5794c466c25d4040fc4fa599" title="Outputs neutron production table :) " alt="" coords="358,1169,503,1210"/>
+<area shape="rect" id="node38" href="$neutron_8f90.html#afe0a678748b78733d7e0e3baf8c9e6c5" title="Outputs neutron yield :) " alt="" coords="357,1369,504,1396"/>
+<area shape="rect" id="node36" href="$neutron_8f90.html#ac47eda82ac82a65036682cf5844bef84" title="Function (a,n)_cross_section / linear_stopping_power provided for integration of neutron production f..." alt="" coords="629,1353,702,1380"/>
+<area shape="rect" id="node39" href="$neutron_8f90.html#aede472afb2836d715f208b399020b8ad" title="Calculates various outputs. " alt="" coords="594,1404,737,1431"/>
+<area shape="rect" id="node41" href="$neutron_8f90.html#aee8287f8ab14cf717b431e223ad40d28" title="Tabulates TALYS differential neutron production function. " alt="" coords="360,1677,501,1718"/>
+<area shape="rect" id="node44" href="$neutron_8f90.html#aeed8bee0f91f7d8def5a34d0cf7d95c5" title="Calculates neutron spectrum nspec from (a,n) with alpha of energy E0 uses simple reaction kinematics..." alt="" coords="361,1742,501,1783"/>
+<area shape="rect" id="node46" href="$neutron_8f90.html#ad666ff40a34c5b4d8884f6f0281d0b78" title="Interpolates differential neutron production function to alpha energy Ea " alt="" coords="361,1546,501,1587"/>
+<area shape="rect" id="node47" href="$neutron_8f90.html#a205a6064d99449f15070e33674939409" title="Cleans up and checks neutron spectra :) " alt="" coords="349,1611,513,1653"/>
+<area shape="rect" id="node48" href="$neutron_8f90.html#adbcdb83427ac7bfe40a2debbe73e43b4" title="Outputs neutron spectra, user&#45;friendly xy file + for MCNP6 input. " alt="" coords="349,1444,512,1471"/>
+<area shape="rect" id="node42" href="$neutron_8f90.html#a7f3c8c1b9fb42e2ecdd3f4cfe4646aa4" title="Retrieves TALYS differential neutron production cross section (n spectrum) and interpolates to Enspec..." alt="" coords="597,1506,733,1547"/>
+<area shape="rect" id="node43" href="$neutron_8f90.html#af083fdc779ff8ce842f616732a568f27" title="Function (a,n)_cross_section_spectrum / linear_stopping_power at a given neutron energy provided for ..." alt="" coords="616,1673,715,1700"/>
+<area shape="rect" id="node45" href="$neutron_8f90.html#ad113944a5f0424bfe566d3fd069a92c6" title="Calculated nonrelativistic reaction kinematics according to Marmier &amp; Sheldon, 1969, Appendix C.4, pp.612–614. " alt="" coords="573,1724,757,1751"/>
+</map>

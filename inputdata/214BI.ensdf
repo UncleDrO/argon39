@@ -1,0 +1,271 @@
+214BI    214PB B- DECAY                2004Mo07,2000Sa32,1990Mo0809NDS    200902
+214BI  H TYP=FUL$AUT=S. -C. WU{+a}$CIT=NDS 110, 681 (2009)$CUT=1-Nov-2007$      
+214BI c  2004Mo07, 2002De03, 1998Mo14: Radioactivity {+226}Ra(|a);              
+214BI2c  measured E|g, relative and absolute I|g, X-ray spectra; Ge(Li), HpGe   
+214BI3c  detectors. |a-spectra with 20 keV resolution using ZnS scintillator.   
+214BI c  2002MoZP: RADIOACTIVITY {+226}Ra(|a); measured E|g, I|g;               
+214BI2c  Compton suppressed spectrometer, planar HpGe detector.                 
+214BI c  2000Sa32: RADIOACTIVITY {+226}Ra(|a); measured E|g, I|g;               
+214BI2c  HpGe detector.                                                         
+214BI c  1990Mo08, 1982Ak03: Radioactivity {+226}Ra(|a); measured E|g, I|g,     
+214BI2c  |g|g; planar HpGe detector and Ge(Li) detectors.                       
+214BI c  1991Be06: Radioactivity {+226}Ra(|a); measured E|g, I|g, Ice, |g|g,    
+214BI2c  |g|g(t), |b|g|g(t), |g|g(|q);                                          
+214BI2c  levels, J|p, T{-1/2}; |g-multi., |d determined.                        
+214BI c  1991Li11:  Radioactivity {+226}Ra(|a); measured E|g, absolute I|g;     
+214BI2c  Ge detector.                                                           
+214BI c  1957Ni11: Radioactivity {+222}Em(|a); measured Ice;                    
+214BI2c  six gap |b-ray spectrometer.                                           
+214BI c  1954Ml77: measured Ice; spectrometer. See also 1954Ml80.               
+214BI c                                                                         
+214BI c  Others:                                                                
+214BI c  For additional E|g, I|g measurements, see 1983Bu14,                    
+214BI2c  1983Ol01, 1983Sc13, 1982Fa10, 1981We18, 1979Hn02,                      
+214BI3c  1977Zo01, 1975Ha31, 1972ClZS, 1970Mo28, 1969Li10, 1969Gr33,            
+214BI4c  1969Wa27, 1967Ma51, 1964Ew04, 1964Hy02, 1954Ml80, 1952Mu45.            
+214BI c  For additional |g|g(t), |b|g|g(t), T{-1/2} measurements,               
+214BI2c  see 1984Pe13.                                                          
+214BI c  For additional ce measurements, see 1952Be78, 1951Ka32.                
+214BI c  For near-zero energy electrons (e{-0}) measurements,                   
+214BI2c  see 2006Va02.                                                          
+214BI t                                                                         
+214BI t            |b|g:  1953Ka40, 1952Be78                                    
+214BI t            |g|g:  1991Be06, 1990Mo08, 1957Ni11                          
+214BI t            |g|g(t), |b|g|g(t):  1991Be06, 1984Pe13                      
+214BI t            |g|g(|q):  1991Be06                                          
+214BI t                                                                         
+214BI c  X rays(Bi):                                                            
+214BI c        I(K|a1| x ray)=10.13% {I8}; I(K|a2| x ray)=6.02% {I5} (2004Mo07).
+214BI2c  Others: I(K|a| x ray)=)=16.3% {I4} (1983Sc13); 17.3% {I20} (1969Li10)  
+214BI c        I(K|b| x ray)=4.23% {I10} (2004Mo07).                            
+214BI2c  Others: I(K|b| x ray)=4.94% {I12} (1983Sc13); 4.3% {I8} (1969Li10).    
+214BI cB IB$From intensity balance, experimental values are given in comments.  
+214BI cG E$Energies measured by 2002MoZP, 1991Be06, 1990Mo08, 1975Ha31          
+214BI2cG and 1969Li10 agree well. Weighted averages are presented here.         
+214BI3cG The values from 1991Be06 have been adjusted for                        
+214BI4cG calibration energies used, as suggested by R. G. Helmer                
+214BI5cG (priv. comm. with Y. A. Akovali, 1995El07).                            
+214BI cG RI$Relative intensities from 2004Mo07, 2002MoZP, 2000Sa32,             
+214BI2cG 1991Li11, 1983Sc13, 1983Ol01, 1975Ha31 and 1969Li10 agree well.        
+214BI3cG Unless otherwise as noted, values given represent                      
+214BI3cG weighted averages of all available data                                
+214BI4cG normalized to I|g(609)=45.49 {I16} per 100 {+214}Bi |b{+-} decays.     
+214BI cG M         From ce measurements of 1991Be06, 1957Ni11, and 1954Ml77.    
+214BI2cG The multipolarities in square brackets are from level scheme,          
+214BI3cG except for the 196.19- and 205.68-keV |g's for which                   
+214BI4cG M1 multipolarity is assumed because of the improvement                 
+214BI5cG on the intensity balances at the 258.87 level.                         
+214BI cG MR        From |g|g(|q) and ce measurements.                           
+214BI cG E(C)$From 1969Li10, transition observed in 1969Li10 and 2000Sa32 only. 
+214BI cG E(M)      Observed by 1990Mo08 and 1991Be06 in coincidence with the    
+214BI2cG 462|g. However, assignment to {+214}Pb |b{+-} decay is not certain     
+214BI3cG (1990Mo08, 1991Be06).                                                  
+214BI cG RI(T)     Weighted average of values from 2000Sa32 and 1969Li10.       
+214BI cG RI(X)     From 1990Mo08.                                               
+214BI cL E$From least square fit to E|g's by evaluator.                         
+214BI2cL 0.3-keV uncertainty assumed when not reported.                         
+214BI cL J$From adopted levels.                                                 
+214PB  P 0.0          0+               26.8 M    9               1019     11    
+214BI  N 1.0         1.0       1.0       1.0                                    
+214BI PN 1.0                             1.0                                 3  
+214BI  G 107.22    9  0.0068 14                                                 
+214BIF G FLAG=MX                                                                
+214BI  G 137.45    30 0.053  14                                                 
+214BIF G FLAG=CT                                                                
+214BI  G 141.3     6  0.058  18                                                 
+214BIF G FLAG=CT                                                                
+214BI  G 170.07    6  0.015  3                                                  
+214BIF G FLAG=MX                                                                
+214BI  G 216.47    7  0.0100 23                                                 
+214BIF G FLAG=MX                                                                
+214BI  G 470.6     8  0.011  3                                                  
+214BIF G FLAG=CT                                                                
+214BI  G 765.97    19 0.053  4                                                  
+214BIF G FLAG=CT                                                                
+214BI  L 0.0         1-                19.9 M    4                              
+214BI cL T$from adopted levels.                                                 
+214BI  B 1030      60 11.0   10           6.32   5                              
+214BIS B EAV=334.9 42                                                           
+214BI cB E         measured by 1956Da28.                                        
+214BI cB IB        from intensity balance. %I|b{+-}=6.3 {I20} from 1956Da28.    
+214BI2cB %I|b{+-}<10 was measured by 1957Ni11.                                  
+214BI  L 53.2282   16 (2)-             0.10 NS   LE                             
+214BI cL T$from |b|g|g(t) (1991Be06).                                           
+214BI2cL Other:0.52 ns {I15} from |b|g|g(t) (1984Pe13).                         
+214BI  G 53.2284   18 1.075  7  M1+E2    0.030   10    12.14  19                
+214BIS G LC=9.27 15$MC=2.18 4$NC+=0.686 11                                      
+214BIS G NC=0.559 9$OC=0.1140 18$PC=0.01352 20                                  
+214BI cG M,MR      L1:L2:L3=650:124:10 (1954Ml77); L1/L2=850/90 (1957Ni11).     
+214BI  L 62.69      5                                                           
+214BI  G 9.5                                                                   S
+214BI cG $Transition not observed                                               
+214BI cG           Intensity balance at the 62.7 level yields                   
+214BI2cG I(|g+ce)(62.7|g)+I(|g+ce)(9.5|g)=0.27 {I3}.                            
+214BI  G 62.7                                                                  S
+214BI cG           The transition was not observed; 1991Be06 set a limit        
+214BI2cG for its intensity: I|g(62.7|g)/I|g(53.23|g)<0.003 which yields         
+214BIxcG I|g<0.0036.                                                            
+214BI tG           |a(E1)=0.336, |a(M1)=7.81, |a(E2)=59.0.                      
+214BI2tG If the 62.7|g is E2, then I(|g+ce)(62.7|g)<0.22, and 0.02<I(|g+ce)(9.5|
+214BI+tG g)<0.30;                                                               
+214BI3tG              if M1, then I(|g+ce)(62.7|g)<0.032, and 0.21<I(|g+ce)(9.5|
+214BI+tG g)<0.30;                                                               
+214BI4tG              if E1, then I(|g+ce)(62.7|g)<0.0048, and 0.24<I(|g+ce)(9.5
+214BI+tG |g)<0.30.                                                              
+214BI cG           The authors of 1991Be06 propose J|p(62.7 level)=3- which     
+214BI2cG requires the 62.7|g to be an E2 transition.                            
+214BI  L 258.870   20 (2)-                                                      
+214BI  B                                                                       ?
+214BI  G 196.19    5  0.067  8                                                  
+214BI  G 205.68    9  0.0114 13 [M1]                   1.318                    
+214BIS G KC=1.074 15$LC=0.187 3$MC=0.0439 7$NC+=0.01380 20                      
+214BIS G NC=0.01123 16$OC=0.00230 4$PC=0.000273 4                               
+214BI cG E$from 1990Mo08.                                                       
+214BI  G 258.86    3  0.531  4 M1                      0.696                    
+214BIS G KC=0.567 8$LC=0.0983 14$MC=0.0231 4$NC+=0.00726 11                     
+214BIS G NC=0.00591 9$OC=0.001207 17$PC=0.0001437 21                            
+214BI cG M         K/L1=5.7 (1954Ml77); |a(K)exp|?0.58 (1954Ml77,1991Be06).     
+214BI  L 295.2231  16 1-               0.05 NS   LE                             
+214BI cL T$from |b|g|g(t) (1991Be06). Other:|<0.10 ns from |b|g(t) (1984Pe13).  
+214BI  B             40.2    6            5.24   3                              
+214BIS B EAV=225.6 40                                                           
+214BI cB           E=730, %I|b=75 was measured by 1952Be78 and                  
+214BI2cB E=650 {I10}, %I|b=44 by 1953Ka40. If the 56.84|g exists and            
+214BI3cB feeds the 295-keV level, I(|b{+-} decay to the 295 level)=40.2         
+214BIxcB {I6}-I(|g+ce)(56.84|g).                                                
+214BI  G 241.9950  23 7.251  16 M1(+E2)  0.00    15    0.838  18                
+214BIS G KC=0.683 16$LC=0.1185 18$MC=0.0279 4$NC+=0.00876 13                    
+214BIS G NC=0.00713 11$OC=0.001456 22$PC=0.000173 3                             
+214BI cG M,MR      L1:L2:L3=78:17:<4 (1954Ml77); K/L=5.30 {I15} (1957Ni11);     
+214BI2cG |a(K)exp=0.73 {I16}, |a(L)exp=0.104 {I26} (1991Be06);                  
+214BI3cG see also (242|g)(53|g)(|q) data of 1991Be06.                           
+214BI  G 295.2228  18 18.42  4  M1+E2    0.30    13    0.46   3                 
+214BIS G KC=0.368 25$LC=0.0663 21$MC=0.0157 5$NC+=0.00491 14                    
+214BIS G NC=0.00400 11$OC=0.000814 25$PC=9.6E-5 4                               
+214BI cG RI$weighted average of values from 2004Mo07, 2002MoZP, 2000Sa32,       
+214BI2cG 1983Sc13, 1983Ol01, 1975Ha31 and 1969Li10.                             
+214BI3cG Other: I|g=19.3 {I2} from 1991Li11.                                    
+214BI cG M,MR      K/L=6.46 (1954Ml77), 5.55 {I15} (1957Ni11);                  
+214BI2cG |a(K)exp=0.418 {I38}, |a(L)exp=0.082 {I10} (1991Be06).                 
+214BI  L 351.9324  18 0-,1-            0.10 NS   LE                             
+214BI cL T$from |b|g(t) (1984Pe13).                                             
+214BI  B 670       20 45.9   9            5.06   3                              
+214BIS B EAV=205.5 39                                                           
+214BI cB           E=670 {I20}, %I|b=25 was measured by 1952Be78 and            
+214BI2cB E=590 {I10}, %I|b=56 by 1953Ka40. Since the transition intensity for   
+214BI3cB the uncertain 56.84|g is not known, the I(|b{+-}) given here does not  
+214BI4cB include its contribution. The intensity balance gives                  
+214BI5cB %I|b{+-}=45.9 {I9} + I(|g+ce)(56.84|g).                                
+214BI  G 56.84                                                                 ?
+214BI cG           ce line observed by 1954Ml77 at 40.30 keV was interpreted by 
+214BI2cG 1969Li10 as being the L1 of a 56.84|g. No 56.84-keV photon has         
+214BI3cG been observed.                                                         
+214BI  G 298.76       0.026  5 [M1,E2]                 0.30   18            C  ?
+214BIS G KC=0.22 16$LC=0.054 13$MC=0.0131 25$NC+=0.0041 8                       
+214BIS G NC=0.0034 7$OC=0.00066 15$PC=7.E-5 3                                   
+214BI cG RI$from 2000Sa32.                                                      
+214BI  G 351.9321  18 35.60  7 M1(+E2)   0.00    35    0.300  25                
+214BIS G KC=0.245 22$LC=0.0422 23$MC=0.0099 5$NC+=0.00311 16                    
+214BIS G NC=0.00253 13$OC=0.00052 3$PC=6.2E-5 4                                 
+214BI cG RI$weighted average of values from 2004Mo07, 2002MoZP, 2000Sa32,       
+214BI2cG 1983Sc13, 1983Ol01, 1975Ha31 and 1969Li10.                             
+214BI3cG Other: I|g=37.6 {I4} from 1991Li11.                                    
+214BI cG M,MR      K/L=5.85 (1954Ml77), 5.65 {I15} (1957Ni11);                  
+214BI2cG |a(K)exp=0.280 {I23}, |a(L)exp=0.049 {I5} (1991Be06).                  
+214BI  L 377.04     4                                                           
+214BI  G 118.17                                                 0.094     21   S
+214BI cG E         from level scheme; this transition was not observed. The     
+214BI2cG observed (258|g)(462|g) coincidences suggest existence of              
+214BI3cG transition(s) connecting the 377- and 258-keV levels.                  
+214BI cG           I(|g+ce)=0.094 {I21} from intensity balance at the 377.0-keV 
+214BI2cG level, assuming that there is no |b{+-} decay to the level.            
+214BI  G 314.33    7  0.078  6                                                  
+214BI  G 323.84    4  0.029  3                                                  
+214BI  L 533.676   13 (1-)                                                      
+214BI  B             1.04    5            6.24   5                              
+214BIS B EAV=143.1 37                                                           
+214BI  G 181.5        0.0009 5                                                 ?
+214BI cG E,RI$from 2000Sa32.                                                    
+214BI cG           ce line observed by 1954Ml77 at 90.96 keV was interpreted by 
+214BI2cG 1969Li10 as being the K of a 181.5|g.                                  
+214BI  G 238.4        0.016  LT [M1,E2]                0.6    4                ?
+214BIS G KC=0.4 3$LC=0.112 12$MC=0.0277 14$NC+=0.0086 6                         
+214BIS G NC=0.0071 4$OC=0.00139 13$PC=0.00014 4                                 
+214BI cG E,RI$from 1969Li10, not observed by others.                            
+214BI  G 274.80    4  0.355  10 (M1+E2)  1.0     LE    0.48   11                
+214BIS G KC=0.38 10$LC=0.077 7$MC=0.0184 12$NC+=0.0058 4                        
+214BIS G NC=0.0047 4$OC=0.00095 8$PC=0.000107 15                                
+214BI cG RI$weighted average of values from 2004Mo07, 2000Sa32, 1990Mo08.       
+214BI2cG 1975Ha31 and 1969Li10.                                                 
+214BI3cG Other: I|g=0.474 {I11} from 1991Li11.                                  
+214BI cG M,MR      K/L1=6.3 (1954Ml77); |a(K)exp|?0.52 (1954Ml77,1991Be06).     
+214BI  G 480.432   20 0.337  4  D(+Q)    0.0     10                             
+214BI cG M         from (480|g)(53|g)(|q) data of 1991Be06. It is M1(+E2)       
+214BI2cG from the level scheme.                                                 
+214BI  G 533.66    2  0.181  6 [M1,E2]                 0.06   4                 
+214BIS G KC=0.05 3$LC=0.010 4$MC=0.0023 9$NC+=0.0007 3                          
+214BIS G NC=0.00059 23$OC=0.00012 5$PC=1.4E-5 7                                 
+214BI  L 797.29     9                                                          ?
+214BI  G 538.42    8  0.020  3                                                 ?
+214BI cG           The 538.4|g was observed to be in coincidence with           
+214BI2cG the 258.8|g; however, since no other |g deexciting the 797-keV         
+214BI3cG level was found, its placement is considered by 1990Mo08 as            
+214BI4cG questionable.                                                          
+214BI  L 839.009   20 1+                                                        
+214BI  B             2.75     4           4.44   9                              
+214BIS B EAV=48.3 32                                                            
+214BI  G 305.26    3  0.0312 21 [E1]                   0.0292                   
+214BIS G KC=0.0239 4$LC=0.00408 6$MC=0.000956 14$NC+=0.000296 5                 
+214BIS G NC=0.000243 4$OC=4.84E-5 7$PC=5.36E-6 8                                
+214BI  G 462.02    6  0.212  5                                                  
+214BI  G 487.14    6  0.432  5  (E1)                   0.01046                  
+214BIS G KC=0.00863 12$LC=0.001406 20$MC=0.000328 5$NC+=0.0001019 15            
+214BIS G NC=8.33E-5 12$OC=1.676E-5 24$PC=1.91E-6 3                              
+214BI cG M         |a(K)exp<0.024 (1954Ml77,1991Be06).                          
+214BI  G 543.83    7  0.044  4 [E1]                    0.00834                  
+214BIS G KC=0.00689 10$LC=0.001111 16$MC=0.000259 4$NC+=8.05E-5 12              
+214BIS G NC=6.57E-5 10$OC=1.325E-5 19$PC=1.519E-6 22                            
+214BI  G 580.14    3  0.370  4 (E1)                    0.00732                  
+214BIS G KC=0.00605 9$LC=0.000970 14$MC=0.000226 4$NC+=7.03E-5 10               
+214BIS G NC=5.74E-5 8$OC=1.158E-5 17$PC=1.331E-6 19                             
+214BI cG M         |a(K)exp<0.024 (1954Ml77,1991Be06).                          
+214BI  G 785.96    8  1.06   3   E1                    0.00406                  
+214BIS G KC=0.00337 5$LC=0.000527 8$MC=0.0001222 18$NC+=3.81E-5 6               
+214BIS G NC=3.11E-5 5$OC=6.30E-6 9$PC=7.35E-7 11                                
+214BI cG M         |a(K)exp<0.009 (1954Ml77,1991Be06).                          
+214BI  G 839.07    8  0.583  8  (E1)                   0.00359                  
+214BIS G KC=0.00299 5$LC=0.000465 7$MC=0.0001077 15$NC+=3.36E-5 5               
+214BIS G NC=2.74E-5 4$OC=5.56E-6 8$PC=6.49E-7 9                                 
+214BI cG M         from nonobservation of its ce lines.                         
+214BI  L 888.04    10                                                          ?
+214BI  G 511.00    9  0.033  9                                                 ?
+214BIF G FLAG=X                                                                 
+214BI cG           The 511.0|g was observed to be in direct coincidence with    
+214BI2cG the 324- and 314-keV |g transitions, and placed by 1990Mo08            
+214BI3cG between a level at 888 keV and the 377-keV level. The authors          
+214BI4cG of 1990Mo08 consider this placement, and therefore existence of        
+214BI5cG the proposed level at 888 keV, to be questionable.                     
+
+214BI    218AT A DECAY                                           09NDS    200902
+214BI  H TYP=FUL$AUT=S. -C. WU{+a}$CIT=NDS 110, 681 (2009)$CUT=1-Nov-2007$      
+214BI c  E(|a to 53-keV level in {+214}Bi)=6693 {I3} yields Q(|a)=6871 {I3};    
+214BI2c  E(|a to g.s.)=6756 {I5} gives Q(|a)=6882 {I5}.                         
+214BI cA E         Recommended by 1991Ry01 from the measurements of 1963Wa29.   
+214BI2cA The original energies are decreased by 1 keV due to a change in        
+214BI3cA calibration energy.                                                    
+214BI cA IA        From 1963Wa29. Earlier measurements: 1958Wa16.               
+214BI cA HF        r{-0}({+214}Bi)=1.548 {I5}, unweighted average of            
+214BI2cA r{-0}({+212}Pb)=1.5408 {I9},  r{-0}({+214}Pb)=1.5379 {I7},             
+214BI3cA r{-0}({+214}Po)=1.559 {I8},  r{-0}({+216}Po)=1.5555 {I2} (1998Ak04)    
+218AT  P 0.0                             1.5 S   3              6874      3     
+214BI  N                       0.999                                            
+214BI  L 0.0           1-                                                       
+214BI  A 6756      5  3.6       110    3                                        
+214BI  L 62.69      5                                                           
+214BI cL E         adopted from {+214}Pb |b{+-} decay.                          
+214BI  A 6693      3  90        2.5    5                                        
+214BI  L 103       6                                                            
+214BI cL E         from the measured E|a=6653 {I5} feeding this level and       
+214BI2cL E|a(to 62.7 level), including the recoil energy.                       
+214BI  A 6653      5  6.4       25     5                                        
+

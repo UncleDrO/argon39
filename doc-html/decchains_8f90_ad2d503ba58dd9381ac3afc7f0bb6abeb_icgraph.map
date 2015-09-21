@@ -1,0 +1,6 @@
+<map id="find_adecay_to_daughter" name="find_adecay_to_daughter">
+<area shape="rect" id="node2" href="$decchains_8f90.html#ac88a325210435f8430ff77723b4e6f56" title="Calculates the total, including up&#45;the&#45;chain, branching of each decay branch. " alt="" coords="225,5,399,32"/>
+<area shape="rect" id="node3" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="447,5,584,32"/>
+<area shape="rect" id="node4" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="632,5,776,32"/>
+<area shape="rect" id="node5" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="824,5,895,32"/>
+</map>

@@ -1,0 +1,95 @@
+206TL    206HG B- DECAY                1970AS05,1968WO08         08NDS    200805
+206TL  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 109, 1527 (2008)$CUT=31-Jan-2008$      
+206TL c  1968Wo08: {+206}Hg produced by {+208}Pb(p,3p) reaction and isotope     
+206TL2c  separation. |b{+-} measured in proportional counter, ce in Si(Li)      
+206TL2c  detectors, |g singles and |g|g coincidences in NaI and Ge detector,    
+206TL3c  and |g|b{+-} coincidences with NaI and Si(Li) detectors.               
+206TL c  1970As05: {+206}Hg produced by {+208}Pb(p,3p) reaction with E(p)=600   
+206TL2c  MeV. |g singles measured with Ge detector, lifetime measured with      
+206TL3c  plastic scintillators.                                                 
+206TL c  Other: 1969Ha03: survey measurement of level lifetimes using 600 MeV   
+206TL2c  proton beam on Pb target with isotope separation. Measured limit for   
+206TL3c  T{-1/2}(305|g).                                                        
+206TL cL $This 0+ to 0- |b decay has been of theoretical interest;              
+206TL2cL see discussions of 1963Bu23, 1969Da25, 1980Kr09, 1985To20, and         
+206TLXcL 1987Ki11.                                                              
+206TL cL E$From a least-squares fit to E|g                                      
+206TL cL J,T$From adopted levels                                                
+206TL cG E,M$From adopted gammas                                                
+206TL cG RI$Using I(|g+ce)=36% {I7} for the 304 keV level (1968Wo08) and the    
+206TL2cG relative intensities given in 1970As05. Uncertainties of 10% and 20%   
+206TL3cG are assumed for the 344|g and 649|g in 1970As05, respectively as       
+206TL4cG estimated from the spectrum shown in Figure 1.                         
+206TL cB IB$From the decay scheme                                               
+206HG  P  0          0+                 8.32 M     7             1308     20    
+206TL  N  1.0                   1.00     1.0                                    
+206TL PN                                                                     3  
+206TL cN NR$From I(|g+ce)(304.9|g)=36% {I7} (1968Wo08). The decay scheme is     
+206TL2cN complete, since there is a good agreement between {+206}Hg |b{+-} decay
+206TL3cN Q value of 1308 keV {I88} calculated by summing average radiation      
+206TL4cN energies (RADLIST) and that of 1308 keV {I20} from mass differences,   
+206TL5cN as given in 2003Au03                                                   
+206TL  L 0.0         0-                4.202 M   11                             
+206TL  B              62      7            5.41   6                             
+206TLS B EAV=449.5 80                                                           
+206TL  L 265.832    52-                2.29 NS   14                             
+206TL  G 265.832   5  0.0035 7 E2                      0.1602                   
+206TLS G KC=0.0855 12$LC=0.0561 8$MC=0.01440 21$NC+=0.00428 6                   
+206TLS G NC=0.00361 5$OC=0.000639 9$PC=3.09E-5 5                                
+206TL cG RI$From intensity balance considerations by                            
+206TL6cG assuming that there is no direct |b{+-} feeding to the 2- level        
+206TL  L 304.896    61-                4.2 PS    14                             
+206TL  B              35      7            5.24  10                             
+206TLS B EAV=330.2 77                                                           
+206TL cB E$935 keV {I62} in 1968Wo08                                            
+206TL  G 304.896   6  26     5 M1                      0.375                    
+206TLS G KC=0.307 5$LC=0.0519 8$MC=0.01210 17$NC+=0.00371 6                     
+206TLS G NC=0.00306 5$OC=0.000594 9$PC=5.62E-5 8                                
+206TL cG M$|a(K)exp=0.28 {I5} and K/L/M=1/0.2/0.04 in 1968Wo08                  
+206TL  L 649.42     4  1-                                                       
+206TL  B              3.0     4            5.67   8                             
+206TLS B EAV=203.1 71                                                           
+206TL  G 344.52    17 0.55   11M1                      0.269                    
+206TLS G KC=0.221 4$LC=0.0371 6$MC=0.00866 13$NC+=0.00265 4                     
+206TLS G NC=0.00219 3$OC=0.000425 6$PC=4.02E-5 6                                
+206TL  G 383.59    6  0.0035  5[M1]                    0.202                    
+206TLS G KC=0.1653 24$LC=0.0277 4$MC=0.00647 9$NC+=0.00198 3                    
+206TLS G NC=0.001632 23$OC=0.000317 5$PC=3.00E-5 5                              
+206TL cG RI$From I|g(384|g)/I|g(649|g) branching ratio in adopted gammas        
+206TL cG E$From level energy differences                                        
+206TL  G 649.42    5  2.2    3 M1                      0.0501                   
+206TLS G KC=0.0412 6$LC=0.00681 10$MC=0.001584 23$NC+=0.000485 7                
+206TLS G NC=0.000400 6$OC=7.77E-5 11$PC=7.38E-6 11                              
+
+206TL    210BI A DECAY (5.012 D)       1962KA27,1959WA05,1969LA1808NDS    200805
+206TL  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 109, 1527 (2008)$CUT=31-Jan-2008$      
+206TL c  Data are primarily from 1959Wa05, 1962Ka27, and 1969La18. See also     
+206TL2c  1960Wa14 and 1961Nu01. Others: 1947Br36, 1953Lo09, 1956Ro18            
+206TL cL E$From a least-squares fit to E|g                                      
+206TL cL J,T$From {+206}Tl adopted levels.                                      
+206TL cA E$Placement of |a branches is from |a|g coincidences (1969La18).       
+206TL cA IA$From 1959Wa05 and 1969La18.                                         
+206TL cG E,M$From {+206}Tl adopted gammas.                                      
+210BI  P 0.0         1-                5.012 D   5              5036.4    8     
+206TL  N                       13.2E-7 10                                       
+206TL cN BR$From 1962Ka27. Others: 5|*10{+-7} (1947Br36), 12.5|*10{+-7}         
+206TL2cN (1959Wa05), and 19|*10{+-7} {I4} (1961Nu01).                           
+206TL cA HF$r{-0}({+206}Tl)=1.46 {I3}, unweighted average of 1.449 {I42}        
+206TL2cA ({+206}Hg), 1.40882 {I10} ({+206}Pb) and 1.5212 {I4} ({+208}Pb)        
+206TLxcA (1998Ak04)                                                             
+206TL  L   0         0-                4.202 M   11                             
+206TL  L 265.832   5 2-                2.29 NS   14                             
+206TL  A 4694      4  40     AP                                                 
+206TL cA E$Unweighted average of 4686 keV (1959Wa05), 4700 keV {I10} (1962Ka27),
+206TL2cA and 4697 keV (1969La18).                                               
+206TL  G 265.832   5           E2                      0.1602                   
+206TLS G KC=0.0855 12$LC=0.0561 8$MC=0.01440 21$NC+=0.00428 6                   
+206TLS G NC=0.00361 5$OC=0.000639 9$PC=3.09E-5 5                                
+206TL  L 304.896    61-                4.2 PS    14                             
+206TL  A 4656      4  60     AP                                                 
+206TL cA E$Unweighted average of 4649 keV (1960Wa14), 4660 keV {I10} (1962Ka27),
+206TL2cA and 4660 keV (1969La18).                                               
+206TL  G 304.896   6           M1                      0.375                    
+206TLS G KC=0.307 5$LC=0.0519 8$MC=0.01210 17$NC+=0.00371 6                     
+206TLS G NC=0.00306 5$OC=0.000594 9$PC=5.62E-5 8                                
+

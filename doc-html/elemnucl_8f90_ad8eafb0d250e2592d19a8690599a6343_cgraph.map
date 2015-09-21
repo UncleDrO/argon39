@@ -1,0 +1,7 @@
+<map id="read_elements_nuclides" name="read_elements_nuclides">
+<area shape="rect" id="node2" href="$iostuff_8f90.html#af759d00c9a49b8f430c17756db8dabbb" title="Opens external file including error handling. " alt="" coords="251,5,327,32"/>
+<area shape="rect" id="node3" href="$ensdf_8f90.html#ac85c1610cf6186365e8b9104254d54a0" title="Converts all alphanumeric characters in the string to upper case. " alt="" coords="256,56,321,83"/>
+<area shape="rect" id="node4" href="$elemnucl_8f90.html#a34c1f3496ecbc454c7857809cf1798c2" title="Adds nuclide to the nuclide array by expanding its size. " alt="" coords="231,107,347,133"/>
+<area shape="rect" id="node6" href="$elemnucl_8f90.html#a9431cbc73d2a2f6ee5119073ac6723f5" title="Simply fills names of elements in element array. " alt="" coords="220,157,357,184"/>
+<area shape="rect" id="node5" href="$ensdf_8f90.html#a9f343a9e65fbf1717c6c4887c0e74884" title="Returns NUCID from Z and A compliant to ENSDF standard, i.e., mass number in cols 1&#45;3 right&#45;justied..." alt="" coords="405,107,499,133"/>
+</map>

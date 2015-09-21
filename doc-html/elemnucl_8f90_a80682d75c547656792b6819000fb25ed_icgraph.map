@@ -1,0 +1,7 @@
+<map id="find_nuclide_index" name="find_nuclide_index">
+<area shape="rect" id="node2" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="189,5,327,32"/>
+<area shape="rect" id="node5" href="$neutron_8f90.html#ad50d8fae10d3044e2a4281665df03b4c" title="Outputs possible (alpha,n) targets, where &quot;possible&quot; means a particular target nuclide is present..." alt="" coords="379,56,543,83"/>
+<area shape="rect" id="node6" href="$neutron_8f90.html#a673c2e038a4f5b55299066fedf562cc5" title="Sets up values and pointers to target nuclide properties. " alt="" coords="185,107,331,133"/>
+<area shape="rect" id="node3" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="389,5,533,32"/>
+<area shape="rect" id="node4" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="591,56,661,83"/>
+</map>

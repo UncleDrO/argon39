@@ -1,0 +1,144 @@
+210PB    210TL B- DECAY (1.30 M)       1964WE06,1981HA54         03NDS    200307
+210PB  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+210PB  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 99, 649 (2003)$CUT=1-Jun-2002$           
+210PB c  Measured E|g, |g|g coin, ce, 4|p|b|g coin, E|b, I|b. Detectors: scin,  
+210PB2c  semi. Others: 1961St20, 1959Dz97, 1957We21, 1956Ma61, 1938Le07,        
+210PBxc  1937De03.                                                              
+210PB cB IB(A)     No |b{+-} with E|b>3 MeV was observed (1957Da03,1964We06).   
+210PB cG           E|g, I|g (scin), Ice (semi) are from 1964We06, except as     
+210PBxcG noted.                                                                 
+210PB cG M         Deduced from measured |a(K)exp and K/L, unless otherwise     
+210PBxcG noted.                                                                 
+210PB cG           |a(K)exp=ce(K)/I|g normalized to |a(K)(799|g)=0.00815 (E2    
+210PBxcG theory)                                                                
+210PB cG RI        I(K| x ray)=10 {I1} deduced by evaluator from |g-ray         
+210PB2cG intensities and theoretical |a, disagrees with measured I(K| x ray)=20 
+210PBxcG {I4} (1964We06).                                                       
+210PB cL J         From adopted levels                                          
+210PB cL E$Deduced by evaluator from a least-squares fit to |g-ray energies.    
+210TL  P 0.0         (5+)              1.30 M    3              5490      12    
+210PB  N 0.9896    3           1.0       1.0                                    
+210PB cN NR        deduced by evaluator from decay scheme and                   
+210PB2cN I(|g+ce)(799|g)=100%. Measured I|g(799|g)/|b{+-}=1.03 {I10}, 4|p|b|g   
+210PBxcN coin (1964We06).                                                       
+210PB cN BR        %|b{+-}=100, %|b{+-}n=0.007 {I+7-4} (1961St20). Other:       
+210PBxcN 1957Ko42                                                               
+210PB  G        35610       4 2(M1)                      0.280                  
+210PBS G KC=    0.229  $LC=   0.0389   $MC=  0.00911   $NC+=      0.00292       
+210PB cG M         from |a(K)exp=0.22 {I12}.                                    
+210PB  G        38210       3 2                                                 
+210PB cG           |a(K)exp|?0.2.                                               
+210PB  G        67020       2 1                                                 
+210PB  G        91030       3 2                                                 
+210PB  G       149020       2 1                                                 
+210PB  G       154030       2 1                                                 
+210PB  G       165030       2 1                                                 
+210PB  G       209030       5 2                                                 
+210PB  L        0.0  0+                                                         
+210PB  L      799.6 32+                                                         
+210PB  G      799.6 3     100   E2                      0.0105               C  
+210PBS G KC= 0.00815   $LC=   0.00178                                           
+210PB cG E         from 1975HaZA. Others: 795 {I3} (1964We06).                  
+210PB  L       1096 34+                0.6 NS    1                              
+210PB cL T         from |b(298|g,799|g)(t) (1964We06);                          
+210PB2cL other value: 0.9 ns {I2} (>1-MeV |g) (298|g)(t) (1961St20).            
+210PB  B             20      AP               7.2AP                         A   
+210PBS B EAV=    1766 5                                                         
+210PB  G        296 3      8010 E2                       0.122               C  
+210PBS G KC=  0.0677   $LC=   0.0404   $MC=    0.0104  $NC+=      0.00329       
+210PB cG E         other value: 298 {I1} (1976Ku08). Other: 1961St20.           
+210PB cG M         from |a(K)exp=0.059 {I13}, K/L=2.1 {I5}.                     
+210PB  L      1192 246+                                                         
+210PB  G         9730       4 2 [E2]                     7.32                   
+210PBS G KC=   0.523   $LC=     5.04   $MC=      1.33  $NC+=       0.431        
+210PB cG           Ice(L)=3.3 {I16} for unresolved peak.                        
+210PB  L      1275 388+                                                         
+210PB  B             30      6              10.3 1                          A2U 
+210PBS B EAV=   1639 17                                                         
+210PB cB           Logf{+2u}t=10.3 is inconsistent with |DJ=3.                  
+210PB  G         8330     2.0 4 [E2]                      14.2                  
+210PBS G                LC=      10.5  $MC=      2.77  $NC+=       0.894        
+210PB cG RI        calc from measured I(ce(L))=20 {I4} and |a(L)=10.            
+210PB  L      1869 103-                                                         
+210PB  G       107010      12 5 [E1]                   0.00222               C  
+210PBS G KC=  0.00185  $LC=  0.000281                                           
+210PB cG E         from 1975HaZA. Other value: 1060 {I20} (1964We06)            
+210PB  L      2208 13      (2+)                                                 
+210PB  G       111020       7 2                                                 
+210PB  G       141020       5 2                                                 
+210PB  L      2412 13                                                           
+210PB  G       131613      21 5                                              C  
+210PB cG E         from 1975HaZA. Other value: 1310 {I20} (1964We06)            
+210PB  L      3069 12       (2+)                                                
+210PB  B              10     3               8.9 2                           2U 
+210PB cB           Logf{+2u}t=8.9 is inconsistent with |DJ=3.                   
+210PBS B EAV=     880 7                                                         
+210PB cB           E|b=2340 {I100}, I|b=19% (1964We06)                          
+210PB  G        86030       7 2                                                 
+210PB  G       227013       3 2                                                 
+210PB cG E         from 1975HaZA. Other value: 2280 {I30} (1964We06)            
+210PB  L      3458 22      (4+)                                                 
+210PB  B             10      3               6.1 2                              
+210PBS B EAV=    746 11                                                         
+210PB  G       159030       2 1                                                 
+210PB  G       236030       8 3                                              C  
+210PB  L      3622 21                                                           
+210PB  B              24     5               5.6 1                              
+210PBS B EAV=    677 10                                                         
+210PB cB           E|b=1870 {I100}, I|b=56% (1964We06)                          
+210PB  G       121020      17 4                                                 
+210PB  G       243030       9 3                                              C  
+210PB3 G FL=1192                                                                
+210PB  L      3879 32                                                           
+210PB  B              7      2               5.9 2                              
+210PBS B EAV=    571 14                                                         
+210PB  G       201030       7 2                                                 
+210PB  L      4102 29                                                           
+210PB  B              2      1                6.2 3                             
+210PBS B EAV=    480 13                                                         
+210PB cB           E|b=1320 {I100}, I|b=25% (1964We06)                          
+210PB  G        48020       2 1                                              C  
+
+210PB    214PO A DECAY                 1998AK04                  03NDS    200307
+210PB  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 99, 649 (2003)$CUT=1-Jun-2002$           
+210PB c  T{-1/2}({+214}Po)={ 164.3 |ms {I20}} was adopted in 1995El07 and here  
+210PB2c  from measured half-lives of { 165 |ms {I3}} (1971Er02),                
+210PB3c  { 164.3 |ms {I18}} (1961Do02), and { 163.7 |ms {I2}} (1950Vo02).       
+210PB c                                                                         
+210PB c  %|a({+214}Po)=100. The nuclide is |b stable.                           
+210PB c                                                                         
+210PB c  Q(|a)({+214}Po)={ 7833.46 {I6}} has been recommended by 1995Au04.      
+210PB cA IA        |a intensity per 100 |a decays.                              
+210PB cA HF        r{-0}({+210}Pb)={ 1.5394 {I6}} has been computed from        
+210PBxcA HF(7686.82|a)=1.0.                                                     
+210PB cG           I|g normalization: I|g(324.22|g in {+218}Rn)={ 3200 {I100}}  
+210PB2cG in relative units given here; its absolute intensity was measured by   
+210PB3cG 1969Pe17 to be { 2.77% {I8}}. The normalization factor used here is    
+210PB4cG ({ 2.77 {I8}})/({ 3200 {I100}})={ 0.00087 {I4}}.                       
+210PB cG E$From 1976Ku08. Other measurements: 1963Le17.                         
+210PB cG RI$Relative photon intensity (1976Ku08).                               
+214PO  P 0.0         0+                164.3 US  20             7833.46   6     
+210PB  N 0.00087   4           1.0                                              
+210PB  L 0.0         0+                                                         
+210PB  A 7686.82   7 99.9895 6  1.0                                             
+210PB cA E         recommended by 1991Ry01 from the measured energies of        
+210PB2cA { 7686.0 {I8}} (1961Ry02) and { 7686.73 {I6}} 6 (1971Gr17). The        
+210PB3cA original energies have been readjusted as recommended by 1991Ry01.     
+210PB cA IA        adopted by 1992Br01 from intensity balance at the g.s.       
+210PB  L 799.7     2 2+                                                         
+210PB  A 6902.2    3 0.0104  6  27.0   16                                       
+210PB cA E         calculated from E(level)={ 799.7 {I2}} and                   
+210PBxcA Q(|a)={ 7833.46 {I6}}.                                                 
+210PB cA IA        deduced from intensity balance at the 799.7-keV level.       
+210PB  G 799.7     1  11.9   5 E2                      0.01052                  
+210PB cG M         From |a(K)exp={ 0.017 {I5}} (1963Le17).                      
+210PB  L 1097.7    10 4+                                                        
+210PB  A 6609.8    11 6E-5   2  4.0E2  14                                      S
+210PB cA E         this |a transition has not been observed; its energy         
+210PB2cA has been calculated from E(level)={ 1097.7 {I10}} and                  
+210PBxcA Q(|a)={ 7833.46 {I6}}.                                                 
+210PB cA IA        deduced from |g intensity deexciting the 1097.7 level.       
+210PB  G 298       1  0.06   2 E2                      0.1194                   
+210PB cG           Observed only in |g|g-coin spectra (1976Ku08).               
+210PB cG M         From Adopted Gammas                                          
+

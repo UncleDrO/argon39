@@ -1,0 +1,78 @@
+210BI    210PB B- DECAY                1981HE15,1990SC08,1990HI0303NDS    200307
+210BI  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 99, 649 (2003)$CUT=1-Jun-2002$           
+210BI D  Updated August 8, 2002 (E. Browne).                                    
+210BI cG           Absolute L| x ray intensities measured with a high-purity    
+210BI2cG germanium detector (1990Sc08).                                         
+210BI tG                                                                        
+210BI tG                          {+210}Bi L| x ray                             
+210BI tG                                                                        
+210BI tG                                                 Intensities            
+210BI2tG   energy                             experimental        deduced by    
+210BI3tG   (keV)                                (1990Sc08)          evaluator#  
+210BI4tG --------                             -----------        -----------    
+210BI5tG    9.42  L{-{Sl}} x ray                      { 0.55 {I3}}              
+210BI+tG { 0.48 {I5}}                                                           
+210BI6tG   10.80  L{-|a} x ray                      { 9.48 {I17}}             { 
+210BI+tG 9.45 {I50}}                                                            
+210BI7tG   11.68  L{-|c} x ray                      { 0.075 {I4}}             { 
+210BI+tG 0.083 {I5}}                                                            
+210BI8tG   12.6   L|b{-4}| x ray+L|b{-6}| x ray            { 2.55 {I7}}         
+210BI+tG      { 2.33 {I30}}                                                     
+210BI9tG   13.0   L|b{-1}| x ray+L|b{-2}| x ray+L|b{-15}| x ray  { 6.59 {I33}}  
+210BI+tG            { 5.66 {I27}} (L|b{-1}| x ray+L|b{-2}| x ray)               
+210BI2tG   13.3   L|b{-3}| x ray+L|b{-5}| x ray            { 1.54 {I9}}         
+210BI+tG      { 2.79 {I40}}                                                     
+210BI3tG   13.6   L|b{-10}| x ray                    { 0.23 {I1}}               
+210BI4tG   15.2   L|g{-1}| x ray                     { 0.682 {I27}}            {
+210BI+tG  0.75 {I5}}                                                            
+210BI5tG   15.6   L|g{-2}| x ray                     { 1.38 {I4}}              {
+210BI+tG  0.75 {I12}}                                                           
+210BI6tG   16.2   L|g{-4}| x ray                     { 0.30 {I2}}               
+210BI7tG                                                                        
+210BI tG $# using theoretical conversion coefficients for a pure M1 46.5|g.     
+210BI cG           Others: 1987Me17, 1971Fi04, 1971Ge11, 1969Fr07, 1958Cu91,    
+210BI6cG 1958To10, 1957Fi06, 1954Da23, 1935St05. See 1967Ha03 for measurements  
+210BI7cG of L-Auger electrons with a magnetic spectrometer.                     
+210BI cL J,T       From adopted levels.                                         
+210PB  P 0.0                0+         22.20 Y   22             63.5      5     
+210BI  N 1.0                      1.0    1.0                                    
+210BI PN                                                                     3  
+210BI cN NR$from absolute photon intensity measurements of 1990Sc08 and         
+210BIxcN 1990Hi03.                                                              
+210BI  L 0.0           1-              5.012 D   5                              
+210BI  B                16    3              7.9 1                              
+210BI cB           E|b=61 (1957To16); E|b={ 61.0 {I13}} (1963Ro31).             
+210BI cB           I|b={ 15 {I5}} (1956St99). Others: 1957To16, 1963Ro31,       
+210BI2cB 1991SaZR, 1993Am10, 1994Ha63, 1996Gr01, 1996Go47.                      
+210BIS B EAV=  16.16 13                                                         
+210BI  L 46.539    1   0-              3 NS      LT                             
+210BI  B                84    3              5.4  1                             
+210BI cB           E|b={ 17 {I2}} (1955Le29); E|b={ 17.0 {I5}} (1967Ha03).      
+210BI2cB Others: 1952Ba02, 1952In01, 1953Hu46, 1953Ja02, 1958To10, 1991SaZR,    
+210BI3cB 1993Am10, 1994Ha63, 1996Gr01, 1996Go47.                                
+210BI cB           I|b={ 85 {I5}} (1956St99).                                   
+210BIS B EAV=   4.16 13                                                         
+210BI  G 46.539    1  4.25   4   M1                      18.7                   
+210BIS G           LC=14.2   $MC=3.36                                           
+210BI cG E         high-precision Ge(Li) measurement of 1981He15, relative to   
+210BI2cG { 53.161 keV {I2}} from {+133}Ba and { 40.58347 keV {I17}} from        
+210BI3cG {+99}Mo (value quoted by 1980Lu11). Other values: { 46.545 keV {I15}}, 
+210BI4cG Ge(Li) (1974HeYW); { 46.503 keV {I15}}, ce measurement with a magnetic 
+210BI5cG spectrometer (1957Fr29); { 46.52 keV {I2}}, cryst (1952Ew17). Others:  
+210BIxcG 2000He14.                                                              
+210BI cG RI        weighted average of { 4.26 {I7}} (1990Hi03) and { 4.24 {I5}} 
+210BI2cG (1990Sc08), both measurements used high-purity germanium detectors for 
+210BI3cG photons, and ion chambers for |a particles. Other values: { 4.18 {I9}},
+210BI4cG high-purity germanium detector (1983De11); { 4.05 {I8}}, scin          
+210BI5cG (1958Kr71); { 3.8 {I6}} (1954Da23); { 4.5 {I4}} (1957Fi06). Others:    
+210BI6cG 1996Ta22, 1996Hu07, 1995Qu03, 1991Ga09, 1969Fr07, 1958To10, 1953Ba80,  
+210BI7cG 1951Bu37, 1950Cr01, 1935St05.                                          
+210BI cG M         from conversion coefficients and sub-shell ratios.           
+210BI2cG ce(L1):ce(L2):ce(L3) exp=100:{ 10.6 {I2}}:{ 0.93 {I5}} (1959Se59);     
+210BI3cG ce(L1):ce(L2):ce(L3) exp=100:{ 10.3 {I2}}:{ 0.87 {I3}} (1969Ge01);     
+210BI4cG ce(M1):ce(M2):ce(M3):ce(M4):ce(N1):ce(O1) exp=100:10.9:|?1:|?0.1:23:5.5
+210BI5cG (1957Fr29); |a(L)exp={ 15.6 {I8}} (1958Kr71); |a(L)exp={ 14.3 {I15}},  
+210BI6cG semi (1971Ge11) using |w(L)={ 0.38 {I2}} (1957Fi06);                   
+210BI7cG |a(L)exp={ 13.3 {I20}} (1957Fi06). Others: 1966Ve01, 1958To10,         
+210BIxcG 1957Fr29, 1953Wu28, 1953Ba80, 1950Cr01.                                
+

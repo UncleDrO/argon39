@@ -1,0 +1,867 @@
+228TH    228AC B- DECAY                1987DA28                  97NDS    199704
+228TH  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+228TH  H TYP=FUL$AUT=AGDA ARTNA-COHEN$CIT=NDS 80, 723 (1997)$CUT=1-Nov-1996$    
+228AC  P 0             3+              6.15 H    2              2127       3    
+228TH  N 1.000       1.000      1.0       1.0                                   
+228TH PN                                                                     2  
+228TH cN NR        From absolute I|g, based on measurements by 1992Li05,        
+228TH2cN 1983Sc13 and 1982Sa36. This normalization leads to I|b(g.s.)=6% {I6},  
+228TH4cN although consistent with zero as expected from the spin change |DJ=3,  
+228TH5cN it may indicate that some g.s. transitions are missing from the level  
+228THxcN scheme.                                                                
+228TH cL           1992Li05: measured absolute I|g                              
+228TH cL           1987Da28: measured E|g, I|g, |g|g. Earlier report: 1985Da05  
+228TH cL           1983Sc13, 1982Sa36: measured absolute I|g                    
+228TH cL           1982Ma52, 1960Ar06, 1957Bj56: measured ce                    
+228TH cL           1979Bo30: measured E|g; not included in E|g calculation      
+228TH2cL because five out of twelve E|g disagree with measurements of 1987Da28  
+228TH3cL and 1979He10 (deviation>3 x |s)                                        
+228TH cL           1979He10: measured E|g                                       
+228TH cL           1974De14: measured E|g, I|g, |b|g(|q), |b|g(circ pol)(|q)    
+228TH cL                                                                        
+228TH cL           The decay scheme is that proposed by 1987Da28                
+228TH cL E,J       From adopted levels                                          
+228TH CL BAND(A)   GS ROTATIONAL BAND                                           
+228TH CL BAND(B)   KPI=0- OCTUPOLE BAND                                         
+228TH CL BAND(C)   KPI=0+ TWO OCTUPOLE PHONON BAND                              
+228TH CL BAND(D)   KPI=1- OCTUPOLE BAND                                         
+228TH CL BAND(E)   KPI=2+ GAMMA-VIBRATIONAL BAND                                
+228TH CL BAND(F)   KPI=2- OCTUPOLE BAND                                         
+228TH CL BAND(G)   KPI=2+ ROTATIONAL BAND ON QUASIPARTICLE STATE                
+228TH cB           J|p({+228}Ac)=3+                                             
+228TH cB           Q(|b{+-})=2127 {I3} (1995Au04)                               
+228TH cB IB        Deduced from intensity balance in the level scheme.          
+228TH cG E         From 1987Da28, unless otherwise noted                        
+228TH cG RI        From 1987Da28, unless otherwise noted. The relative I|g of   
+228TH2cG 1987Da28 have been normalized to the absolute measurements of 1992Li05,
+228TH3cG 1983Sc13 and 1982Sa36 at the three |g's with I|g>10 % (338.324|g       
+228TH4cG I|g=11.27% {I19}, 911.205|g I|g=25.8% {I4} and 968.987|g I|g=15.8%     
+228TH5cG {I3}, giving a normalization factor of 0.0258 {I5}).                   
+228TH cG M         From adopted I|g and the Ice data of 1960Ar06 and 1971He23   
+228TH2cG (as noted with |a(exp)) normalized to theoretical values for:          
+228TH3cG |a(L)(E2) for 129.065|g, |a(K)(E1) for 209.253|g and |a(K)(E2) for     
+228THxcG 968.971|g                                                              
+228TH cG E(A)      Weighted average of measurements by 1987Da28, 1979He10. The  
+228TH2cG measurements of 1979He10 have been corrected by using the calibration  
+228TH3cG line E|g from 1995HeZZ.                                                
+228TH cG E(B)      Energy fit poor, E|g not included in the least squares fit   
+228TH2cG to obtain E(level)                                                     
+228TH cG E(M)      |g unassigned by 1987Da28. Placement suggested by {+228}Pa   
+228TH2cG decay                                                                  
+228TH cG RI(D)     Weighted average of absolute intensity measurements of       
+228TH2cG 1992Li05, 1983Sc13, 1982Sa36                                           
+228TH cG RI(E)     Weighted average of measurements by 1992Li05, 1987Da28,      
+228TH2cG 1983Sc13, 1982Sa36                                                     
+228TH cG RI(F)     Weighted average of measurements by 1987Da28, 1983Sc13,      
+228THxcG 1982Sa36                                                               
+228TH cG RI(G)     Weighted average of measurements by 1987Da28, 1983Sc13       
+228TH cG RI(H)     Weighted average of measurements by 1987Da28, 1982Sa36       
+228TH cG RI(I)     Weighted average of measurements by 1992Li05, 1987Da28,      
+228THxcG 1983Sc13                                                               
+228TH cG RI(N)     Intensity of the doublet divided by evaluator by comparison  
+228TH2cG with branching ratios and the intensities of the doublet as measured   
+228TH3cG in both {+228}Ac and {+228}Pa decays.                                  
+228TH cG M(J),MR(K)$From {+228}Pa |e decay                                      
+228TH cG M(L)      |a(K)exp(1245|g+1247|g)=0.013 {I3} (1971He23); theory:       
+228TH2cG |a(K)(M1)=0.0162, |a(K)(E2)=0.00521. I(1245|g)=0.095 {I18},            
+228TH3cG I(1247|g)=0.50 {I3}; the 1245|g is [M1,E2]. Therefore: if the 1245|g   
+228TH4cG is M1, then |a(K)exp(1247|g)=0.013 {I3}; if 1245|g is E2, then         
+228THxcG |a(K)exp(1247|g)=0.015 {I3}. In each case the |g M1(+E2).              
+228TH cG E(P)      The adopted J|p require that this |g have an unreasonable    
+228TH2cG multipolarity (M2 or E3). The placement of this transition is          
+228TH3cG therefore questionable.                                                
+228TH cG RI(Q)     Total intensity (I|g=0.013 {I3}) placed from 1344.1 level by 
+228TH2cG 1987Da28. Alternate placement from 1928.6 level suggested by {+228}Pa  
+228TH3cG decay.                                                                 
+228TH cG E(R)      |g's of approximately same energy and intensity are reported 
+228TH2cG in both {+228}Ac and {+228}Pa decays. On the basis of coin with        
+228TH3cG 911.2|g, it is suggested in {+228}Ac decay that the |g feeds the 2+    
+228TH4cG 968.97 level. In {+228}Pa decay, the |g is placed feeding the 3-       
+228TH5cG 968.37 level. The energy of the |g (E|g=674.65 {I5}) agrees with decay 
+228TH6cG to the 968.37 level. Possibly the |g is a doublet feeding both the     
+228TH7cG 968.97 and 968.37 levels. I|g(doublet)=0.101 {I8}                      
+228TH cG E(T),RI(T)$|g not reported in this decay. Placement suggested by       
+228TH2cG {+228}Pa decay. I|g deduced from branching ratio in {+228}Pa decay.    
+228TH cG RI(U)     The energy of the 853-keV transition from the 1944.9 level is
+228TH2cG expected to be 853.877 {I12} from E(level); the expected intensity     
+228TH3cG is I|g=0.0031 {I4} from branching ratio in {+228}Pa decay. Therefore,  
+228TH4cG the 853.17 {I10} |g with I|g=0.0119 {I18} reported by 1987Da28 seems   
+228TH5cG to be a doublet with part of the intensity belonging to a |g unplaced  
+228TH6cG in level scheme                                                        
+228TH  G    56.96  5  0.019  4                                                  
+228TH  G   137.91  5  0.024  5   M1                    7.90                     
+228TH cG M         |a(K)exp=5.5 {I17}, K/L=5.6 {I27} (1971He23)                 
+228TH  G   466.40  10 0.029  3                                                  
+228TH  G   634.18  10 0.0106 21                                                 
+228TH  G   853.17  10 0.0088 18                                             U   
+228TH  G  1337.33  20 0.0049 15                                                 
+228TH  G  1378.23  10 0.0059 18                                                 
+228TH  G  1385.39  10 0.0106 21                                                 
+228TH  G  1434.22  15 0.0080 23                                                 
+228TH  G  1438.01  10 0.0059 15                                                 
+228TH  G  1480.37  15 0.016  3                                                  
+228TH  G  1529.05  10 0.057  6                                                  
+228TH  G  1671.64  15 0.0041 13                                                 
+228TH  G  1684.01  20 0.015  5                                                  
+228TH  G  1721.4   3  0.0057 21                                                 
+228TH  G  1745.28  20 0.0065 8                                                  
+228TH  G  1784.4   3  0.0059 10                                                 
+228TH  G  1787.3   5  0.0013 5                                                  
+228TH  G  1915.9   4  0.0008 3                                                  
+228TH  G  1919.5   3  0.0021 5                                                  
+228TH  G  1944.20  20 0.0021 5                                                  
+228TH  G  2000.9   5  0.0010 3                                                  
+228TH  L     0.0        0+                                                  A   
+228TH  L    57.759 4    2+                                                  A   
+228TH  B               8     6              8.9   4                             
+228THS B EAV=744.1 13                                                           
+228TH  G    57.766 5  0.47   3    E2                   156                  A   
+228TH3 G FLAG=H                                                                 
+228THS G LC=114$  MC=31.1$  NC+=11.4                                            
+228TH cG M         |a(L)exp=124 {I11} (1971He23); L12/L3=1.42 (1982Ma52), 1.14  
+228TH2cG {I8} (1960Ar06), 1.15 {I15} (1957Bj56); theory: |a(K)=114, L12/L3=1.23 
+228TH  L   186.823 4    4+                                                  A   
+228TH  B              0.8    6              9.8   4                             
+228THS B EAV=691.5 13                                                           
+228TH  G   129.065 1  2.42   9    E2                   3.81                 A   
+228TH3 G FLAG=E                                                                 
+228THS G KC=0.269$  LC=2.58$  MC=0.707$  NC+=0.263                              
+228TH cG M         L12/L3=1.94 {I14} (1960Ar06), 1.7 {I2} (1957Bj56). K/L=0.10  
+228TH2cG {I1} (1971He23), 0.12 {I3} (1957Bj56); theory: L12/L3=1.70, K/L=0.10   
+228TH  L   328.003 4   1-                                                   B   
+228TH  B               0.65  17            10.69 12                          1U 
+228THS B EAV=606.6 12                                                           
+228TH  G   270.245 2   3.46  6    E1                   0.0474               A   
+228TH3 G FLAG=E                                                                 
+228THS G KC=0.0379$  LC=0.00721$  MC=0.00173$  NC+=0.00061                      
+228TH cG M         |a(K)exp=0.029 {I4} (1971He23); theory: |a(K)=0.0379         
+228TH  G   328.000 6  2.95   12   E1                   0.0308               H   
+228THS G KC=0.0247$  LC=0.00458$  MC=0.00110$  NC+=0.00039                      
+228TH cG M         |a(K)exp=0.037 {I8} (1971He23); theory |a(K)=0.0247          
+228TH  L   378.179 10  6+                                                   A   
+228TH  G   191.353 10 0.123  8    E2                   0.791                H   
+228THS G KC=0.174$  LC=0.450$  MC=0.123$  NC+=0.0454                            
+228TH cG M         |a(K)exp=0.24 {I7}, K/L=1.0 {I5}; theory: |a(K)(E2)=0.174,   
+228TH2cG K/L(E2)=0.39, |a(K)(M1)=2.49, K/L(M1)=5.25                             
+228TH  L   396.078 5   3-                                                   B   
+228TH  B              11.66  24            8.428 10                             
+228THS B EAV=606.9 12                                                           
+228TH  G   209.253 6  3.89   7    E1                   0.086                E   
+228THS G KC=0.0678$  LC=0.0135$  MC=0.00323$  NC+=0.00114                       
+228TH cG M         from K/L and L subshell ratios in {+228}Pa |e decay.         
+228TH2cG Other: K/L=2.4 {I4} (1971He23)                                         
+228TH  G   338.320 3  11.27  19   E1                   0.0288               A   
+228TH3 G FLAG=D                                                                 
+228THS G KC=0.0231$  LC=0.00426$  MC=0.00102$  NC+=0.00036                      
+228TH cG M         |a(K)exp=0.019 {I2} (1960Ar06); theory: |a(K)=0.0231         
+228TH  L   519.192 6    5-                                                  B   
+228TH  B               0.08  LT            11.3  GT                          1U 
+228THS B EAV=534.3 12                                                           
+228TH  G   141.02  3  0.050  8    E1                   0.220                J   
+228THS G KC=0.171$  LC=0.0366$  MC=0.0088$  NC+=0.00313                         
+228TH cG M         |a(K)exp=0.7 {I5} (1971He23); theory: |a(K)(E1)=0.171,       
+228TH2cG |a(K)(E2)=0.259, |a(K)(M1)=5.92, |a(K)(M2)=26.1.                       
+228TH  G   332.370 4  0.40   4    E1                   0.0299               A   
+228TH3 G FLAG=EJ                                                                
+228THS G KC=0.0240$  LC=0.00444$  MC=0.00106$  NC+=0.00038                      
+228TH cG M         ce(K) not seen by 1960Ar06. |a(K)exp=0.41 {I8} (1971He23)    
+228TH2cG does not agree with [E1] required by the level scheme.                 
+228TH  L   831.823 10  0+                                                   C   
+228TH  G   503.823 13 0.182  12  (E1)                  0.0125               A   
+228TH3 G FLAG=G                                                                 
+228THS G KC=0.0101$  LC=0.00178                                                 
+228TH cG M         Ice not seen (1971He23), upper limit in Ice suggests E1      
+228TH  G   774.1   2  0.06   AP  [E2]                  0.0167                   
+228THS G KC=0.0122$  LC=0.00339                                                 
+228TH  L   874.473 18  2+                                                   C   
+228TH  B               0.23  10            9.62  19                             
+228THS B EAV=418.5 12                                                           
+228TH  G   478.33  5  0.209  15   E1                   0.0139                   
+228THS G KC=0.0112$  LC=0.00199$  MC=0.00047$  NC+=0.00017                      
+228TH  G   546.47  5  0.201  13  [E1]                  0.0106                   
+228THS G KC=0.0086$  LC=0.00151                                                 
+228TH  G   688.10  5  0.067  5   [E2]                  0.0212               &   
+228TH2 G FL=186.823$  FLAG=B                                                    
+228THS G KC=0.0151$  LC=0.00464                                                 
+228TH  G   816.71  10 0.030  3   [M1,E2]               0.038  23                
+228THS G KC=0.030 19$  LC=0.006 3                                               
+228TH  G   874.44  7  0.047  10  [E2]                  0.0131               A   
+228THS G KC=0.0098$  LC=0.00249                                                 
+228TH  L   938.58  7   0+                                                   D   
+228TH  G   610.64  10 0.023  5   [E1]                                           
+228TH  G   880.76  10 0.0062 18  [E2]                  0.0129                   
+228THS G KC=0.0096$  LC=0.00244                                                 
+228TH  L   944.196 13  1,2+                                                     
+228TH  B               0.07  LT            10.0  GT                             
+228THS B EAV=391.8 12                                                           
+228TH  G   616.22  3  0.080  5                                              A   
+228TH  G   944.196 14 0.095  8                                              A   
+228TH  L   968.369 20  3-                                                   D   
+228TH  B               0.21  4             9.54   9                             
+228THS B EAV=382.6 12                                                           
+228TH  G   449.15  5  0.048  5   [E2]                  0.0563               A   
+228THS G KC=0.0335$  LC=0.0168$  MC=0.00439$  NC+=0.00162                       
+228TH  G   572.14  8  0.150  16  [M1,E2]               0.09   7             A   
+228THS G KC=0.07 6$  LC=0.016 8                                                 
+228TH  G   640.34  3  0.054  5   [E2]                  0.0247               A   
+228THS G KC=0.0172$  LC=0.00567                                                 
+228TH  L   968.968 5   2+                                                   E   
+228TH  B              29.9   10            7.39  2                              
+228THS B EAV=382.3 12                                                           
+228TH  G   782.142 5  0.485  19  [E2]                  0.0163               A   
+228TH3 G FLAG=E                                                                 
+228THS G KC=0.0119$  LC=0.00330                                                 
+228TH cG M         |a(K)exp=0.024 {I3} (1960Ar06), 0.07 {I3} (1971He23)         
+228TH2cG inconsistent with each other and with E2 assignment required by level  
+228THxcG scheme                                                                 
+228TH  G   911.204 4  25.8   4    E2                   0.0121               A   
+228TH3 G FLAG=D                                                                 
+228THS G KC=0.0091$  LC=0.00225                                                 
+228TH cG M         |a(K)exp=0.0104 {I10}, K/L=4.6 {I5} (1971He23),              
+228TH2cG |a(K)exp=0.0092 {I9} (1960Ar06); theory: |a(K)=0.0091, K/L=4.04.       
+228THxcG |d=+24 {I8} from {+228}Pa decay                                        
+228TH  G   968.971 17 15.8   3    E2                   0.0107               A   
+228TH3 G FLAG=D                                                                 
+228THS G KC=0.00815$  LC=0.00194                                                
+228TH cG M         |a(L)exp=0.0016 {I3} (1971He23); theory: |a(K)=0.00815,      
+228TH2cG |a(L)=0.0194; |a(K)exp used in normalization of the ce spectra.        
+228TH  L   979.499 14  2+                                                       
+228TH  B               0.13  7             9.73  24                             
+228THS B EAV=378.3 12                                                           
+228TH  G   583.41  5  0.111  10  [E1]                  0.0094                   
+228THS G KC=0.00761$  LC=0.00132                                                
+228TH cG RI        does not agree with the branching ratio in {+228}Pa decay    
+228TH  G   651.51  3  0.090  8   [E1]                  0.0076               A   
+228THS G KC=0.00617$  LC=0.00106                                                
+228TH  G   792.8      0.08   AP  [E2]                  0.0159                   
+228THS G KC=0.0116$  LC=0.00319                                                 
+228TH  G   921.98  10 0.0147 21  [M1,E2]               0.028  17            &   
+228THS G KC=0.022 14$  LC=0.0044 22                                             
+228TH cG M         |a(K)exp=2.0 {I4} (1971He23) may indicate an E0 component    
+228TH cG           Total intensity placed here by 1987Da28                      
+228TH  G   979.48  10 0.026  3   [E2]                  0.0105                   
+228THS G KC=0.00799$  LC=0.00189                                                
+228TH  L  1016.406 21  2+,3-,4+                                                 
+228TH  B               0.31  5             9.31   7                             
+228THS B EAV=364.3 12                                                           
+228TH  G   620.38  5  0.080  5                                                  
+228TH  G   688.10  5  0.067  5                                              &   
+228TH2 G FL=328.003                                                             
+228TH cG           |g not placed here by 1987Da28; this placement of the |g     
+228TH2cG suggested in {+228}Pa decay                                            
+228TH  G   958.61  4  0.28   4                                              A   
+228TH3 G FLAG=H                                                                 
+228TH  G  1016.44  15 0.019  3                                              &   
+228TH  L  1022.527 6  (3)+                                                  E   
+228TH  B               3.10  15            8.30  2                              
+228THS B EAV=362.0 12                                                           
+228TH  G   835.710 6  1.61   6    E2                   0.0143               A   
+228TH3 G FLAG=EJ                                                                
+228THS G KC=0.0106$  LC=0.00279                                                 
+228TH cG M         |a(K)exp|<0.015 (1971He23); theory: |a(K)=0.0106             
+228TH  G   964.766 10 4.99   9    E2+M1    -7.2  10    0.0108               A   
+228TH3 G FLAG=E                                                                 
+228THS G KC=0.00821$  LC=0.00196                                                
+228TH cG M         |a(K)exp=0.0084 {I9} (1971He23); theory: |a(K)=0.00821       
+228TH  L  1059.93  3   4-                                                       
+228TH  B               0.071 11            9.88   7                             
+228THS B EAV=347.9 12                                                           
+228TH  G   540.76  10 0.026  3  [M1,E2]                0.11   8                 
+228THS G KC=0.08 6$  LC=0.018 9                                                 
+228TH  G   663.82  10 0.028  6  (M1+E2)                0.06   4             J   
+228THS G KC=0.05 4$  LC=0.010 6                                                 
+228TH  G   873.17  15 0.031  6  [E1]                   0.00441                  
+228THS G KC=0.00361$  LC=0.00060                                                
+228TH  L  1091.017 8   4+                                                   E   
+228TH  B               0.26  5             9.28   9                             
+228THS B EAV=336.3 12                                                           
+228TH  G   904.20  4  0.77   3   E2                    0.0123               A   
+228TH3 G FLAG=FJ                                                                
+228THS G KC=0.0092$  LC=0.00229                                                 
+228TH cG M         |a(K)exp=0.027 {I10} (1971He23), ce(K) not seen (1960Ar06);  
+228TH2cG |a(K)exp does not agree with |a(K)exp measured in {+228}Pa |e decay.   
+228TH  G  1033.248 9  0.201  13  E2                    0.0095               A   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.00727$  LC=0.00167                                                
+228TH  L  1122.951 6    2-                                                  F   
+228TH  B               5.92  14            7.871 12                             
+228THS B EAV=324.4 12                                                           
+228TH  G   100.41  3  0.093  13 (E1+M2)    0.23  AP    3.2    AP                
+228THS G LC=2.4$ MC=0.64$ NC+=0.25                                              
+228TH cG M,MR      |a(L3)exp|?0.43 (1971He23); theory: |a(L3)(E1)=0.0213,       
+228TH2cG |a(L3)(M2)=8.66. |a(L3)exp could also fit M1+E2; however, level scheme 
+228TH3cG requires |D|p=yes                                                      
+228TH  G   153.977 10 0.722  21  E1                    0.178                E   
+228TH3 G FL=968.968                                                             
+228THS G KC=0.139$  LC=0.0292$  MC=0.00703$  NC+=0.00250                        
+228TH cG M         |a(K)exp=0.095 {I16} (1971He23); theory: |a(K)=0.129         
+228TH  G   726.863 15 0.62   8  (E2)                   0.0189                   
+228THS G KC=0.0136$  LC=0.00400                                                 
+228TH cG M         |a(K)exp|?0.012 (1971He23); theory: |a(K)=0.0136             
+228TH  G   794.947 5  4.25   7   E2+M1    -4.4   10    0.0182 15            A   
+228TH3 G FLAG=DK                                                                
+228THS G KC=0.0136 13$  LC=0.00349 20                                           
+228TH cG M         |a(K)exp=0.0118 {I20}, K/L=1.6 {I7} (1971He23),              
+228TH2cG |a(K)exp=0.0139 {I19} (1960Ar06); theory: |a(K)(E2)=0.0116,            
+228THxcG |a(K)(M1)=0.0524                                                       
+228TH  G  1065.18  4  0.132  10                                             A   
+228TH  L  1153.467 10  2+               0.29 NS  2                              
+228TH cL T         from 1974De14                                                
+228TH  B               5.1   8             7.89   7                             
+228THS B EAV=313.1 11                                                           
+228TH  G   173.964 13 0.035  5   M1+E2    1.2    +11-6  2.3   18            A   
+228THS G KC=1.5 10$  LC=0.66 4$  MC=0.171 22$  NC+=0.063 5                      
+228TH cG M,MR      from |a(K)exp=1.5 {I8} (1971He23); also fits E1+M2 with      
+228TH2cG |d=0.35 {I12}, level scheme requires |D|p=no. Theory: |a(K)(E1)=0.104, 
+228TH3cG |a(K)(E2)=0.203, |a(K)(M1)=3.26, |a(K)(M2)=12.9                        
+228TH  G   184.54  2  0.070  8   E0+M1                 63     8  4.5      8     
+228TH3 G FL=968.968                                                             
+228THS G KC=53 7$  LC=10.2 13$  MC=0.126$  NC+=0.0462                           
+228TH cG M         K/L=4.0 {I5}, L1/L2=33 {I6}, L1/L3>>50 (1974De14),           
+228TH2cG |a(K)exp=53 {I7} (1971He23); measured |a(K)exp yields an E0 transition 
+228TH3cG with an admixture of: 5.4% M1 with K/L=5.2, L1/L2=30, L1/L3=3300, or   
+228TH4cG 1.4% E2 with K/L=5.0, L1/L2=16.5, L1/L3=58. Thus the ratios support    
+228TH5cG E0+M1 transition                                                       
+228TH cG CC        from |a(K)exp                                                
+228TH  G   278.95  5  0.160  21 (M1,E2)                0.7    5             @   
+228TH3 G FL=874.473$  FLAG=N                                                    
+228THS G KC=0.48 39$  LC=0.130 35$  MC=0.033 7$  NC+=0.0119 24                  
+228TH cG M         |a(K)exp(doublet)=0.18 {I4} (1960Ar06),                      
+228TH2cG |a(L)exp(279|g+282|g)=0.37 {I7} (1971He23); theory: |a(K)(M1)=0.872,   
+228THxcG |a(K)(E2)=0.0854                                                       
+228TH  G   321.646 8  0.226  11 [E2]                   0.140                A   
+228TH3 G FLAG=D                                                                 
+228THS G KC=0.0643$  LC=0.0550$  MC=0.0147$  NC+=0.00544                        
+228TH cG M         |a(K)exp=0.49 {I8} (1971He23) indicating mainly M1 transition
+228TH2cG (|a(K)(M1)=0.590) which is not in agreement with the level scheme.     
+228TH3cG 1960Ar06 did not see ce(K) suggesting that the |a(K)exp may be         
+228THxcG unreliable.                                                            
+228TH  G  1095.679 20 0.129  10 [M1,E2]                0.018  10            A   
+228TH  G  1153.52  4  0.139  10                                             A   
+228TH  L  1168.375 5    3-                                                  F   
+228TH  B               3.08  7             8.084 11                             
+228THS B EAV=307.6 11                                                           
+228TH  G    77.34  3  0.026  5  [E1]                   0.235                    
+228THS G LC=0.177$  MC=0.0431$  NC+=0.0150                                      
+228TH  G   145.849 10 0.158  8   E1                    0.203                H   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.158$  LC=0.0336$  MC=0.00809$  NC+=0.00287                        
+228TH cG M         |a(K)exp=1.3 {I4} (1971He23); theory: |a(K)=0.158. ce not    
+228TH2cG seen by 1960Ar06 or in {+228}Pa decay.                                 
+228TH  G   199.407 10 0.315  5   E1                    0.096                H   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.0758$  LC=0.0152$  MC=0.00365$  NC+=0.00129                       
+228TH cG M         ce(K), ce(L) not seen (1971He23,1960Ar06), suggests E1 mult  
+228TH  G   648.84  10 0.040  4  [E2]                   0.0240               &   
+228TH2 G FL=519.192                                                             
+228THS G KC=0.0168$  LC=0.00546                                                 
+228TH  G   772.291 5  1.49   3   E2+M1    -3.4   +8-27 0.021  3             A   
+228TH3 G FLAG=EK                                                                
+228THS G KC=0.0157 24$  LC=0.0040 4                                             
+228TH cG M         |a(K)exp=0.016 {I7} (1971He23), 0.019 {I3} (1960Ar06);       
+228TH2cG theory: |a(K)=0.0157 {I24}                                             
+228TH  G   840.377 7  0.91   4   E2                    0.0142               A   
+228TH3 G FLAG=EJ                                                                
+228THS G KC=0.0105$  LC=0.00275                                                 
+228TH cG M         |a(K)exp|<0.026 (1971He23); theory: |a(K)=0.0105             
+228TH  G  1110.610 10 0.285  23  E1                                         @   
+228TH3 G FLAG=AJN                                                               
+228TH  L  1174.508 18 (5+)                                                  E   
+228TH  B               0.005 LT            10.9  GT                             
+228THS B EAV=305.4 11                                                           
+228TH  G   987.71  20 0.077  13 [M1,E2]                0.024  14                
+228THS G KC=0.019 11$  LC=0.0037 18                                             
+228TH  L  1175.39  5   2+                                                       
+228TH  B               0.17  3             9.33   8                             
+228THS B EAV=305.0 11                                                           
+228TH  G   231.42  10 0.025  4  [D,E2]                 1.0    9                 
+228TH  G   988.63  20 0.077  13 [E2]                   0.0103                   
+228TH  G  1117.63  10 0.054  8                                                  
+228TH  G  1175.31  10 0.024  3                                                  
+228TH  L  1226.565 7   (4)-                                                 F   
+228TH  B               0.66  4             8.66   3                             
+228THS B EAV=286.3 11                                                           
+228TH  G   135.54  5  0.018  4   E1                    0.242                J   
+228THS G KC=0.188$  LC=0.0406$  MC=0.0098$  NC+=0.00348                         
+228TH cG M         |a(K)exp|?3 (1971He23); theory: |a(K)=0.188                  
+228TH  G   204.026 10 0.112  15  E1                    0.091                H   
+228THS G KC=0.0719$  LC=0.0143$  MC=0.00344$  NC+=0.00122                       
+228TH cG M         |a(L)exp<0.23 (1971He23); theory: |a(L)(E1)=0.0143,          
+228THxcG |a(L)(E2)=0.342                                                        
+228TH  G   707.41  5  0.155  15 (E2)                   0.0200               H   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.0143$  LC=0.00711                                                 
+228TH  G   830.486 8  0.540  21  E2(+M1)  -7.7   9     0.0152 2             A   
+228TH3 G FLAG=FJK                                                               
+228THS G KC=0.0113 2 $  LC=0.00293 3                                            
+228TH cG M         |a(K)exp=0.020 {I11} (1971He23); theory: |a(K)=0.0113 {I2}   
+228TH  G  1039.65  15 0.044  9                                                  
+228TH  L  1297.423 10 (5)-                                                  F   
+228TH  B               0.058 13            9.95  10                          1U 
+228THS B EAV=257.9 10                                                           
+228TH  G   778.23     0.022  6  [M1,E2]                0.04   3                S
+228TH3 G FLAG=T                                                                 
+228THS G KC=0.034 22$  LC=0.007 4                                               
+228TH  G   901.23  15 0.016  3  [E2]                   0.0123                   
+228THS G KC=0.00926$  LC=0.00231                                                
+228TH  G  1110.610 10 0.019  10  E1                                         @   
+228TH3 G FLAG=JN                                                                
+228TH  L  1344.078 11   3-                                                      
+228TH  B               0.208 16            8.95   4                             
+228THS B EAV=243.9 11                                                           
+228TH  G   168.65  10 0.010  3  [E1]                   0.143                @   
+228TH2 G FLAG=Q                                                                 
+228THS G KC=0.112$  LC=0.0232$  MC=0.00557$  NC+=0.00197                        
+228TH  G   824.934 23 0.050  5  [E2]                   0.0147               A   
+228THS G KC=0.0108$  LC=0.00288                                                 
+228TH  G   947.982 11 0.106  8  [M1,E2]                0.026  15            A   
+228THS G KC=0.021 12$  LC=0.0041 20                                             
+228TH  G  1016.44  15 0.019  3                                              &   
+228TH  G  1157.14  15 0.0070 13                                                 
+228TH  G  1286.27  20 0.050  10                                                 
+228TH  L  1416.11  6   2+,3-                                                    
+228TH  B               0.060 8             9.35   6                             
+228THS B EAV=218.4 11                                                           
+228TH  G   471.76  15 0.033  3  [D,E2]                 0.14   12                
+228TH  G  1019.86  10 0.021  4                                                  
+228TH  G  1088.18  15 0.0059 13                                                 
+228TH  G  1229.40  15 0.0075 23                                                 
+228TH  L  1431.979 6    4+                                                      
+228TH  B               0.8   4             8.19  22                             
+228THS B EAV=212.9 11                                                           
+228TH  G   257.52  10 0.030  3  (M1)                   1.36                 J   
+228THS G KC=1.09$  LC=0.205$  MC=0.0495$  NC+=0.0180                            
+228TH  G   263.58  10 0.040  4   E1                    0.0502               J   
+228THS G KC=0.0400$  LC=0.00766$  MC=0.00184$ NC+=0.00065                       
+228TH  G   278.95  5  0.031  5  [E2]                   0.216                @   
+228TH3 G FL=1153.467$  FLAG=N                                                   
+228THS G KC=0.086$  LC=0.096$  MC=0.0257$ NC+=0.0095                            
+228TH cG           |g not placed here by 1987Da28; this alternate placement is  
+228TH2cG suggested in {+228}Pa decay                                            
+228TH  G   340.96  5  0.369  21  E2+M1    -5.2   18    0.136  23            E   
+228TH3 G FLAG=JK                                                                
+228THS G KC=0.073 20$  LC=0.046 2$  MC=0.0122 5$  NC+=0.00450 17                
+228TH cG M         |a(K)exp=0.66 {I7} (1971He23) suggests an M1 transition.     
+228TH2cG However, ce(K) not seen by 1960Ar06.                                   
+228TH  G   409.462 6  1.92   4   E2+M1    -5.4   8     0.082  4             A   
+228TH3 G FLAG=EK                                                                
+228THS G KC=0.049 4$  LC=0.0242 5$  MC=0.00631 10$  NC+=0.00233 4               
+228TH cG M         |a(K)exp=0.058 {I9}, K/L=2.0 {I4} (1971He23), |a(K)exp=0049  
+228TH2cG {I4} (1960Ar06). Theory: |a(K)=0.49 {I4}, K/L=2.02                     
+228TH  G   452.47  10 0.015  5  [E2]                   0.0553                   
+228THS G KC=0.0330$  LC=0.0164$  MC=0.00429$  NC+=0.00158                       
+228TH  G   463.004 6  4.40   7   E2                    0.0522               A   
+228TH3 G FLAG=E                                                                 
+228THS G KC=0.0316$  LC=0.0152$  MC=0.00397$  NC+=0.00146                       
+228TH cG M         |a(K)exp=0.036 {I4}, K/L=3.0 {I7} (1971He23); |a(K)exp=0.028 
+228TH2cG {I3} (1960Ar06); theory: |a(K)=0.0316, K/L=2.1                         
+228TH  G  1103.41  10 0.0150 23 [E3]                                        B  ?
+228TH2 G FL=328.003$  FLAG=P                                                    
+228TH  G  1245.05  20 0.095  18 [M1,E2]                0.013  7             L   
+228TH  G  1374.19  10 0.014  4                                                  
+228TH  L  1450.394 10  4-                                                       
+228TH  B               0.59  7             8.28   6                             
+228THS B EAV=206.5 11                                                           
+228TH  G    18.4      0.014  4  [E1]                   6.6       0.11     3    S
+228TH cG TI,RI     deduced from branching ratio in Pa decay                     
+228TH  G   223.85  10 0.054  5   M1+E2    -0.18  5     1.97   3             J   
+228TH3 G FLAG=K                                                                 
+228THS G KC=1.56 3$  LC=0.302 1$  MC=0.0729 2$  NC+=0.0266 1                    
+228TH cG M         |a(K)exp=1.7 {I5}, K/L=4.2 {I19} (1971He23); theory:         
+228THxcG |a(K)=1.56 {I3}, K/L=5.2                                               
+228TH  G   282.00  3  0.072  19  M1+E2    -0.51  12    0.88   7             A   
+228TH3 G FLAG=HJK                                                               
+228THS G KC=0.69 6$  LC=0.145 6$  MC=0.0355 11$  NC+=0.0129 4                   
+228TH  G   327.44     0.12   4  [E2]                   0.132                   S
+228TH3 G FLAG=T                                                                 
+228THS G KC=0.0621$  LC=0.0515$  MC=0.0137$  NC+=0.00508                        
+228TH cG           |g may be masked by strong 328.000|g.                        
+228TH cG E         E|g from E(level)                                            
+228TH  G   480.94  20 0.023  5  [M2]                                        P   
+228TH3 G FL=968.968                                                             
+228TH cG           Not reported in {+228}Pa decay                               
+228TH  G   930.93  10 0.0124 18                                             &   
+228TH cG           Placement of |g in level scheme uncertain. Alternate         
+228TH2cG placement suggested in {+228}Pa decay                                  
+228TH  G  1054.11  20 0.018  5                                                  
+228TH  L  1531.474 6    3+                                                      
+228TH  B               8.0   4             6.96  2                              
+228THS B EAV=178.7 11                                                           
+228TH  G    99.509 6  1.26   7   M1                    4.09                 A   
+228TH2 G FLAG=H                                                                 
+228THS G LC=3.07$  MC=0.741$  NC+=0.273                                         
+228TH cG M         |a(L12)exp=3.0 {I3} (1971He23), 2.0 {I3} (1960Ar06); L3 not  
+228TH2cG seen (1960Ar06) theory: |a(L)=3.07                                     
+228TH  G   356.94  10 0.0170 18 [E2]                   0.103                    
+228THS G KC=0.0523$  LC=0.0374$  MC=0.0099$  NC+=0.00368                        
+228TH cG M         |a(K)exp=1.9 {I9} (1971He23) does not agree with             
+228TH2cG multipolarity deduced from level scheme. Theory: |a(K)=0.0523          
+228TH  G   377.99  10 0.025  3  [M1,E2]                0.28   19                
+228THS G KC=0.21 17$  LC=0.051 20$  MC=0.013 5$  NC+=0.0046 16                  
+228TH  G   440.44  5  0.121  8   M1                    0.314                    
+228THS G KC=0.252$ LC=0.0471$  MC=0.0113$  NC+=0.00410                          
+228TH cG M         |a(K)exp=0.26 {I9} (1971He23); theory: |a(K)=0.252. Limit of 
+228TH2cG E2 admixture |d<0.8                                                    
+228TH  G   508.959 17 0.45   5   E2(+M1)  1.1    GT    0.08   4             A   
+228THS G KC=0.06 3$  LC=0.016 5                                                 
+228TH cG M,MR      |a(K)exp=0.06 {I3} (1971He23); theory: |a(K)(E2)=0.0264,     
+228THxcG |a(K)(M1)=0.171                                                        
+228TH  G   562.500 4  0.87   3   E2+M1    +1.6   6     0.07   3             A   
+228TH3 G FLAG=EK                                                                
+228THS G KC=0.051 23$  LC=0.013 4                                               
+228TH cG M         |a(K)exp=0.048 {I10} (1971He23); E1+M2 mixture requires      
+228THxcG |d=0.39                                                                
+228TH  G  1135.24  15 0.0098 15                                                 
+228TH  G  1344.59  15 0.0090 18                                                 
+228TH  L  1539.21  9   2,3,4                                                    
+228TH  G   416.30  20 0.0132 21 [E1]                   0.0185                   
+228THS G KC=0.0149$  LC=0.00268$  MC=0.000640$  NC+=0.000228                    
+228TH  G  1142.85  15 0.0103 21                                                 
+228TH  L  1617.78  7   2+,3,4+                                                  
+228TH  B               0.075 13            8.77   8                             
+228THS B EAV=149.8 10                                                           
+228TH  G   648.84  10 0.040  4                                              &   
+228TH3 G FL=968.968                                                             
+228TH cG           |g not placed here by 1987Da28. This multiply placement      
+228TH2cG suggested in {+228}Pa decay                                            
+228TH  G  1430.95  10 0.035  7                                                  
+228TH  G  1559.85  20 0.020  4                                                  
+228TH  L  1638.284 9   2+                                                   G   
+228TH cL           Quasiparticle configuration=((|p 3/2+[651])(|p 1/2+[660])) or
+228TH2cL configuration=((|p 3/2+[651])(|p 1/2+[400])) suggested for this level  
+228TH  B               1.15  5             7.52  2                              
+228THS B EAV=143.0 10                                                           
+228TH  G   470.25  20 0.013  3  [E1]                   0.0144                   
+228THS G KC=0.0116$  LC=0.00206$  MC=0.00049$  NC+=0.00018                      
+228TH  G   515.06  10 0.049  5  [E1]                   0.0120                   
+228THS G KC=0.0097$  LC=0.00170                                                 
+228TH  G  1309.71  20 0.019  6                                                  
+228TH  G  1451.40  15 0.0106 21                                                 
+228TH  G  1580.53  3  0.60   4  (M1,E2)                                     A   
+228TH3 G FLAG=I                                                                 
+228TH cG M         |a(K)exp=0.012 {I7} (1971He23); theory: |a(K)(M1)=0.0087,    
+228THxcG |a(K)(E2)=0.00343                                                      
+228TH  G  1638.281 10 0.47   3  (E2)                                        A   
+228TH3 G FLAG=IJ                                                                
+228TH  L  1643.125 15 (2-,3-)                                                   
+228TH  B               0.80  6             7.67   4                             
+228THS B EAV=141.4 10                                                           
+228TH  G   474.75  10 0.022  3  [M1,E2]                0.15   11                
+228THS G KC=0.12 9$  LC=0.026 13$  MC=0.006 3$   NC+=0.0023 10                  
+228TH  G   520.151 16 0.067  5  (M1)                   0.201                A   
+228THS G KC=0.161$  LC=0.0301                                                   
+228TH cG M         |a(K)exp=0.31 {I12} (1971He23); theory: |a(K)=0.161          
+228TH  G   627.23  20 0.014  3                                                  
+228TH  G   674.16     0.109  LE [E1]                                        R   
+228TH3 G FL=968.968                                                             
+228TH cG E         deduced from E(level)                                        
+228TH  G   674.75     0.109  LE [M1,E2]                0.06   4             R   
+228TH3 G FL=968.369                                                             
+228THS G KC=0.048 32$  LC=0.010 5                                               
+228TH cG E         deduced from E(level)                                        
+228TH  G   699.08  15 0.037  5  [D,E2]                 0.05   4                 
+228TH  G  1247.08  4  0.50   3  (M1)                   0.0201               A   
+228TH3 G FLAG=IL                                                                
+228TH  G  1315.34  10 0.015  3  [M1,E2]                0.012  6                 
+228TH  L  1645.954 12  3+                                                       
+228TH  B               4.16  20            6.94  2                              
+228THS B EAV=140.5 10                                                           
+228TH  G   114.56  7  0.0098 21 [M1,E2]                10     4                 
+228THS G KC=5.5 52$  LC=3.2 12$  MC=0.9 4$  NC+=0.32 14                         
+228TH  G   419.42  10 0.021  3  [E1]                   0.0182                   
+228THS G KC=0.0147$  LC=0.00264$  MC=0.00063$  NC+=0.000225                     
+228TH  G   492.37  10 0.0235 23 [M1,E2]                0.14   10                
+228THS G KC=0.11 8$  LC=0.024 12$  MC=0.006 3$  NC+=0.0021 10                   
+228TH  G   523.131 16 0.103  8  [E1]                   0.0116               A   
+228TH3 G FL=1122.951$  FLAG=B                                                   
+228THS G KC=0.00942$  LC=0.000165                                               
+228TH cG M         |a(K)exp|<0.08 (1971He23); theory: |a(K)(E1)=0.0094,         
+228TH2cG |a(K)(E2)=0.0251, |a(K)(E3)=0.0610, |a(K)(M1)=0.158                    
+228TH  G   555.12  10 0.046  5  [M1,E2]                0.10   7                 
+228THS G KC=0.08 6$  LC=0.017 9                                                 
+228TH  G   623.27  20 0.011  3  [M1,E2]                0.08   5                 
+228THS G KC=0.06 4$  LC=0.012 6                                                 
+228TH  G   629.40  5  0.045  5  [D,E2]                 0.06   6                 
+228TH  G   666.45  10 0.057  6  [M1,E2]                0.06   4             @   
+228TH3 G FLAG=N                                                                 
+228THS G KC=0.05 3$  LC=0.010 5                                                 
+228TH cG           I|g(doublet)=0.052 {I5}. All of intensity placed here by     
+228THxcG 1987Da28,                                                              
+228TH  G   677.11  10 0.062  5  [M1,E2]                0.06   4                 
+228TH3 G FL=968.968                                                             
+228THS G KC=0.05 3$  LC=0.010 5                                                 
+228TH  G  1250.04  10 0.062  5                                              A   
+228TH  G  1459.138 15 0.83   8   E2                                         A   
+228TH3 G FLAG=IJ                                                                
+228TH  G  1588.20  3  3.22   8   E2                                         A   
+228TH3 G FLAG=IJ                                                                
+228TH cG M         |a(K)exp=0.0050 {I16} (1971He23); theory: |a(K)=0.00340      
+228TH  L  1682.81  3   2+,3(+),4+                                               
+228TH  B               1.12  5             7.40  2                              
+228THS B EAV=128.5 10                                                           
+228TH  G   660.1   3  0.005  AP [M1,E2]                0.06   4                 
+228THS G KC=0.05 3$  LC=0.010 5                                                 
+228TH  G  1495.910 20 0.86   4  (E2)                                        A   
+228TH3 G FLAG=IJ                                                                
+228TH  G  1625.06  5  0.255  18                                             A   
+228TH  L  1683.82  5  (4-)                                                      
+228TH  B               0.165 17            8.23   5                             
+228THS B EAV=128.2 10                                                           
+228TH  G   457.17  15 0.0150 23 [M1,E2]                0.17   12                
+228THS G KC=0.13 10$  LC=0.029 14$  MC=0.007 3$  NC+=0.0026 11                  
+228TH  G  1164.50  8  0.065  5  (M1+E2)                0.016  9             J   
+228TH  G  1287.68  20 0.080  15 (M1+E2)                0.012  7             J   
+228TH cG           |g listed in table I of 1987Da28 as deexciting the 1682.8    
+228TH2cG level; however, on level scheme (fig. 4) shown as deexciting the       
+228TH3cG 1683.8 level. The energy fit is much better from the 1683.8 level.     
+228TH  L  1688.394 11  2+,3+                                                G   
+228TH  B               2.45  16            7.04   3                             
+228THS B EAV=126.7 10                                                           
+228TH  G    42.46  5  0.009  3  [M1]                   49                       
+228TH cG           From intensity balance at 1646 level, multipolarity cannot   
+228TH2cG be pure E2. Some E2 admixture, however, cannot be ruled out            
+228TH  G   672.00  15 0.026  8                                                  
+228TH cG           |g listed in table I of 1987Da28 as deexciting the 1683.8    
+228TH2cG level; however, on level scheme (fig. 4) shown as deexciting the       
+228TH3cG 1688.4 level.                                                          
+228TH  G   813.77  15 0.0070 16 [M1,E2]                0.038  23                
+228THS G KC=0.030 19$  LC=0.006 3                                               
+228TH  G  1501.57  5  0.46   3                                              G   
+228TH  G  1630.627 10 1.51   4  (M1,E2)                                     A   
+228TH2 G FLAG=I                                                                 
+228TH cG M         from |a(K)exp(1625|g+1630|g)=0.0062 {I20} (1971He23); theory:
+228TH2cG |a(K)(M1)=0.0090, |a(K)(E2)=0.0034                                     
+228TH  L  1724.283 6   2+                                                       
+228TH  B               1.76  5             7.06  2                              
+228THS B EAV=115.3 10                                                           
+228TH  G   497.49  15 0.0059 18 [M2]                   0.608                P   
+228THS G KC=0.457$  LC=0.113$  MC=0.0282$  NC+=0.0104                           
+228TH  G   548.73  15 0.023  3  [M1,E2]                0.10   7                 
+228THS G KC=0.08 6$  LC=0.017 9                                                 
+228TH  G   570.91  10 0.182  24 (M1)                   0.156                G   
+228THS G KC=0.125$  LC=0.0234                                                   
+228TH cG M         |a(K)exp=0.20 {I8} (1971He23); theory: |a(K)=0.125           
+228TH cG           1987Da28 assigns this |g to be the 1539.2 to 968.4 transition
+228TH2cG on the basis of coin with 911.2|g. However, the E(level) difference is 
+228TH3cG 570.25 {I9}. In {+228}Pa decay this |g is assigned to the 1724.3 level;
+228TH4cG energy, intensity, multipolarity, and coin results agree with this     
+228TH5cG assignment.                                                            
+228TH  G   701.747 14 0.173  10 (M1)                   0.091                A   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.0726$  LC=0.0135                                                  
+228TH  G   755.315 4  1.00   3   M1                    0.0747               A   
+228TH3 G FLAG=DJ                                                                
+228THS G KC=0.0599$  LC=0.0111                                                  
+228TH cG M         |a(K)exp=0.055 {I9} (1971He23), 0.057 {I8} (1960Ar06);       
+228TH2cG theory: |a(K)(M1)=0.0599, |a(K)(E2)=0.0127                             
+228TH  G  1537.89  10 0.047  5                                              B   
+228TH2 G FL=186.823                                                             
+228TH  G  1666.523 13 0.178  13  M1                                         A   
+228TH3 G FLAG=J                                                                 
+228TH  G  1724.21  4  0.029  3                                              A   
+228TH  L  1735.450 25 (4+)                                                      
+228TH  B               0.133 9             8.14   4                             
+228THS B EAV=111.7 10                                                           
+228TH  G  1217.03  10 0.021  3                                              B   
+228TH2 G FL=519.192                                                             
+228TH  G  1357.78  15 0.020  4                                              B   
+228TH2 G FL=378.179                                                             
+228TH  G  1548.65  4  0.038  4                                              A   
+228TH  G  1677.67  3  0.054  5                                              A   
+228TH  L  1743.89  3   4+                                                       
+228TH  B               0.389 18            7.65  2                              
+228THS B EAV=109.1 10                                                           
+228TH  G   399.62  10 0.029  3  [E1]                   0.0212                   
+228THS G KC=0.0162$  LC=0.00293$  MC=0.000701$  NC+=0.000250                    
+228TH  G   590.4      0.017  3  [E2]                   0.0295                  S
+228TH3 G FLAG=T                                                                 
+228THS G KC=0.0200$  LC=0.00716                                                 
+228TH  G   684.0      0.019  5  [E1]                                           S
+228TH3 G FLAG=T                                                                 
+228TH  G  1347.50  15 0.015  3                                                  
+228TH cG           |g not seen in {+228}Pa decay. I|g<0.004 from upper limit in 
+228TH2cG {+228}Pa decay                                                         
+228TH  G  1365.70  15 0.014  3                                              M   
+228TH  G  1415.66  10 0.021  4  [E3]                                        P   
+228TH3 G FL=328.003                                                             
+228TH  G  1557.11  4  0.178  13 (E2+M1)   +1.2   2                          A   
+228TH3 G FLAG=JK                                                                
+228TH  G  1686.09  7  0.095  8  (E2)                                        A   
+228TH3 G FLAG=J                                                                 
+228TH  L  1758.24  12  2+,3,4+                                                  
+228TH  B               0.062 13            8.39  10                             
+228THS B EAV=104.6 10                                                           
+228TH  G   326.04  20 0.033  5  [D,E2]                 0.4    3                 
+228TH  G  1571.52  20 0.0057 16                                                 
+228TH  G  1700.59  20 0.0101 23                                                 
+228TH  L  1760.218 24  2+,3(+)                                              G   
+228TH  B               0.119 10            8.10   4                             
+228THS B EAV=104.0 10                                                           
+228TH  G   737.72  5  0.037  4  [M1,E2]                0.05   3                 
+228TH cG M         |a(K)exp=0.28 {I14} (1971He23); theory: |a(K)(M1)=0.0637,    
+228TH2cG |a(K)(E2)=0.0133, |a(K)(M2)=0.147. Unconfirmed |a(K)exp seems to       
+228THxcG indicate E0 admixture                                                  
+228TH  G   791.49  25 0.010  3  [M1,E2]                0.04   3             @   
+228TH3 G FL=968.968$  FLAG=N                                                    
+228THS G KC=0.032 21$  LC=0.007 4                                               
+228TH cG           |g placed here with I|g=0.023 {I7} by 1987Da28               
+228TH  G  1573.26  5  0.033  3  (E2)                                        A   
+228TH3 G FLAG=J                                                                 
+228TH  G  1702.43  5  0.048  5                                              A   
+228TH  L  1795.90  10  3-,4+                                                    
+228TH  B               0.01  LT             9.0  GT                             
+228THS B EAV=92.9 10                                                            
+228TH  G  1276.69  10 0.014  3                                                  
+228TH  G  1738.22  25 0.018  4                                                  
+228TH  L  1797.65  8   2+                                                       
+228TH  B               0.045 6             8.37   6                             
+228THS B EAV=92.4 10                                                            
+228TH  G  1401.49  10 0.012  3                                                  
+228TH  G  1469.71  15 0.020  4                                                  
+228TH  G  1740.4   3  0.011  3                                                  
+228TH  G  1797.5   5  0.0021 8                                                  
+228TH  L  1892.996 17  3+                                                       
+228TH  B               0.112 7             7.51   4                             
+228THS B EAV=63.7 9                                                             
+228TH  G   666.45  10 0.005  2  [E1]                                        @   
+228TH3 G FLAG=N                                                                 
+228TH cG           This placement of the |g suggested by {+228}Pa decay.        
+228TH  G   692.5      0.0056 7 (M1+E2+E0)              0.24   3                S
+228TH3 G FLAG=T                                                                 
+228TH  G   770.04     0.0063 8  [E1]                                           S
+228TH3 G FLAG=T                                                                 
+228TH  G   870.46  4  0.044  4   M1                    0.0515               A   
+228TH3 G FLAG=J                                                                 
+228THS G KC=0.0414$  LC=0.00762                                                 
+228TH  G   924.03     0.0075 10 [M1,E2]                                        S
+228TH3 G FLAG=T                                                                 
+228TH  G  1706.19  10 0.0085 10  M1+E2    +0.42  4                          J   
+228TH3 G FLAG=K                                                                 
+228TH  G  1835.43  10 0.038  4   E2+M1    +2.9   3                          J   
+228TH3 G FLAG=K                                                                 
+228TH  L  1899.95  4   2+                                                   G   
+228TH cL           Quasiparticle configuration=((|p 3/2[651])(|p 1/2[660])) or  
+228TH2cL configuration=((|p 3/2[651])(|p 1/2[400])) suggested for this level    
+228TH  B               0.071 6             7.66   4                             
+228THS B EAV=61.7 9                                                             
+228TH  G   877.46  10 0.014  3  [M1,E2]                0.032  19                
+228THS G KC=0.025 15$  LC=0.005 3                                               
+228TH  G   930.93  10 0.0124 18                                             &   
+228TH cG           This placement of |g suggested in {+228}Pa decay             
+228TH  G  1713.47  20 0.0054 10                                                 
+228TH cG           |g not seen in {+228}Pa decay. I|g<0.002 from upper limit in 
+228TH2cG {+228}Pa decay                                                         
+228TH  G  1842.13  10 0.042  4   M1+E2    -0.86  14                         J   
+228TH3 G FLAG=K                                                                 
+228TH  G  1900.07  20 0.0028 5                                                  
+228TH  L  1906.64  10 (2+)                                                      
+228TH  B               0.034 5             7.94   7                             
+228THS B EAV=59.7 9                                                             
+228TH  G   490.33  15 0.0111 23 [D,E2]                 0.12   11                
+228TH  G  1074.71  15 0.010  3                                                  
+228TH  G  1907.18  20 0.0119 10                                                 
+228TH  L  1928.57  6  3+                                                        
+228TH  B               0.057 7             7.57   6                             
+228THS B EAV=53.4 9                                                             
+228TH  G   168.65  10 0.0030 7  [M1,E2]                2.9    16            @   
+228TH2 G FLAG=Q                                                                 
+228THS G KC=1.9 17$  LC=0.73 6$  MC=0.19 3$  NC+=0.070 10                       
+228TH  G   389.12  15 0.0103 15 [M1,E2]                0.26   18                
+228TH  G  1742.0   3  0.0080 23                                                 
+228TH  G  1870.83  10 0.0243 23 (M1+E2)                                     J   
+228TH  L  1937.16  9   2+,3,4+                                                  
+228TH  B               0.046 5             7.61   6                             
+228THS B EAV=50.9 9                                                             
+228TH  G   397.94  10 0.027  3                                                  
+228TH  G  1062.55  15 0.010  3                                                  
+228TH  G  1750.54  20 0.0080 8                                                  
+228TH  G  1879.6   3  0.0013 5                                                  
+228TH  L  1944.895 11  3+                                                   G   
+228TH  B               0.244 14            6.83   4                             
+228THS B EAV=48.7 9                                                             
+228TH  G   718.48  15 0.019  4  (E1)                                        J   
+228TH  G   776.56  10 0.019  6                                                  
+228TH  G   791.49  25 0.013  3  (M1)                   0.0661               @   
+228TH3 G FLAG=N                                                                 
+228THS G KC=0.0530$  LC=0.0098                                                  
+228TH cG           This placement suggested by {+228}Pa decay                   
+228TH  G   853.17  10 0.0031 4  [M1,E2]                0.034  20            B   
+228TH2 G FL=1091.017$  FLAG=U                                                   
+228THS G KC=0.027 17$  LC=0.005 3                                               
+228TH cG RI        from branching ratio in {+228}Pa decay                       
+228TH  G   921.98  10 0.0147 21                                             &   
+228TH cG           This placement suggested by {+228}Pa decay                   
+228TH  G   975.96  5  0.050  5   M1                    0.0381               J   
+228TH3 G FL=968.968                                                             
+228THS G KC=0.0306$  LC=0.00563                                                 
+228TH  G  1000.69  15 0.005                                                     
+228TH cG           |g not seen in {+228}Pa decay. I|g<0.002 from upper limit in 
+228TH2cG {+228}Pa decay.                                                        
+228TH  G  1758.11  10 0.035  4   E2+M1    -9     1                          J   
+228TH3 G FLAG=K                                                                 
+228TH  G  1887.10  5  0.090  8   E2+M1    -9.1   1                          J   
+228TH3 G FLAG=K                                                                 
+228TH  L  1958.72  22  2+                                                       
+228TH  B              0.0033 7             8.59  10                             
+228THS B EAV=44.8 9                                                             
+228TH  G  1772.2   3  0.0018 5                                                  
+228TH  G  1958.4   3  0.0015 5                                                  
+228TH  L  1987.46  10  4+                                                       
+228TH  B               0.038 3             7.27   5                             
+228THS B EAV=36.8 9                                                             
+228TH  G  1017.92  20 0.0057 13                                                 
+228TH3 G FL=968.968                                                             
+228TH  G  1609.41  15 0.0077 15                                                 
+228TH  G  1800.86  20 0.0044 8                                                  
+228TH  G  1929.78  20 0.0199 21                                                 
+228TH  L  2010.11  5   2+,3,(4+)                                                
+228TH cL           1987Da28 suggests that this is the 4+ level of K|p=2+        
+228TH2cL rotational band built on the 1900.00 level. However, the relatively    
+228TH3cL strong 887.33|g to the 1123-keV level would then have M2 mult.         
+228TH  B               0.27  4             6.19   8                             
+228THS B EAV=30.5 9                                                             
+228TH  G   214.85  10 0.029  4  [D,E2]                 1.2    11                
+228TH  G   372.57  20 0.0067 15 [D,E2]                 0.26   24                
+228TH3 G FL=1638.284                                                            
+228TH  G   887.33  10 0.027  3                                                  
+228TH  G   918.97  10 0.027  3                                                  
+228TH cG M         |a(K)exp=1.1 {I2} (1971He23) indicates E0 component;         
+228TH2cG however, then the relatively strong |g to 1123 {I2}- level must be M2  
+228TH  G  1040.92  15 0.044  9                                                  
+228TH  G  1823.22  10 0.044  4                                                  
+228TH  G  1952.33  15 0.059  5                                                  
+228TH  L  2013.6   3   2+,3,4+                                                  
+228TH  B              0.0029 9             8.11  14                             
+228THS B EAV=29.6 9                                                             
+228TH  G  1826.7   3  0.0021 8                                                  
+228TH  G  1955.9   5  0.0008 3                                                  
+228TH  L  2022.84  10                                                           
+228TH  B               0.054 6             6.73   7                             
+228THS B EAV=27.1 9                                                             
+228TH  G   384.63  20 0.0067 15 [D,E2]                 0.24   22                
+228TH cG           Not reported in {+228}Pa decay                               
+228TH  G  1053.09  20 0.013  4                                              B   
+228TH3 G FL=968.968                                                             
+228TH  G  1148.12  15 0.0059 13                                                 
+228TH  G  1190.81  20 0.0062 16                                                 
+228TH  G  1965.24  20 0.0204 18                                                 
+228TH cG RI        from {+228}Pa decay I|g|<0.0085 {I23}                        
+228TH  L  2029.84  16  1,2+                                                     
+228TH  B               0.019 4             7.09  10                             
+228THS B EAV=25.2 8                                                             
+228TH  G   939.87  15 0.009  3                                              B   
+228TH3 G FL=1091.017$                                                           
+228TH  G  1013.58  20 0.0046 13                                                 
+228TH  G  1971.9   3  0.0036 8                                                  
+228TH  G  2029.4   5  0.0018 5                                                  
+228TH  L  2036.99  17  2+,3,4+                                                  
+228TH  B              0.0062 10            7.48   9                             
+228THS B EAV=23.3 8                                                             
+228TH  G  1850.13  20 0.0044 8                                                  
+228TH  G  1979.3   3  0.0018 5                                                  
+228TH  L  2123.1   3  (2+)                                                      
+228TH  B              0.0042 10             3.5  20                             
+228THS B EAV=1.0 8                                                              
+228TH  G  1795.1   5  0.0021 8                                                  
+228TH  G  1936.3   3  0.0021 5                                                  
+

@@ -1,0 +1,16 @@
+#
+# General
+#
+projectile a
+element TI
+mass  48
+energy erange
+#
+# Compound nucleus
+#
+widthfluc y
+#
+# Output
+#
+outspectra y
+filespectrum n

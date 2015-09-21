@@ -1,0 +1,437 @@
+219RN    223RA A DECAY                 1998SH02,1972HEYM,1970DA0801NDS    200110
+219RN  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+219RN  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 802 (2001)$CUT=1-May-2001$           
+219RN c  For measurements of |a|g(|q) see 1968Br37, 1969Be67, 1970Kr01,         
+219RN2c  1970Da08, 1972HeYM, and 1974Ri05. For |a|g linear polarization         
+219RN3c  correlations see 1974Ri05. |g-ray mixing ratios (|d) and level spins   
+219RN2c  (J) had been deduced by 1970Kr01 and 1972HeYM, respectively, under the 
+219RN3c  assumption of J=1/2 for the parent nucleus {+223}Ra. Its adopted value 
+219RN4c  is now J=3/2, which makes their analysis of the angular correlation    
+219RN5c  data unrealistic and their conclusions unreliable. Other: 1970Kr01.    
+219RN cL           {+219}Rn lies in a transitional region, with spherical,      
+219RN2cL quadrupole, and possibly octupole deformations. Its structure has      
+219RN3cL been interpreted in terms of the g{-9/2} and i{-11/2} mixed parity     
+219RN4cL shell model configurations, which give rise to even- and odd-parity    
+219RN5cL states. The {+219}Rn states populated by |a particle groups with low   
+219RN6cL hindrance factors are associated to the {+223}Ra ground state          
+219RN7cL configuration (1998Sh02).                                              
+219RN cL J         From adopted levels                                          
+219RN cL E(A)      configuration=g{-9/2}                                        
+219RN cL E(B)      configuration=i{-11/2}                                       
+219RN cG           1998Sh02: measured E|g, I|g, |a|g coin. Detectors: hyperpure 
+219RN2cG germanium for |g rays, Si(Li) for |a particles. Deduced |g-ray         
+219RN3cG multipolarities using conversion electron unpublished data from        
+219RN4cG others. Re-interpreted |a|g(|q) results from others.                   
+219RN cG           1976Bl13: precise measurement of E|g, I|g. Detector: Ge(Li). 
+219RN2cG Experimental Rn I|g(K|a{-2}| x ray)=81 {I9}, Rn I|g(K|a{-1}| x         
+219RN3cG ray)=136 {I17}, Rn I|g(K|b{-1}'| x ray)=66 {I5}, and Rn I|g(K|b{-2}'|  
+219RN4cG x ray)=12 {I1} compares with Rn I|g(K|a{-2}| x ray)=109 {I2}, Rn       
+219RN5cG I|g(K|a{-1}| x ray)=181 {I4}, and Rn I|g(xkbp)=83 {I2}, calculated by  
+219RN6cG evaluator (using the RADLST program) from the |g-ray intensities and   
+219RN7cG the K-conversion coefficients presented here, using a K-fluorescence   
+219RN8cG yield of 0.967. A total average radiation energy of 5968 keV 2,        
+219RN9cG calculated by evaluator (using the RADLST program) is in reasonable    
+219RNxcG agreement with Q(|a)=5979.3 keV 3, from mass tables (1995Au04).        
+219RN cA E,IA      From 1962Wa18 (detector: magnetic spectrometer), unless      
+219RN2cA otherwise specified. Original energies of 1962Wa18 have been increased 
+219RN3cA by 2 keV because of changes in the calibration energies (1991Ry01).    
+219RN4cA Uncertainties are values estimated by 1977Ma31.                        
+219RN5cA Additional |a-particle energies of 1957Pi31 and 1970Da08 given in      
+219RN6cA comments also have been increased by 3 keV because of changes in       
+219RN7cA the calibration energies.                                              
+219RN8cA Evaluator has renormalized intensities (I|a) to sum 100.               
+219RN cA E(D),IA(D)$Value recommended by 1991Ry01.                              
+219RN cA IA(B)     From 1970Da08, detector: semiconductor.                      
+219RN cA HF        Using r{-0}({+219}Rn)=1.543, average of                      
+219RN2cA r{-0}({+218}Rn)=1.5446 {I9} and r{-0}({+220}Rn)=1.5419 {I6} from       
+219RNxcA adjacent even-even nuclei (1998Ak04).                                  
+219RN cG E$Weighted average from 1998Sh02, 1976Bl13, 1972HeYM, 1970Da08,        
+219RN2cG 1970Kr01, and 1968Br17, unless otherwise specified.                    
+219RN3cG The most precise |g-ray energies are from 1976Bl13,                    
+219RN4cG which dominate the weighted average.                                   
+219RN cG           Others: 1957Pi31, 1957Pa07, 1966Po02, 1968Br17, 1969Be67.    
+219RN cG RI$Weighted average from 1976Bl13, 1972HeYM, 1970Da08, 1970Kr01,       
+219RN2cG and 1968Br17 (as reported by 1998Dr01 from 1998Br10),                  
+219RN3cG unless otherwise specified.                                            
+219RN cG MR        Deduced by evaluator using the minimization method and       
+219RN2cG computer code of Rysavy, et al. (1980Ry04).                            
+219RN cG E(A),RI(A)$From 1968Br17.                                              
+219RN cG E(C),RI(C)$From 1972HeYM.                                              
+219RN cG E(D),RI(D)$From 1970Kr01.                                              
+219RN cG E(E),RI(E)$From 1970Da08.                                              
+219RN cG E(F),RI(F)$Reported by 1998Sh02 only                                   
+219RN cG M(G)$Reported by 1998Sh02. Based on internal conversion electron       
+219RN2cG data of N. T. Phuoc, Ph. D. thesis, University of Paris (Sud), 1972.   
+219RN cL E$Deduced by evaluator from a least-squares fit to |g-ray energies     
+219RN2cL from 1976Bl13, 1972HeYM, 1970Da08, 1970Kr01, and 1968Br17.             
+219RN cL T$From Doppler measurement (1976Li13), unless otherwise specified.     
+223RA  P 0.0         3/2+              11.43 D    5             5979.3    3     
+219RN  N     0.139 2           1.0                                              
+219RN PN                                                                     3  
+219RN cN NR$from decay scheme, I|a(5872)=1.0% {I2}, I|a(5857)=0.32% {I4}, and   
+219RN2cN using |SI(|g+ce) to g.s., 4.5, 14.4=98.7% {I2}.                        
+219RN  G 33.6      5  0.74   24                                             A   
+219RN  G 63.2      5  0.40   11                                             A   
+219RN cG           Other values: E|g=68, I|g=2.2 (1957Pi31); E|g|?72, I|g=2.9   
+219RN2cG and E|g|?64, I|g=4.4 (1966Po02); |g ray not observed (1970Da08).       
+219RN  G 114.5     5  0.066  37                                             C   
+219RN  G 136.1     2  0.20   2                                              D   
+219RN cG           |g ray not observed, I|g<0.015 (1972HeYM).                   
+219RN  G 143.1     8                                                            
+219RN cG E         from 1957Pi31. |g ray not observed (1970Da08).               
+219RN  G 193.0     10  0.07  AP                                             E   
+219RN cG           |g ray not observed, I|g<0.015 (1972HeYM).                   
+219RN  G 219.0     8  0.10   4                                              A   
+219RN  G 236.0     6  0.07   AP                                             A   
+219RN  G 293.8     2  0.48     E1                       0.0351              D   
+219RNS G KC=   0.0284  $LC=  0.00507   $MC=   0.00120  $NC+=      0.00040       
+219RN cG           Other values: E|g=293.538 {I44}, I|g=0.56 {I4} (1976Bl13).   
+219RN2cG Reassigned to {+219}Rn |a decay by 1970Da08.                           
+219RN2cG M from |a(K)exp|<0.04 (1970Kr01).                                      
+219RN  G 346.8     3  1.3    AP                                             E   
+219RN cG           Assignment to {+223}Ra |a decay is uncertain.                
+219RN  G 369.5        0.15   AP                                             A   
+219RN  G 373.3        0.36   AP                                             D   
+219RN cG           Other values: E|g=373.0 {I4}, I|g|?0.7 (1968Br17);           
+219RN2cG E|g=372.881 {I61}, I|g=0.73 {I8} (1976Bl13); |g ray not observed,      
+219RN3cG I|g<0.04 (1972HeYM).                                                   
+219RN  G 376.0     3  0.088  29                                             E   
+219RN cG           Other values: E|g=377.0 {I6}, I|g|?0.05, tentatively assigned
+219RN2cG to {+219}Rn |a decay (1968Br17); E|g=376.0, I|g<0.07 (1970Kr01);       
+219RN3cG |g ray not observed, I|g<0.037 (1972HeYM).                             
+219RN  G 393.5     5  0.081  29                                             E   
+219RN cG           Other values: E|g=393.0, I|g<0.08 (1970Kr01); |g ray not     
+219RN2cG observed, I|g<0.022 (1972HeYM).                                        
+219RN  G 439.3        0.59   10                                             D   
+219RN cG           Other values: E|g=440.8 {I2} (1957Pi31); E|g=439.02 {I6}?,   
+219RN2cG I|g=0.39 {I3} (1976Bl13). |g ray not observed, I|g<0.037 (1972HeYM).   
+219RN3cG Others: 1966Po02, 1970Da08.                                            
+219RN  G 465.2     1  0.029  7                                              A   
+219RN  G 481.6     5  0.15   4                                              D   
+219RN cG           |g ray not observed, I|g<0.036 (1972HeYM).                   
+219RN  G 490.8     3  0.012  5                                              F   
+219RN  G 523.2     4  0.010  4                                              F   
+219RN  G 532.9     4  0.010  4                                              F   
+219RN  G 580.4                                                                  
+219RN cG E         from 1957Pi31. Other value: E|g=580, I|g|<0.7; |g ray not    
+219RN2cG observed, I|g<0.05 (1970Da08).                                         
+219RN  G 623.4        0.06   3                                              A   
+219RN  G 632.0     10  0.22  7                                              E   
+219RN cG           Other value: E|g=632.0, I|g|<0.07 (1970Kr01); |g ray not     
+219RN2cG observed, I|g<0.037 (1972HeYM).                                        
+219RN  G 711.2     7  0.026  7                                              A   
+219RN  G 737.2     8  0.002  1                                              F   
+219RN  L        0.0          5/2+       3.96 S   1                          A   
+219RN cL T         from adopted levels.                                         
+219RN  A 5871.3    10 1.0    2   2430                                       D   
+219RN cA E$other values: 5870 {I2} (1957Pi31); 5871 {I3} (1970Da08);            
+219RN2cA 5869.5 {I17} (1964Wa19).                                               
+219RN cA IA$0.96 (1957Pi31); 1.5 (1962Gi04); 0.87 (1962Wa18); 0.85 {I4}         
+219RNxcA (1970Da08).                                                            
+219RN  L      4.47  1    (9/2)+        15.4 NS   13                         A   
+219RN cL T         from |g ce(t) coin (1974Ri05).                               
+219RN  G        4.4 1               E2                 4.34E6                   
+219RN cG CC$from 1978Ro21 (Theory).                                             
+219RN cG M,MR$M1+E2, |d=0.062 {I3}, or pure E2 (1998Sh02),                      
+219RN2cG from ce(N1)/ce(N2) exp=0.36 {I4}                                       
+219RN3cG and ce(N1)/ce(N3) exp=0.32 {I4} (1974Ri05). Decay scheme requires E2.  
+219RN4cG Other values: ce(M1):ce(M2):ce(M3) exp=10 {I6}:10:7 {I5} (1972HeYM).   
+219RN  L     14.37  1     (7/2)+        875 PS   30                         A   
+219RN cL T         from |g ce(t) coin (1974Ri05).                               
+219RN  A 5857.5    10 0.31   4  6710                                        B   
+219RN cA E         other values: 5856 (1957Pi31); 5857 (1970Da08).              
+219RN cA IA        other values: 0.3 (1957Pi31); 0.32 (1962Wa18).               
+219RN  G         10 1   0.10 1  M1+E2    0.050   2       1047 36                
+219RN cG CC$from adopted gammas.                                                
+219RN cG M,MR      from ce(M1)/ce(M2) exp=2.12 {I14}, ce(M1)/ce(M3) exp=2.40    
+219RN2cG {I25}, ce(N1)/ce(N2) exp=1.89 {I26}, and ce(N1)/ce(N3) exp=3.56 {I71}  
+219RN3cG (1974Ri05). Other values: ce(M1):ce(M2):ce(M3) exp=21 {I3}:10:10.5     
+219RNxcG {I30} (1972HeYM).                                                      
+219RN cG RI$deduced by evaluator from |g-ray transition intensity balance at    
+219RN2cG 14.4 level, and I|g(10.0|g)/I|g(14.4|g)=0.85 {I9} from measured ce     
+219RN3cG intensities and theoretical |a (1974Ri05).                             
+219RN  G       14.4 1   0.12 1 M1+E2     0.116   2        566                   
+219RN cG M,MR      from ce(M1)/ce(M2) exp=0.98 {I2}, ce(M1)/ce(M3) exp=0.86     
+219RN2cG {I9}, ce(N1)/ce(N2) exp=1.11 {I16}, and ce(N1)/ce(N3) exp=1.40 {I20}   
+219RN3cG (1974Ri05). Other values: ce(M1):ce(M2):ce(M3) exp=10 {I2}:10:8 {I3}   
+219RNxcG (1972HeYM).                                                            
+219RN cG RI$deduced by evaluator from |g-ray transition intensity balance at    
+219RN2cG 14.4 level, and I|g(10.0|g)/I|g(14.4|g)=0.85 {I9} from measured ce     
+219RN3cG intensities and theoretical |a (1974Ri05).                             
+219RN  L    126.77  2    (11/2)+       402 PS    20                         B   
+219RN cL T         from (|a)(ce)(t) coin (1970Kr01).                            
+219RN  A 5747.0    4  9.0    2    66                                        D   
+219RN cA E         other values: 5745 {I2} (1957Pi31); 5745.5 (1961Ry02);       
+219RN2cA 5745.4 (1962Wa18); 5747 (1970Da08); 5747.2 {I4} (1971Gr17).            
+219RN cA IA$other values: 10.5 (1957Pi31); 10.2 (1962Gi04); 9.1 (1962Wa18);     
+219RN2cA 9.50 {I58} (1970Da08).                                                 
+219RN cA IA$10.2 {I4}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G    122.31910   8.7  1   M1+E2    0.132  14      7.72                   
+219RNS G KC=    6.18   $LC=      1.16  $MC=     0.278  $NC+=      0.0969        
+219RN cG M,MR      from ce(L1):ce(L2):ce(L3) exp=17:2.2 {I1}:0.45 {I9},         
+219RN2cG weighted average of ce data from 1970Da08 and 1970Kr01. M1 reported by 
+219RNxcG 1998Sh02.                                                              
+219RN  L    158.64  1     (7/2)+       42.3 PS   50                         B   
+219RN cL T         other values: 40.2 ps {I76} Doppler (1969BoZF);              
+219RN2cL 17.7 ps {I26} Doppler (1974Ri01).                                      
+219RN  A 5716.23   29  51.6  13   8.1                                       D   
+219RN cA E$other values: 5715 (1957Pi31); 5714.3 (1961Ry02); 5716.1 (1962Wa18); 
+219RN2cA 5715 {I3} (1970Da08); 5716.16 {I29} (1971Gr17).                        
+219RN cA IA$other values: 50.4 (1957Pi31); 48.0 (1962Gi04); 53.7 (1962Wa18);    
+219RN2cA 52.5 {I8} (1970Da08).                                                  
+219RN cA IA$50.0 {I14}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      31.98 3  0.0007AP   (E2)                   2012                   
+219RN cG M         from ce(M1):ce(M2):ce(M3) exp=<0.06:1.0:1.0 {I1} (1970Kr01). 
+219RN2cG E2 reported by 1998Sh02.                                               
+219RNS G                LC=     1486   $MC=      395                            
+219RN cG RI$from 1970Kr01. Other value: 0.41 {I4} (1976Bl13) is inconsistent    
+219RN2cG with 50% |a-particle abundance to 158 level.                           
+219RN  G    144.23510    23.5 5   M1+E2   -0.12  1       4.83                   
+219RNS G KC=    3.88   $LC=    0.719   $MC=     0.171  $NC+=      0.0596        
+219RN cG M,MR      from ce(L1):ce(L2):ce(L3) exp=2.8:0.345 {I10}:0.049 {I7},    
+219RN2cG weighted average of ce data from 1970Da08 and 1970Kr01. M1+E2 reported 
+219RN3cG by 1998Sh02. Negative sign on |d is from |a|g(|q) (1998Sh02).          
+219RN  G    154.20810    41   1    M1                    4.03                   
+219RNS G KC=     3.25  $LC=    0.589   $MC=     0.140  $NC+=      0.0487        
+219RN cG M         from ce(L1):ce(L2) exp=4.0:0.46 {I1} (1970Kr01). Other value:
+219RN2cG ce(L1):ce(L2) exp=4.0:0.45 {I2} (1970Da08). M1+E2 reported by 1998Sh02.
+219RN  G    158.63510    5.0  1  M1+E2    -0.18  +7-11   3.64 11                
+219RNS G KC=    2.92 13$LC=      0.55 3$MC=     0.131 7$NC+=      0.0456 11     
+219RN cG M,MR$from |a(K)exp=2.96 {I12} (1970Kr01) and ce(K):ce(L1):ce(L2)       
+219RN2cG exp=18 {I1}:3:0.44 {I9} (1970Da08). M1+E2 reported by 1998Sh02.        
+219RN3cG Negative sign on |d is from |a|g(|q) (1998Sh02).                       
+219RN  L    269.48  1     3/2+         14.2 PS   23                         B   
+219RN cL T         other values: 27 ps {I3} (1970Ko05,1970Ko34,1971Ko37);       
+219RN2cL 11.5 ps {I25} Doppler (1969BoZF); 4.4 ps {I10} recoil-distance Doppler 
+219RNxcL (1974Ri01)                                                             
+219RN  A 5606.73   30  25.2  5    4.6                                       D   
+219RN cA E         other values: 5605 (1957Pi31); 5605.3 (1961Ry02);            
+219RN2cA 5607.1 (1962Wa18); 5606 {I3} (1970Da08); 5607.34 {I30} (1971Gr17).     
+219RN cA IA$other values: 23.6 (1957Pi31); 25.7 (1962Gi04); 26 (1962Wa18);      
+219RN2cA 24.2 {I4} (1970Da08).                                                  
+219RN cA IA$25.8 {I8}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G    110.85610  0.42  3     E2                    5.46                   
+219RNS G KC=    0.370  $LC=      3.73  $MC=    1.006   $NC+=        0.353       
+219RN cG M         from ce(L1):ce(L2):ce(L3) exp=1:18 {I6}:12 {I4}, weighted    
+219RN2cG average from 1970Da08 and 1970Kr01. E2 reported by 1998Sh02.           
+219RN  G     255.2 2     0.38 5                                                 
+219RN  G    269.46310  100   2   M1+E2   0.15    4      0.829                   
+219RNS G KC=   0.668   $LC=     0.122  $MC=    0.0289  $NC+=     0.00987        
+219RN cG M,MR      from ce(K):ce(L1):ce(L2):ce(L3) exp=117.7 {I24}:19:2.3       
+219RN2cG {I1}:0.1 {I1}, weighted average of ce data from 1970Da08 and 1970Kr01. 
+219RN3cG M1 reported by 1998Sh02.                                               
+219RN  L    338.27  1       (5/2)+     6.1 PS    28                         B   
+219RN cL T         other values: 8.1 ps {I28} recoil-distance Doppler;          
+219RN2cL 4.5 ps {I8} Doppler (1969BoZF).                                        
+219RN  A 5539.80   90 9.0    2    5.7                                       D   
+219RN cA E$other values: 5537 (1957Pi31); 5537.1 (1961Ry02); 5540.0 {I9}        
+219RNxcA (1971Gr17);                                                            
+219RN cA IA$other values: 10.3 (1957Pi31); 10.2 (1962Gi04); 9.1 (1962Wa18);     
+219RN2cA 9.16 {I30} (1970Da08).                                                 
+219RN cA IA$10.3 {I2}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G     179.54 6    1.1  1  M1+E2    0.53    5       2.21 6                
+219RNS G KC=     1.69 6$LC=    0.393 13$MC=     0.096 3$NC+=       0.0333 8     
+219RN cG M,MR      from ce(L1):ce(L2):ce(L3) exp=10:2.8 {I6}:1.3 {I3}           
+219RN2cG (1970Kr01). Other value: |d=0.74 {I18}, from |a(K)exp=1.43 {I20}       
+219RN3cG (1970Kr01). M1+E2 reported by 1998Sh02.                                
+219RN  G    323.87110    28.7 5  M1+E2   0.18    10     0.496 16                
+219RNS G KC=   0.400 15$LC=   0.0726 24$MC=    0.0172 6$NC+=     0.00587 15     
+219RN cG M,MR      from ce(K):ce(L1):ce(L2):ce(L3) exp=27.0:4.2:0.50 {I6}:0.06  
+219RN2cG {I6}, weighted average of ce data from 1970Da08 and 1970Kr01.          
+219RN3cG M1+E2 reported by 1998Sh02.                                            
+219RN  G     334.01 6    0.73 4   (E2)                   0.102                  
+219RNF G FL=4.47                                                                
+219RNS G KC=  0.0552   $LC=    0.0347  $MC=  0.00909   $NC+=      0.00312       
+219RN cG M         from |a(K)exp=0.08 {I5} (1970Kr01). E2 reported by 1998Sh02. 
+219RN  G    338.28210    20.4 4    M1                   0.452                   
+219RNS G KC=    0.365  $LC=   0.0654   $MC=    0.0155  $NC+=     0.00528        
+219RN cG M$from |a(K)exp=0.367 {I24} (1970Kr01), and ce(K):ce(L1):ce(L2) exp=18 
+219RN2cG {I1}:3.1:0.35 {I7} (1970Da08). M1+E2 reported by 1998Sh02.             
+219RN  L    342.78  2   (5/2,7/2)-                                              
+219RN  G     328.38 3    1.50 5   (E1)                  0.0273                  
+219RNS G KC=   0.0221  $LC=  0.00390   $MC= 0.000919   $NC+=     0.000307       
+219RN cG M         from |a(K)exp=0.03 {I2} (1970Kr01). E1 reported by 1998Sh02. 
+219RN  G     342.87 4    1.6  1  E1                     0.0248                  
+219RNS G KC=0.0201$LC=0.00353$MC=0.00083$NC+=0.00028                            
+219RN cG M         E1 or E2 from |a(K)exp|<0.12 (1970Kr01). E1 reported by      
+219RN2cG 1998Sh02, and required by decay scheme.                                
+219RN  L    376.26  2        (9/2)+    6.9 PS    38                         B   
+219RN cL T         other value: <170 ps (|a)(ce)(t) coin (1970Kr01).            
+219RN  A 5501.6    10  1.00  15   33                                        B   
+219RN cA E         other values: 5500 (1957Pi31); 5501 {I3} (1970Da08).         
+219RN cA IA        other values: 0.86 (1957Pi31); 1.3 (1962Gi04); 0.8           
+219RNxcA (1962Wa18).                                                            
+219RN cA IA$0.75 {I4}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G      249.3 1    0.28 7 M1+E2                  0.6    4             G   
+219RN cG CC        for |d=1.0 {I1}, assumed by evaluator.                       
+219RNS G KC=0.5 4$LC=0.130 23$MC=0.032 4$NC+=0.0111 13                          
+219RN  G   362.052 17    0.33 2                                                 
+219RNF G FL=14.37                                                               
+219RN  G   371.676 15    3.5  1    M1                   0.350                   
+219RNF G FL=4.47                                                                
+219RNS G KC=    0.283  $LC=   0.0506   $MC=    0.0120  $NC+=     0.00408        
+219RN cG M         from |a(K)exp=0.292 {I23} (1970Kr01). M1+E2 reported by      
+219RNxcG 1998Sh02.                                                              
+219RN  G 376.1     2   0.09  3                                                  
+219RN  L     377.33 6  (7/2,9/2)-                                               
+219RN cL           No evidence was found of a previously reported level at      
+219RN2cL 378.5 keV (1992Br10) deexcited by a 251.6-keV |g ray (1998Sh02).       
+219RN cL           No |a population, I|a<0.05, HF>600 (1998Sh02).               
+219RN  G       34.5 2                                                       F   
+219RN  G      362.9 2    0.11 5                                             F   
+219RN  G      372.9 1    0.36    E1                    0.0206               G   
+219RNS G KC=0.0167$LC=0.00291$MC=0.00068$NC+=0.00023                            
+219RN  L      397.1 4                                                           
+219RN  A 5481.2        0.008 AP  3160  AP                                       
+219RN cA IA$0.0007 {I5}, deduced by evaluator from |g-ray transition intensity  
+219RN2cA balance.                                                               
+219RN  G      270.3 4  0.005 3                                              F   
+219RN  L    445.03  1     (5/2)+       6.2 PS    31                         B   
+219RN cL T         other value: <170 ps (|a)(ce)(t) coin (1970Kr01).            
+219RN  A 5433.6    5  2.22   20   6.3                                       B   
+219RN cA E         other values: 5432 (1957Pi31); 5435 {I3} (1970Da08).         
+219RN cA IA        combined intensity to 445.0 and 446.8 levels.                
+219RN2cA I|a=2.4 {I7}, deduced by evaluator from |g-ray transition intensity    
+219RN3cA balance. Other values: 2.4 (1957Pi31); 2.5 (1962Gi04); 2.3 (1962Wa18). 
+219RN  G 102.2     2   0.006 3                                              F   
+219RN  G     106.78 3  0.17  1   (M1)                     11.5                  
+219RNS G KC=    9.27   $LC=      1.69  $MC=    0.402   $NC+=        0.140       
+219RN cG M         from |a(L1)exp=1.45 {I30} (1970Kr01). M1 reported by         
+219RNxcG 1998Sh02.                                                              
+219RN  G    175.65 15   0.14 3                                                  
+219RN  G      430.6 3   0.14 4                                                  
+219RN  G   445.033 12   9.3  3     M1                    0.215                  
+219RNS G KC=    0.174  $LC=    0.0311  $MC=  0.00735   $NC+=      0.00252       
+219RN cG M         from |a(K)exp=0.194 {I19} (1970Kr01). M1 reported by         
+219RNxcG 1998Sh02.                                                              
+219RN  L     446.82 3       (5/2)-                                              
+219RN  G      69.5  1    0.05 2 M1                     7.76                 F   
+219RN3 G FLAG=G                                                                 
+219RNS G LC=5.88$MC=1.40$NC+=0.484                                              
+219RN  G     104.23 8    0.14 2 M1+E2                  10     3             G   
+219RNS G KC=5 5$LC=3.4 16$MC=0.9 5$NC+=0.31 16                                  
+219RN cG CC        for |d=1.0 {I10}.                                            
+219RN  G     108.5  2    0.04 2                                             F   
+219RN  G      177.3 1    0.34 3                                                 
+219RN  G     288.18 3    1.15 3    E1                   0.0367                  
+219RNS G KC=   0.0297  $LC=  0.00531   $MC=   0.00125  $NC+=    0.000419        
+219RN cG M         from |a(K)exp=0.023 {I15} (1970Kr01). E1 reported by         
+219RNxcG 1998Sh02.                                                              
+219RN  G    432.12 10  0.25  2                                                  
+219RN  L     490.92 2 (5/2,7/2,9/2)-                                            
+219RN  G    114.7  2   0.07  3                                                  
+219RN  L     514.5  1   (9/2+)                                              B   
+219RN  A 5365.6    10  0.13  AP   45   AP                                   B   
+219RN cA E         other values: 5363 (1957Pi31); 5367 (1970Da08).              
+219RN cA IA        other values: 0.20 (1957Pi31); 0.108 (1962Wa18).             
+219RN cA IA$0.016 {I7}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      138.3 3   0.012 5                                             F   
+219RN  G      355.7 2   0.02  1                                             F   
+219RN  G      387.7 2    0.11 4                                                 
+219RN  G      500.0 4   0.010 4                                             F   
+219RN  G      510.0 4   0.003 2                                             F   
+219RN  L     517.7                                                             ?
+219RN cL           No |a population. I|a<0.01, HF>600 (1998Sh02).               
+219RN  G      70.9     0.025 8                                              F  ?
+219RN  L    541.99  2   (7/2)                                               B   
+219RN  A 5338.7    10  0.13  AP   32   AP                                   B   
+219RN cA E         other values: 5337 (1957Pi31); 5339 {I3} (1970Da08).         
+219RN cA IA        other values: 0.07 (1957Pi31); 0.10 (1962Wa18);              
+219RN2cA 0.25 (5339|a + 5366|a) (1962Gi04).                                     
+219RN cA IA$0.093 {I7}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      165.8 2  0.04  2                                                  
+219RN  G      382.8 3    0.10 3                                                 
+219RN  G   527.611 13    0.51 3                                                 
+219RN  G   537.6   1   0.015 1                                              F   
+219RN  G   542.0   4   0.010 4                                              F   
+219RN  L     594.1  1   (7/2)-                                                  
+219RN  A 5287.3    10  0.15       14                                            
+219RN cA E         other values: 5287?, 5290 (1957Pi31); 5288 {I3} (1970Da08).  
+219RN cA IA$value adopted by 1977Ma31 from 0.13 (1962Wa18) and |?0.16           
+219RN2cA (1970Da08). Other values: 0.3 (5287|a? + 5290|a) (1957Pi31); 0.3       
+219RNxcA (1962Gi04).                                                            
+219RN cA IA$0.14 {I5}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G      103.2 2  0.04  2  M1+E2                  10     3             F   
+219RNS G KC=5 5$LC=3.4 16$MC=0.9 5$NC+=0.31 16                                  
+219RN cG CC        for |d=1.0 {I10}.                                            
+219RN3 G FLAG=G                                                                 
+219RN  G      147.2 3  0.04  2                                              F   
+219RN  G      251.6 3   0.3  1  M1+E2                  0.63   4             G   
+219RNS G KC=0.46 4$LC=0.126 2$MC=0.0313 4$NC+=0.0108 1                          
+219RN cG CC        for |d=1.0 {I10}.                                            
+219RN  G      255.7 3  0.04  2                                                  
+219RN  G      579.6 3  0.010 4                                              F   
+219RN  G      594.0 3  0.010 4                                              F   
+219RN  L    598.72  2 (5/2,7/2,9/2)+                                        B   
+219RN  A 5282.8         0.093     22                                            
+219RN cA IA$0.14 {I1}, deduced by evaluator from |g-ray transition intensity    
+219RN2cA balance.                                                               
+219RN  G    221.32 24   0.26 4  E1                     0.0681               G   
+219RN  G      260.4 3   0.05 2                                                  
+219RN  G      584.3 3  0.010 4                                              F   
+219RN  G   598.721 24   0.68 3                                                  
+219RN  L     623.68 4                                                           
+219RN  A 5258.8         0.042     34                                            
+219RN cA IA$0.078 {I6}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      247.2 5  0.07  2                                                  
+219RN  G     609.31 4  0.41  2                                                  
+219RN  G     619.1  4  0.025 8                                              F   
+219RN  G     623.5  3  0.06  3                                              F   
+219RN  L     646.1  1                                                           
+219RN  A 5236.3         0.041     26                                            
+219RN cA IA$0.021 {I4}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      131.6 2  0.04  2                                                  
+219RN  G      199.3 3  0.02  1                                                  
+219RN  G      487.5 2  0.08  1                                                  
+219RN  G      631.7 7  0.003 2                                              F  ?
+219RN  G      641.7 4  0.012 5                                              F   
+219RN  G      646.1 5  0.003 3                                              F   
+219RN  L      672.6 5                                                           
+219RN  A 5211.6        0.0053    144                                            
+219RN cA IA$0.0011 {I6}, deduced by evaluator from |g-ray transition intensity  
+219RN2cA balance.                                                               
+219RN  G    545.8  5   0.008 4                                              F   
+219RN  L     711.3  1                                                           
+219RN  A 5172.8        0.026      18                                            
+219RN cA IA$0.012 {I5}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G    112.6                                                           F  ?
+219RN  G    368.56 12   0.06 3                                                  
+219RN  G    696.9  7   0.005 2                                              F   
+219RN  G    711.3  2   0.026 7                                                  
+219RN  L     732.8  1                                                           
+219RN  A 5151.8        0.021      17                                            
+219RN cA IA$0.015 {I4}, deduced by evaluator from |g-ray transition intensity   
+219RN2cA balance.                                                               
+219RN  G      286.0 4 0.008  4                                              F   
+219RN  G      355.5 2 0.03   1                                              F   
+219RN  G      390.1 2  0.05  2                                                  
+219RN  G      574.1 7 0.008  4                                              F   
+219RN  G      718.4 4 0.010  4                                              F   
+219RN  G      728.4 8 0.002  1                                              F   
+219RN  G      732.8 6 0.002  1                                              F   
+219RN  L        748                                                             
+219RN  A 5134.8    AP 0.0017 AP   168  AP                                       
+219RN  L        773                                                             
+219RN  A 5112.4    AP 0.0006 AP  340   AP                                       
+219RN  L        800                                                             
+219RN  A 5086.2    AP 0.0003 AP  472   AP                                       
+219RN  L        830                                                             
+219RN  A 5056.0    AP 0.0002 AP  469   AP                                       
+219RN  L        851                                                             
+219RN  A 5036.0    AP 0.0004 AP   176  AP                                       
+219RN  L        861                                                             
+219RN  A 5025.5    AP 0.00063AP   96   AP                                       
+219RN  L        873                                                             
+219RN  A 5014.4    AP 0.00044AP  115   AP                                       
+

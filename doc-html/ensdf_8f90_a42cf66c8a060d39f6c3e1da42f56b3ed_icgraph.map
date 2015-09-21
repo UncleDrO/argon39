@@ -1,0 +1,6 @@
+<map id="nucid_to_az" name="nucid_to_az">
+<area shape="rect" id="node2" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="167,5,304,32"/>
+<area shape="rect" id="node5" href="$neutron_8f90.html#ad6e0ed18eec5bf5f64d9a725d6af05f1" title="Gets (alpha,n) targets from input file and allocates targets(:) array. " alt="" coords="147,56,324,83"/>
+<area shape="rect" id="node3" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="372,5,516,32"/>
+<area shape="rect" id="node4" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="564,5,635,32"/>
+</map>

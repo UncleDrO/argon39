@@ -1,0 +1,25 @@
+!
+! input file for argon39 code
+! Ondřej Šrámek, Charles University in Prague, ondrej.sramek@gmail.com, 2015
+!
+&inputs
+        model_name          = "G2_pub",
+
+        input_directory     = "../inputdata",
+        file_abundances     = "elem_wtfrac_G2",
+        file_atomic_mass    = "atom_wt_nist_full.94",
+        file_decay_chains   = "decay.chains",
+        file_stopping_power = "srim_tot_RG03UC_14ThU",
+        file_an_targets     = "targets_tendl-2012.an",
+
+        which_an_calc       = 2,            !! 1=local(kinematic), 2=talys
+        local_directory     = "../localxs",
+        talys_directory     = "../talysxs",
+
+        rock_density        = 2.70,  !granite 2.65--2.75
+
+        dEtalys = 0.1,
+        dEan = 0.01,
+        mcnp6_accu = 0.005,
+        mcnp6_radcm = 300.,
+/

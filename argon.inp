@@ -1,0 +1,19 @@
+!
+! Example of input file for ARGON39 code
+! Ondřej Šrámek, University of Maryland, sramek@umd.edu, 2013
+!
+&inputs
+        input_directory = "Input",
+        file_atomic_mass = "atom_wt_nist_common",
+        file_abundances = "abundances_RG03_UC",
+        file_decay_chains = "decay.chains",
+        file_stopping_power = "srim_4He_in_RG03_UC_13",
+        file_an_prefix = "anxsec_",
+
+        rock_density = 2.7,
+
+        dE_alpha = 0.1,
+        dE_an = 0.01,
+
+        output_file = "argon.out",
+/

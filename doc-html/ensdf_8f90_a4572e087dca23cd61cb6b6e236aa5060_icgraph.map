@@ -1,0 +1,8 @@
+<map id="validate_nucid_format" name="validate_nucid_format">
+<area shape="rect" id="node2" href="$decchains_8f90.html#a846040297eef709abf3f8dac36b0bdd4" title="Gets decays chains from input file and allocates dchain(:) array. " alt="" coords="219,41,369,82"/>
+<area shape="rect" id="node6" href="$mcnp6extract_8f90.html#acd47d7c90f820f36e4410de86184c731" title="Gets (alpha,n) targets from input file and allocates targets(:) array. " alt="" coords="205,107,383,133"/>
+<area shape="rect" id="node3" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="431,5,575,32"/>
+<area shape="rect" id="node5" href="$mcnp6extract_8f90.html#af0e37fb4a5ad0ed1a8cb19f09d6da825" title="This program extracts 39Ar values from MCNP6 output files. " alt="" coords="458,56,547,83"/>
+<area shape="rect" id="node4" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="623,56,693,83"/>
+<area shape="rect" id="node7" href="$talysprep_8f90.html#a5e6c4dd9c50d176cf07a5dffda6ffa74" title="This program prepares input files and batch execution file for running TALYS. " alt="" coords="465,157,541,184"/>
+</map>

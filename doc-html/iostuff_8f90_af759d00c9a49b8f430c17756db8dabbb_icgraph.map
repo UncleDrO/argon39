@@ -1,0 +1,31 @@
+<map id="open_file" name="open_file">
+<area shape="rect" id="node2" href="$decchains_8f90.html#a846040297eef709abf3f8dac36b0bdd4" title="Gets decays chains from input file and allocates dchain(:) array. " alt="" coords="143,5,293,47"/>
+<area shape="rect" id="node5" href="$mcnp6extract_8f90.html#af0e37fb4a5ad0ed1a8cb19f09d6da825" title="This program extracts 39Ar values from MCNP6 output files. " alt="" coords="393,122,482,149"/>
+<area shape="rect" id="node6" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="369,223,506,250"/>
+<area shape="rect" id="node7" href="$decchains_8f90.html#a31f59d79ebc87116c67becd7087688eb" title="Outputs energy spectra of alphas produced in chain ic " alt="" coords="355,274,520,301"/>
+<area shape="rect" id="node8" href="$elemnucl_8f90.html#ad8eafb0d250e2592d19a8690599a6343" title="Sets up element and nuclide data structures from input files. " alt="" coords="135,426,301,453"/>
+<area shape="rect" id="node9" href="$talysprep_8f90.html#a5e6c4dd9c50d176cf07a5dffda6ffa74" title="This program prepares input files and batch execution file for running TALYS. " alt="" coords="399,521,475,547"/>
+<area shape="rect" id="node10" href="$elemnucl_8f90.html#a34a7c0381935af30e589aa4b0734163a" title="Reads rock composition from input file. " alt="" coords="583,331,713,358"/>
+<area shape="rect" id="node11" href="$ensdf_8f90.html#abf41713aa86fc45deb8a017daaf563ba" title="Reads ENSDF decay dataset. " alt="" coords="140,173,296,199"/>
+<area shape="rect" id="node12" href="$fission_8f90.html#a3c6ac74dedece146555620d34c97ebf3" title="calculate_sf_neutron\l_production" alt="" coords="575,723,721,764"/>
+<area shape="rect" id="node13" href="$iostuff_8f90.html#a6d3fdd9af1f968e4b407c599e712c2dc" title="Starts outputfile after calling get_inputs. " alt="" coords="357,671,518,698"/>
+<area shape="rect" id="node14" href="$iostuff_8f90.html#a38e224d9341ed418ce42515c2cad9052" title="Gets inputs from inputfile. " alt="" coords="176,477,260,503"/>
+<area shape="rect" id="node15" href="$iostuff_8f90.html#a59df1b192d6920203b1a945ffd3ab950" title="Closes output file and prints final message on stdout. " alt="" coords="594,789,702,815"/>
+<area shape="rect" id="node16" href="$mcnp6extract_8f90.html#a6368bcd90e8cffb3935f2c895e978cf3" title="Writes MCNP6 input file. " alt="" coords="131,71,305,98"/>
+<area shape="rect" id="node17" href="$mcnp6extract_8f90.html#acd47d7c90f820f36e4410de86184c731" title="Gets (alpha,n) targets from input file and allocates targets(:) array. " alt="" coords="129,375,307,402"/>
+<area shape="rect" id="node18" href="$mcnp6prep_8f90.html#a035febd3c26a8696ce1efdc27e47a51c" title="Writes MCNP6 input file. " alt="" coords="151,831,285,858"/>
+<area shape="rect" id="node20" href="$neutron_8f90.html#ac1e14a79afff201a9f50533f971052e7" title="Reads (a,n) cross section. " alt="" coords="568,861,728,887"/>
+<area shape="rect" id="node21" href="$neutron_8f90.html#a7f3c8c1b9fb42e2ecdd3f4cfe4646aa4" title="Retrieves TALYS differential neutron production cross section (n spectrum) and interpolates to Enspec..." alt="" coords="150,933,286,975"/>
+<area shape="rect" id="node24" href="$neutron_8f90.html#a8260069a5794c466c25d4040fc4fa599" title="Outputs neutron production table :) " alt="" coords="365,1051,510,1092"/>
+<area shape="rect" id="node26" href="$neutron_8f90.html#adbcdb83427ac7bfe40a2debbe73e43b4" title="Outputs neutron spectra, user&#45;friendly xy file + for MCNP6 input. " alt="" coords="356,999,519,1026"/>
+<area shape="rect" id="node27" href="$stoppow_8f90.html#a76170db348b32b123b2759b1a9184622" title="Read in stopping power from input file. " alt="" coords="573,1103,723,1130"/>
+<area shape="rect" id="node28" href="$stoppow_8f90.html#a65317bfea168be8b9cae828b00d5ae38" title="Calculate and output alpha particle range. " alt="" coords="359,1167,515,1194"/>
+<area shape="rect" id="node29" href="$talysprep_8f90.html#acbad3d82303b0aea55728ac168bc13be" title="Writes TALYS input file. " alt="" coords="157,578,279,605"/>
+<area shape="rect" id="node30" href="$talysprep_8f90.html#ab30623fafbb63833b7ca862b063e0844" title="Writes TALYS energy file. " alt="" coords="151,629,285,655"/>
+<area shape="rect" id="node3" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="576,269,720,295"/>
+<area shape="rect" id="node4" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="776,759,847,786"/>
+<area shape="rect" id="node19" href="$mcnp6prep_8f90.html#af0e37fb4a5ad0ed1a8cb19f09d6da825" title="This program prepares input files and batch execution file for running MCNP6. " alt="" coords="393,831,482,858"/>
+<area shape="rect" id="node22" href="$neutron_8f90.html#aee8287f8ab14cf717b431e223ad40d28" title="Tabulates TALYS differential neutron production function. " alt="" coords="367,933,508,975"/>
+<area shape="rect" id="node23" href="$neutron_8f90.html#ac9afffbf2d4d8afc896dcbe976991b28" title="Top subroutine to calculate (a,n) neutron energy spectra from each decay chain. " alt="" coords="573,933,723,975"/>
+<area shape="rect" id="node25" href="$neutron_8f90.html#a5110672e8691955a1f3abff1f54c4039" title="Top subroutine to calculate (a,n) neutron yield from each alpha decay branch of each chain..." alt="" coords="573,1024,723,1065"/>
+</map>

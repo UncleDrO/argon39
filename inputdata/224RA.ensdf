@@ -1,0 +1,99 @@
+224RA    228TH A DECAY                 1977KU15                  97NDS    199703
+224RA  H TYP=FUL$AUT=AGDA ARTNA-COHEN$CIT=NDS 80, 227 (1997)$CUT=1-Oct-1996$    
+228TH  P 0           0+                1.912 Y   2              5520.12   22    
+224RA  N 0.00122               1.0                                              
+224RA PN                                                                     3  
+224RA cN NR        From I(84.4|g)=0.0122 {I2} per {+228}Th decay (recommended   
+224RA2cN value, 1991BaZS, 1986LoZT. Based on measurements: 0.0121 {I6}          
+224RA3cN (1969Pe17), 0.019 {I1} (1982Sa36), 0.0125 {I3} (1984Ge07) and value    
+224RA4cN calculated from intensity balance: 0.01195 {I25})                      
+224RA c  The decay scheme is that of 1977Ku15                                   
+224RA cL E         From a least-squares fit to the E|g                          
+224RA cL J         From adopted levels                                          
+224RA cA E         Data for the ground-state and 84-level branches are          
+224RA2cA from 1991Ry01, others are from 1970Ba20. Values of 1970Ba20 have been  
+224RA3cA increased by 2 keV by the evaluator to account for changes in          
+224RA4cA calibration as deduced from a comparison of authors' values for the    
+224RA5cA two strong branches with those of 1991Ry01                             
+224RA cA IA        From I(|g+ce) imbalance at each level deduced from           
+224RA2cA absolute I|g data. A 3% uncertainty in the theoretical |a values       
+224RA3cA has been adopted by the evaluator for the calculation of I(|g+ce)      
+224RA cA HF        HF(5423.15|a)=1.00 yields r{-0}({+224}Ra)=1.5332 {I7}        
+224RA cG E         From 1977Ku15, unless otherwise noted                        
+224RA cG E(D)      From 1977Ku25. The values have been adjusted by the evaluator
+224RA2cG for change in calibration from relative to 411.794 keV for the {+198}Au
+224RA3cG line used by 1977Ku25 to relative to E(Au |g)=411.80205 keV {I17}      
+224RAxcG (1994HeZZ).                                                            
+224RA cG RI        Relative to 1000 for the 84|g. Values for the strong lines   
+224RA2cG (>1) are from 1984Ge07. Others are from 1977Ku15. Other: 1982Sa36      
+224RA cG M(F)      From an intensity balance at the 216 level, using            
+224RA2cG I|a(5211|a)=0.36 (1979Ba20), both the 131|g and 216|g must be E1.      
+224RA  L 0             0+                                                       
+224RA  A 5423.15   22 72.2   11  1.00                                           
+224RA  L 84.373     3  2+              0.746 NS  14                             
+224RA2 L G=+0.46 11                                                             
+224RA cL G         |a|g(|q,H) (1973He13)                                        
+224RA cL T         weighted average of (|a)(ce)(t) value from 1970To08 (0.748   
+224RA2cL ns {I20}) and 1965Ne03 (0.744 ns {I19}). Other: 1960Be25 (0.76 ns {I3})
+224RA  A 5340.36   15 27.2   10  0.90  3                                        
+224RA cA IA        28 (1953As31)                                                
+224RA  G 84.373     3 1000   16 E2                     21.6                 D   
+224RAS G LC=15.8$  MC=4.29$  NC+=1.55                                           
+224RA cG M         L1:L2:L3=5.19 {I21}:134.3 {I10}:100; M1:M2:M3=5.7 {I6}:121.9 
+224RA2cG {I9}:100 (1970SpZW); theory(E2): L1:L2:L3=4.89:130:100. From |a|g:     
+224RA3cG |a(exp)=21.4 {I9} (1969Pe17), |a(exp)=19.6 {I14} (1968Du06); theory:   
+224RAxcG |a(E2)=21.6                                                            
+224RA  L 215.986   4   1-                                                       
+224RA  A 5211         0.420  10  10.3  3                                        
+224RA cA IA        0.4 (1953As31), 0.36 (1970Ba20)                              
+224RA  G 131.613    4 107.0  15 E1                     0.251                D   
+224RA3 G FLAG=F                                                                 
+224RAS G KC=0.196$  LC=0.0411$  MC=0.0098$  NC+=0.00340                         
+224RA  G 215.983    5 207.8  25 E1                     0.0758               D   
+224RA3 G FLAG=F                                                                 
+224RAS G KC=0.0605$  LC=0.0116$  MC=0.00276$  NC+=0.00096                       
+224RA  L 250.784   5   4+              0.181 NS  9                              
+224RA cL J         J=4+ from |a|g(|q) from 0+ parent (1989Po19)                 
+224RA cL T         (|a)(ce)(t) (1965Ne03)                                       
+224RA  A 5173         0.227  7   11.8  3                                        
+224RA cA IA        0.2 (1953As31), 0.18 (1970Ba20)                              
+224RA  G 166.410    4 84.9   12 (E2)                   1.19                 D   
+224RAS G KC=0.229$  LC=0.701$  MC=0.190$  NC+=0.0685                            
+224RA cG M         from I(|g+ce)(161|g)=I|a(5173)=0.18 (1970Ba20)               
+224RA2cG |a(exp)(161|g)=0.73. Theory: |a(E1)=0.152, |a(E2)=1.32, |a(M1)=4.20    
+224RA  L 290.36    4 (3)-                                                       
+224RA  A 5138         0.038  6  41     7                                        
+224RA cA IA        |?0.05 (1953As31), 0.03 (1970Ba20)                           
+224RA  G 74.4       1 0.33   12 [E2]                   39.3                     
+224RAS G LC=15.8$  MC=4.29$  NC+=1.55                                           
+224RA  G 205.93     5 16.1    5  E1                    0.0849                   
+224RAS G KC=0.0677$  LC=0.0130$  MC=0.00311$ NC+=0.00108                        
+224RA cG M         |a(K)exp<0.19, |a(L)exp<0.05, |a(M)exp<0.014 (1989Po19).     
+224RA2cG Theory: E1: |a(K)=0.0677, |a(L)=0.0130, |a(M)=0.00311; E2:             
+224RAxcG |a(K)=0.155, |a(L)=0.280, |a(M)=0.075                                  
+224RA  L 433.08    10 (5)-                                                      
+224RA  A              1.0E-5 3 2.1E+4  6                                        
+224RA  G 142.0      5 0.0011  4 [E2]                   2.23                     
+224RAS G KC=0.284$  LC=1.42$  MC=0.385$  NC+=0.140                              
+224RA  G 182.2      2 0.0043 15 [E1]                   0.114                    
+224RAS G KC=0.0903$  LC=0.0178$  MC=0.00424$  NC+=0.00147                       
+224RA  L 479.3     2 (6+)                                                       
+224RA  A              2.5E-5 5 4.3E+3  8                                        
+224RA  G 228.5      2 0.015   3  [E2]                  0.373                    
+224RAS G KC=0.126$  LC=0.181$  MC=0.0486$  NC+=0.0174                           
+224RA  L 916.33    7   0+                                                       
+224RA  A              1.8E-5 3  6.5    11                                       
+224RA  G 700.5      5 0.0025 AP [E1]                   0.00614                  
+224RAS G KC=0.00503$  LC=0.00084                                                
+224RA  G 832.0      2 0.012   2 [E2]                   0.0130                   
+224RAS G KC=0.0098$  LC=0.00244                                                 
+224RA  L 992.65    6 (2+)                                                       
+224RA  A              4.7E-6 AP  6.8   AP                                       
+224RA  G 742.2      5 0.0012  4 [E2]                   0.0164                   
+224RAS G KC=0.0121$  LC=0.00327                                                 
+224RA  G 908.10    10 0.0014 AP [M1,E2]                0.025  14                
+224RA cG E,RI      from I|g/I(742|g)=1.14 {I26} in {+224}Fr |b{+-} decay in     
+224RA2cG later work of these authors (1981Ku02). Spectrum in present work shows 
+224RA3cG 911.2|g labelled as a background peak                                  
+224RA  G 992.9     10 0.0012 AP [E2]                   0.0092                   
+

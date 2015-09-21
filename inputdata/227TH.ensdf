@@ -1,0 +1,61 @@
+227TH    227AC B- DECAY                1959NO41,1995LI04,1997MU0801NDS    200110
+227TH  H TYP=MOD$AUT=E. BROWNE$DAT=5-May-2009$COM=RI from DDP work, new cc$     
+227TH  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 920 (2001)$CUT=1-May-2001$           
+227TH D  Modified by E. Browne using the 2008 DDEP evaluation of V. Chechev.    
+227TH2D  Theoretical conversion coefficients are from BRICC (May 5, 2009).      
+227TH c  1959No41: measured |b{+-} spectrum, conversion electrons.              
+227TH2c  Detectors: ion chamber, magnetic spectrograph.                         
+227TH c  1995Li04: measured E|g, |b|g coin, maximum |b{+-} energies.            
+227TH2c  Detectors: hyperpure germanium detector, Si(Li) coupled to             
+227TH3c  a magnetic lense.                                                      
+227TH c  1997Mu08: measured conversion-electron spectrum. Detector:             
+227TH2c  iron-free magnetic orange spectrometer.                                
+227TH cL T         From adopted levels.                                         
+227TH CL BAND(A)   KPI=1/2+ PARITY DOUBLET ROTATIONAL BAND                      
+227TH CL BAND(a)   KPI=1/2- PARITY DOUBLET ROTATIONAL BAND                      
+227TH cB E         E|b=45.5 keV {I10}, ion chamber, includes the |b{+-} groups  
+227TH2cB that populate the g.s., 9.3, and 24.5 levels (1959No41).               
+227TH cB IB        Deduced from ce data of 1959No41, unless otherwise specified.
+227TH cG E,M$From 1959No41, unless otherwise specified.                         
+227TH cG E(X),M(X)$From 1995Li04                                                
+227TH cG RI(A)     From I(|g+ce)(28.6|g) + I(|g+ce)(37.9|g)=0.3%, and           
+227TH2cG I|g(37.9|g)/I|g(28.6|g)=1.17 {I22} in {+227}Pa |e decay.               
+227TH cG RI(B)     From I(|g+ce)(24.5|g) + I(|g+ce)(15.2|g)=10%, and            
+227TH2cG I|g(24.5|g)/I|g(15.2|g)=45.5 in {+231}U |a decay.                      
+227TH cG RI(C)     From I(|g+ce)(9.3|g)=35% and |a=326000.                      
+227AC  P 0.0                3/2-       21.772 Y  3               44.8     8     
+227TH  N 1.014       1.014     0.98620036   1.014                               
+227TH PN                                                                     3  
+227TH  L 0.0          1/2+             18.68 D   9                          A   
+227TH  B             54      AP             7.1                                 
+227THS B EAV=11.37 21                                                           
+227TH  L 9.3         (5/2+)                                                 A   
+227TH  B              35     AP             7.0                                 
+227THS B EAV=8.98 21                                                            
+227TH  G 9.3       1  0.00011  (E2)                     3.26E5              C   
+227THS G MC=2.44E+5                                                             
+227TH cG M         from ce(M2):ce(M3):ce(N):ce(O) exp=1425:1545:720:200         
+227THxcG (1959No41).                                                            
+227TH  L 24.5         3/2+                                                      
+227TH  B 20.3        10      AP             6.8                                 
+227THS B EAV=5.11 21                                                            
+227TH cB E$from |b|g coin (1995Li04).                                           
+227TH  G 15.2      1  0.00063   (M1)                    238                 B   
+227THS G MC=177                                                                 
+227TH cG M         from ce(M1):ce(M3):ce(N1): exp=400:40:130 (1959No41)         
+227TH  G 24.5      2  0.028      M1+E2   0.100   5       340  11            B   
+227THS G LC=254 8$MC=64                                                         
+227TH cG MR$from ce(M2)/ce(M1) exp=0.39 {I4}, ce(M3)/ce(M1) exp=0.24 {I3}       
+227THxcG (1997Mu08).                                                            
+227TH cG M         from ce(M1)+ce(M2):ce(M3):ce(N) exp=50:8:15 (1959No41).      
+227TH  L 37.9          3/2-                                                 a   
+227TH  B 6.9         0.3                    6.9                                 
+227THS B EAV=1.73 20                                                            
+227TH cB E$from |b|g coin (1995Li04)                                            
+227TH  G 28.6      5  0.042    E1                        3.24               X   
+227TH2 G FLAG=A                                                                 
+227THS G LC=2.46$MC=0.623                                                       
+227TH  G 37.9      5  0.049    E1                        1.54               X   
+227TH2 G FLAG=A                                                                 
+227THS G LC=1.16$MC=0.288                                                       
+

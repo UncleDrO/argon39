@@ -1,0 +1,23 @@
+214PB    218PO A DECAY                 1958Wa16,1971Gr17         09NDS    200902
+214PB  H TYP=FUL$AUT=S. -C. WU{+a}$CIT=NDS 110, 681 (2009)$CUT=1-Nov-2007$      
+214PB c  %|a({+218}Po)=99.980 {I2} is adopted in 1995El08 from the branchings   
+214PB2c  determined by 1958Wa16 (%|b{+-}=0.0185) and by 1952Hi60 (%|b{+-}=0.022 
+214PBxc  {I3}).                                                                 
+214PB c                                                                         
+214PB cA E         Adopted energies in 1995El07.                                
+214PB cA IA        |a intensity per 100 |a decays, as adopted in 1995El07.      
+214PB2cA The relative |a intensities were measured by 1958Wa16 as               
+214PB3cA I|a(5181|a)/I|a(6002|a)=1.1|*10{+-5}                                   
+214PB cA HF        r{-0}({+214}Pb)=1.5379 {I7} is calculated from               
+214PBxcA HF(6002.35|a)=1.0.                                                     
+218PO  P 0.0          0+                3.098 M  12             6114.68   9     
+214PB  N                       0.99980 2                                        
+214PB  L 0.0          0+                                                        
+214PB  A 6002.35   9 99.9989 11 1.0                                             
+214PB cA E         measured by 1971Gr17. The original energy is decreased by    
+214PB2cA 0.20 keV, as recommended by 1991Ry01. Other measurements: 1963Ba62,    
+214PBxcA 1992Ba61.                                                              
+214PB  L 836       2   (2+)                                                     
+214PB  A 5181      2 0.0011     7.6                                             
+214PB cA E         measured by 1958Wa16.                                        
+

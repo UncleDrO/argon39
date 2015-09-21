@@ -1,0 +1,233 @@
+206PB    206TL B- DECAY                1968ZO02,1972COYX,1972GR0108NDS    200805
+206PB  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 109, 1527 (2008)$CUT=31-Jan-2008$      
+206PB D  EXPERIMENTAL METHODS:                                                  
+206PB D  EXCEPT WHERE NOTED, THE SOURCES WERE PRODUCED BY THE 205TL(N,G)        
+206PB2D       REACTION.                                                         
+206PB D  1951Al14: B- SPECTRUM AND CE MEASURED IN MAGNETIC LENS AND G'S BY      
+206PB2D       SCINTILLATION.  REPORT HALF-LIFE, B- END POINT, AND CRUDE         
+206PB3D       B- SHAPE.                                                         
+206PB D  1961Ho17: USED 210BI (3E+06 Y) SOURCE.  MEASURED HALF-LIFE, B- END POIN
+206PB2D       AND B- SPECTRAL SHAPE.                                            
+206PB D  1963Bu23: BETA-DECAY THEORY AND ITS APPLICATION TO THIS 0- TO 0+ DECAY.
+206PB2D       DEDUCES THAT THE LARGE SHAPE FACTORS OF 1961Ho17 ARE DOUBTFUL.    
+206PB D  1968Zo02: LABORATORY REPORT, SEE 1970Zo02 FOR PUBLISHED FORM.          
+206PB D  1969Da25: BETA-DECAY THEORY FOR 206HG TO 206TL TO 206PB DECAYS.        
+206PB D  1970Fl12: 206TL PRODUCED BY 205TL(D,P) REACTION WITH ISOTOPE SEPARATION
+206PB2D       B- MEASURED IN 4PI SI(LI) DETECTOR.  REPORT HALF-LIFE, END POINT, 
+206PB3D       AND B- SPECTRAL SHAPE.                                            
+206PB D  1970Zo02: MEASURE G'S WITH GE DETECTOR AND B- RATE WITH 2PI COUNTER.   
+206PB2D       REPORT G EMISSION PROBABILITY.                                    
+206PB D  1971Pe03: B- MEASURE WITH 4PI SI(LI) DETECTOR.  REPORT HALF-LIFE, END  
+206PB2D       POINT, AND B- SPECTRAL SHAPE.                                     
+206PB D  1972CoYX: LAB REPORT.  MEASURED G'S IN GE DETECTOR AND B'S ABSOLUTE    
+206PB2D       COUNTER.  REPORT HALF-LIFE AND G AND X EMISSION PROBABILITIES.    
+206PB D  1972Gr01: MEASURED B RATE IN 4PI BETA DETECTOR, G'S WITH GE DETECTOR,  
+206PB2D       AND CE IN PLASTIC SCINTILLATOR.  REPORT HALF-LIFE AND I(B-).      
+206PB D  1972Wi18: THIS IS AN EXPANDED VERSION OF 1970Fl12, BUT THE SHAPE FACTOR
+206PB2D       IS SOMEWHAT DIFFERENT.                                            
+206TL  P 0           0-                4.202 M   11             1532.3     6    
+206TL DP J         FROM 206TL ADOPTED LEVELS.  J FROM ATOMIC-BEAM MAGNETIC      
+206TL2DP      RESONANCE (1969Cu09,[1969Fu11]) AND PI FROM SYSTEMATICS OF LOGFT  
+206TL3DP      VALUES FOR 0+ TO 0- IN THIS MASS REGION, ETC.  CONFIGURATION      
+206TL4DP      IS PRIMARITY S1/2,P1/2.                                           
+206TL DP T         FROM 206TL ADOPTED                                           
+206TL DP QP        FROM 2003Au03.                                               
+206PB cL E,J$From {+206}Pb adopted levels                                       
+206PB cB IB$From I(|g+ce) values and the decay scheme                           
+206PB cG M$From {+206}Pb adopted gammas                                         
+206PB tG  $Auger electrons and X ray energies and intensities from 2007KoZZ     
+206PB3tG      {U Energy (keV)}     {U Intensity #}     {U Line  }               
+206PB4tG                                                                        
+206PBotG       72.8049-87.911    0.090 {I10}        K| x ray (total)            
+206PBrtG                                                                        
+206PB5tG       72.8049           0.026 {I3}         K|a{-2}| x ray              
+206PB6tG       74.97             0.044 {I5}         K|a{-1}| x ray              
+206PB7tG                                                                        
+206PB8tG       84.451         |]                  K|b{-3} x ray                 
+206PB9tG       84.937         |]  0.0150 {I17}       K|b{-1} x ray              
+206PBatG       85.47          |]                  K|b{-5}\{+II} x ray           
+206PBbtG                                                                        
+206PBctG       87.238         |]                  K|b{-2} x ray                 
+206PBdtG       87.58          |]  0.0045 {I6}        K|b{-4} x ray              
+206PBetG       87.911         |]                  KO{-23} x ray                 
+206PBftG                                                                        
+206PBgtG       9.19-15.217       0.035 {I4}         L| x ray (total)            
+206PBhtG                                                                        
+206PBitG       56.028-88.0        0.0034 {I6}       K Auger                     
+206PBjtG       56.028-61.669      0.0021 {I4}        KLL Auger                  
+206PBktG       68.181-74.969      0.00117 {I19}      KLX Auger                  
+206PBltG       80.3-88.0          0.00016 {I3}       KXY Auger                  
+206PBmtG                                                                        
+206PBntG       5.2-15.7           0.057 {I7}        L Auger                     
+206PBptG                                                                        
+206PBqtG  # Absolute intensity given per 100 decays                             
+206PB  N   1.0       1.0       1.0       1.0                                    
+206PB PN                                                                     3  
+206PB  L 0            0+                                                        
+206PB  B             99.885  14           5.1775 13                             
+206PBS B EAV=538.86 25                                                          
+206PB cB E$From Q(|b{+-}) value of 2003Au03. Measured values are 1523 {I4}      
+206PB2cB (1970Fl12), 1534 {I5} (1971Pe03), and 1527 {I4} (1972Wi18), 1510 {I10} 
+206PB3cB (1951Al14) and 1571 {I10} (1961Ho17).                                  
+206PB cB $The shape of this 0- to 0+ |b spectrum has been measured by           
+206PB2cB 1961Ho17 (A=-0.154, B=-0.484), 1970Fl12 (A=-0.017 {I5}, B=0.030 {I9}), 
+206PB3cB 1971Pe03 (A=0.00 {I1}), and 1972Wi18 (A=-0.020 {I2}, from same data as 
+206PB4cB 1970Fl12). If shape is needed, the result of 1972Wi18 is recommended.  
+206PB cB IB$The 0- to 0+ |b{+-} decay has been of special                       
+206PB2cB interest. For discussions of |b{+-} decay theory applied to this       
+206PB3cB case see 1963Bu23, 1969Da25, 1980Kr09, 1985To20, and 1987Ki11.         
+206PB  L 803.049   25 2+                                                        
+206PB  B             0.0051  3             8.60   3                          1U 
+206PBS B EAV=232.39 21                                                          
+206PB  G 803.06    3  0.0050 5 E2                      0.0103  3                
+206PBS G KC=0.00801 24$LC=0.00174   5$MC=0.000420 6$NC+=0.0001290 18            
+206PBS G NC=0.0001065 15$OC=2.06E-5 3$PC=1.89E-6 3                              
+206PB cG E$Weighted average of the most precise values reported in the          
+206PB2cG literature, e.g. 803.10 keV {I5} (1972Ma63) and 803.04 keV {I3}        
+206PBxcG (1996Ra16)                                                             
+206PB cG RI$Weighted average of 0.0055 {I4} (1970Zo02), 0.0041 {I6} (1972CoYX)  
+206PB2cG and 0.004 {I1} (1972Gr01)                                              
+206PB  L 1166.4     5 0+                                                        
+206PB  B              0.110  14            5.99   6                             
+206PBS B EAV=104.52 25                                                          
+206PB  G 363.3     5 0.00013 13  [E2]                   0.066  2               S
+206PBS G KC=0.0422 8$LC=0.0190 5$MC=0.00483 12$NC+=0.00146 4                    
+206PBS G NC=0.00122 3$OC=0.000227 6$PC=1.52E-5 4                                
+206PB cG E$From level energy differences.                                       
+206PB cG RI$From<0.00026 in 1972CoYX, which is a 2|s limit. Others: <0.001      
+206PB2cG (1972Gr01) and <0.001 (1968Zo02).                                      
+206PB  G 1166.4     5            E0                             0.110     14    
+206PB cG E$From ce measurements in 1977Dr08                                     
+206PB cG TI$From 2007KoZZ, based on the assumption that the K x rays are        
+206PB2cG produced from this transition and shake-off. I(|g+ce) is deduced as    
+206PB3cG follow: a) I(K| x ray) is the weighted mean of I(K| x ray)=0.08% {I2}  
+206PB4cG (1972Gr01) and 0.10% {I2} (1972CoYZ), deduced after a correction for   
+206PB5cG shake-off was taken into account; b) Ice(K)=I(K| x ray)/|w(K), where   
+206PB6cG the fluorescence yield is |w(K)=0.963 {I4} (1996Sc06); c)              
+206PB7cG ce(K)/(|g+ce)=0.85 {I6}, the weighted mean of 0.85 {I6} and 0.86       
+206PB8cG {I14}, values deduced from the measured K/L=5.61 {I38} (1990Tr01) and  
+206PB9cG 6 {I1} (1977Dr08), respectively. It should be noted that the BRICC     
+206PBacG program (2005KiZW) gives |W(E0,K)/|W(E0,T)=0.855 with an uncertainty   
+206PBbcG of 5%, and hence one gets ce(K)/(|g+ce)=|W(E0,K)/|W(E0,T)=0.86 {I4} in 
+206PBccG very good agreement with the experimentally determined value of 0.85   
+206PBdcG {I6}. Thus, I(|g+ce)=Ice(T)=Ice(K)/(ce(K)/(|g+ce))=0.090% {I10}/0.963  
+206PBxcG {I4}/0.85 {I6}=0.110% 14.                                              
+
+206PB    210PO A DECAY                                           08NDS    200805
+206PB  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 109, 1527 (2008)$CUT=31-Jan-2008$      
+206PB D  MODIFIED BY E. BROWNE (MARCH 1991). EA TO 803 LEVEL WAS WRONG.         
+206PB2D  DATASET WAS COMBINED WITH YURDANUR'S EVALUATION (E. BROWNE, JUNE 1998).
+206PB D  EXPERIMENTAL METHODS:                                                  
+206PB D  1933Ro03:      NOT READ.  ALSO THERE IS A 1932 REFERENCE.              
+206PB2D                 1962Br22 QUOTES E(A)=5298.5 65 FROM THESE TWO REFS.     
+206PB D  1934Le01: MEASURED E(A).  NOT READ BUT IN LATER TALLIES.               
+206PB D  1951Gr15: MEASURED RI(803)/I(A)=1.80E-5 14.                            
+206PB D  1951St75: MEASURED E(A)=5297 10.  KEYNO MAY BE IN ERROR.               
+206PB D  1952Ba20: MEASURED KX/RI(803)=0.134 AND ASCRIBES SOME TO ALPHA         
+206PB2D       INTERACTIONS IN SAMPLE.                                           
+206PB D  1952De08: OBSERVED ALPHA-G(803)(THETA) AND DEDUCES LEVEL IS 2+.        
+206PB D  1952OvAA:      NOT READ.  1957Ov09 QUOTES RI(803)/I(A)=1.22E-5 9.      
+206PB D  1952Ri14: MEASURED RI(803)/I(A)=1.6E-5 2 AND I(L X)/I(A)=2.2E-4 5 A    
+206PB2D       I(K X)/I(A)=1.6E-6 5.  AT THIS TIME IT WAS ASSUMED THAT THE       
+206PB3D       X RAYS WERE FROM INTERNAL CONVERSION, BUT THEY ARE NOT.           
+206PB D  1952Ru08: MEASURED I(L X)/I(A)=2.93E-4 44 AND UNDERSTOOD X RAYS WERE   
+206PB2D       FROM THE ALPHA PARTICLE RATHER THAN INTERNAL CONVERSION.          
+206PB D  1952ShAA:      NOT READ.  1957Ov09 QUOTES RI(803)/I(A)=1.32E-5 8.      
+206PB D  1953Co64: MEASURED E(A), BUT GIVEN IN MOMENTUM UNITS; VALUE IS GIVEN IN
+206PB2D       KEV IN 1961Be13.                                                  
+206PB D  1954Br07:      NOT READ.  1961Be13 QUOTES E(A)=5300.6 26.              
+206PB D  1955Ha09:      NOT READ.  1957Ov09 QUOTES RI(803)/I(A)=1.21E-5 6.      
+206PB D  1955Ro30: MEASURED RI(803)/I(A)=1.2E-5 1.                              
+206PB D  1956As46: MEASURED RI(803)/I(A)=1.21E-5 8 AND DEDUCES I(A2)=1.25E-5 8  
+206PB D  1956Sh24: MEASURED RI(803)/I(A)=1.2E-5 2.                              
+206PB D  1957Ag15: MEASURED E(A)=5297.8 15.                                     
+206PB D  1957Ov09: MEASURED RI(803)/I(A)=1.22E-5 9 (QUOTED FROM HIS 1952        
+206PB2D       REPORT), AND EVALUATED SIX VALUES TO GET 1.21E-5 5.               
+206PB D  1957Ov10: MEASURED EKC=0.012 3 AND SHOWED MOST K X ARE FROM ALPHA      
+206PB2D       INTERACTIONS.                                                     
+206PB D  1958Ba45: 1960Fe04 QUOTES I(A2)/I(A1)=1.05E-5.  NOT READ.              
+206PB D  1958Wh09: MEASURED E(A)=5305.4 10.                                     
+206PB D  1960Br20: MEASURED E(A)=5308.6 30.                                     
+206PB D  1960Fe04: MEASURED E(A2)=4525 5 AND NOTED THEY AGREE WITH I(A2)/I(A1)  
+206PB2D       OF 1958Ba45.                                                      
+206PB D  1961Be13: MEASURED E(A)=5302.5 15.                                     
+206PB D  1961Ry05: MEASURED E(A)=5304.93 60.                                    
+206PB D  1962Br22: EVALUATES E(A) DATA AND REPORTS 5304.3 6.                    
+206PB D  1963Ru04: MEASURED I(M X)/I(A)=0.91E-3 14.                             
+206PB D  1964Wa19: EVALUATES AND RECALIBRATES E(A) DATA AND GIVES 5304.5 5.     
+206PB D  1973Go39: MEASURED E(A).  NOT READ, AND THIS IS THE RESULT THAT 1979RY0
+206PB2D       ADOPTS.                                                           
+206PB D  1974Br22: MEASURED SATELITE ALPHA PEAKS FROM ATOMIC EXCITATION.        
+206PB2D       GIVE P(K HOLE FROM ALPHA) OR P(K X FROM ALPHA)=2.0E-6 5 AND A     
+206PB3D       SIMILAR L-SHELL VALUE OF 3.2E-4 8.                                
+206PB D  1975Fi09: MEASURED THE ELECTRON SPECTRUM PRODUCED BY ALPHA EMISSION.   
+206PB2D       GIVES P(K)=2.03E-6 13 AND P(L)=8.2E-4 5 FROM SINGLES AND          
+206PB3D       A VARIETY OF OTHER VALUES.  DISCUSSED ELECTRON CAPTURE BY THE     
+206PB4D       OUTGOING ALPHA.  SHOWS THE SATELITE ALPHA PEAKS.                  
+206PB D  1975Ra10: MEASURED K ELECTRON SHAKE-OFF PER ALPHA=1.65E-6 16 AND       
+206PB2D       TALLIES OTHER MEASURED VALUES.  QUOTES I(KX)=1.07E-5.             
+206PB D  1975Ra11: MEASURED L AND M ELECTRON SHAKE-OFF PER ALPHA.               
+206PB D  1977Sc07: MEASURED L X RAY PRODUCTION.                                 
+206PB D  1978Ov03: SEARCH FOR A DECAY TO 1165 0+ LEVEL; DEDUCE I(A) LE 1E-9 PER 
+206PB2D       DECAY.                                                            
+206PB D  1979Ry03: EVALUATES AND ADJUSTS CALIBRATIONS OF E(A) FOR MANY NUCLIDES.
+206PB2D       USES ONLY HIS OWN VALUE OF 5304.38 7.                             
+206PB D  1999Oh02: MEASURED I(A)=9.83 (47)E-6 AND  K ELECTRON SHAKE-OFF PER     
+206PB2D        ALPHA=2.28E-6 20                                                 
+206PB  N   1.0                   1.0                                            
+206PB DN NR        values reported are per 100 ALPHA decays.                    
+206PB PN                                                                     3  
+210PO  P   0.0       0+                138.376 D 2              5407.45   7     
+210PO DP T$     FROM THE EVALUATION OF Browne 2003).  THE VALUE IS FROM 1964EiZZ
+210PO2DP       BY CALORIMETRY.  OTHERS: 138.37 D 3 (1953Cu46) AND 138.401 D 6   
+210PO3DP       (1954Ei20).  SEE ALSO 1931Cu01, 1949Be54, AND 1953Gi10.          
+210PO DP $The measured half-lives are: 138.37 ^D 3 (1953Cu46; by ALPHA counting)
+210PO2DP ,138.401 ^D 6 (1954Ei20) and 138.376 ^D 2 (1964EiZZ; by calorimetry    
+210PO3DP method). T1/2(210PO)=138.4 ^D 1 is recommended by 1990Ho28 from these  
+210PO4DP measured values, and T1/2 of 1964EiZZ is adopted in 1992Br01. The R0   
+210PO5DP value retains the same value for both of the recommended half-lives.   
+210PO6DP See 1953Cu46 and 1954Ei20 for earlier measurements.                    
+210PO DP                                                                        
+210PO DP $%A=100. 210PO is BETA stable.                                         
+210PO DP                                                                        
+210PO DP $QA(210PO)=5407.45 7 is recommended by 2003Au03.                       
+206PB cA IA$I|a to 1165-keV, 0+ level is determined as |<1.0|*10{+-9} per |a    
+206PB2cA decay in 1978Ov03                                                      
+206PB cA HF$r{-0}({+206}Hg)=1.40887 {I4} is calculated from HF(5304.33|a)=1.0.  
+206PB cA $The excitation of atomic electrons by the |a particle                 
+206PB2cA produces a continuous |a spectrum; see 1974Br22 and 1975Fi09.          
+206PB cL E,J$From {+206}Pb adopted levels.                                      
+206PB cG E,M$From {+206}Pb adopted gammas                                       
+206PB cG RI$X rays are produced primarily by shake-off of electrons             
+206PB2cG during the passage of |a particles through the atom. The measured      
+206PB3cG I(K| x ray)/I|a values are 2.28|*10{+-6} {I20} (1999Oh02),             
+206PB4cG 1.65|*10{+-6} {I17} (1975Ra10), 1.97|*10{+-6} {I13} (1975Fl09),        
+206PB5cG 1.5|*10{+-6} {I5} (1951Gr15), 2.0|*10{+-6} {I4} (1952Ba20),            
+206PB6cG 1.6|*10{+-6} {I5} (1952Ri14), 1.5|*10{+-6} {I3} (1957Ov10), and        
+206PB7cG 2.0|*10{+-6} {I5} (1974Br22); For I(L| x ray)/I|a see 1952Ri14,        
+206PBxcG 1952Ru08, 1974Br22, 1975Fi09, 1975Ra11, and 1977Sc07. For I(M x        
+206PBxcG ray)/I|a see 1963Ru04.                                                 
+206PB  L 0.0         0+                STABLE                                   
+206PB  A 5304.33   7  100       1.000                                           
+206PB cA E$From the evaluation of 1991Ry01 and based on measurement of 1973Go39.
+206PB2cA Other values: 5298 {I6} (1933Ro03 as quoted in 1962Br22),              
+206PB3cA 5298.8 {I21} (1934Le01 as quoted in 1961Be13),                         
+206PB4cA 5300.6 {I26} (1954Br07 as quoted in 1961Be13), 5304.3 {I29} (1953Co64  
+206PB5cA as quoted in 1961Be13), 5297.8 {I15} (1957Ag15), 5305.4 {I10}          
+206PB6cA (1958Wh09), 5308.6 {I30} (1960Br20), 5302.5 {I15} (1961Be13), and      
+206PBxcA 5304.9 {I6} (1961Ry05).                                                
+206PB  L 803.049   252+                1 NS      LT                             
+206PB cL T$From 1952De08.                                                       
+206PB  A 4516.58   10 0.00104 6  1.46  9                                        
+206PB cA E$Determined from E|a(0) and E|g(803). Measured: 4525 {I5} (1960Fe04). 
+206PB cA IA$Weighted average of directly measured I|a(4524|a)/I|a(5304|a)=      
+206PB2cA 1.07|*10{+-5} {I2} (1958Ba45) and 8.8|*10{+-6} {I5} (1999Oh02).        
+206PB  G 803.06    3 0.00103 6 E2                      0.01033               C  
+206PBS G KC=0.00804 12$LC=0.001745 25$MC=0.000420 6$NC+=0.0001290 18            
+206PBS G NC=0.0001065 15$OC=2.06E-5 3$PC=1.89E-6 3                              
+206PB cG RI$From I|a and |a(exp). Directly measured values are 0.00121 {I6}     
+206PB2cG (1955Ha09), 0.0012 {I1} (1955Ro30), 0.00121 {I8} (1956As46), 0.00122   
+206PB3cG {I9} (1957Ov09), 0.00180 {I14} (1951Gr15), 0.0016 {I2} (1952Ri14),     
+206PB4cG 0.00132 {I8} (1957Ov09), 0.0012 {I2} (1956Sh24).                       
+206PB cG M$|a(K)exp=0.0081 {I14} (1999Oh02)                                     
+

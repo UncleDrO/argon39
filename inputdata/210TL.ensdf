@@ -1,0 +1,34 @@
+210TL    214BI A DECAY (19.9 M)                                  03NDS    200307
+210TL  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 99, 649 (2003)$CUT=1-Jun-2002$           
+210TL c  %|a={ 0.021 {I1}}                                                      
+210TL cA E(A)$Recommended by 1991Ry01 from measured values in 1960Wa14,         
+210TL2cA 1948Ch22, and 1934Le01.                                                
+210TL cA IA        From 1960Wa14. Intensities are per 100 |a decays. Other      
+210TL2cA measurements: 1948Ch22, 1934Le01.                                      
+210TL cA HF        Using r{-0}({+210}Tl)=1.5394, from {+214}Po |a decay         
+210TLxcA (1998Ak04).                                                            
+210TL cG E         From E(ce) of 1951Co15.                                      
+210TL cL J         From adopted levels.                                         
+214BI  P 0.0          1-               19.9 M    4              5616.8    10    
+210TL  N                       0.00021 1                                        
+210TL  L 0.0         (5+)              1.30 M    3                              
+210TL  A 5516      3  39.2    31040                                         A   
+210TL cA IA        I|a={ 40.5 {I15}} (1991Ry01).                                
+210TL  L 62.5        (4+)                                                       
+210TL  A 5452      3  53.9    3372                                          A   
+210TL cA IA        I|a={ 53.7 {I20}} (1991Ry01).                                
+210TL  G 62.5                     (M1)                   6.48                   
+210TLS G                LC=     4.95   $MC=      1.16  $NC+=        0.374       
+210TL cG M         observation of dominant L1-subshell conversion line suggests 
+210TL2cG M1 multipolarity.                                                      
+210TL  L 253.6        (4+,5+)                                                   
+210TL  A 5273      9  5.8    1 363                                          A   
+210TL cA IA        I|a={ 5.8 {I3}} (1991Ry01).                                  
+210TL  G 191.1                                                                  
+210TL  L 334          (6+)                                                      
+210TL  A 5184         0.61   6 1290                                             
+210TL  L 498          (4+,5+)                                                   
+210TL  A 5023         0.21   4 464                                              
+210TL  L 582          (3+)                                                      
+210TL  A 4941         0.25   5 129                                              
+

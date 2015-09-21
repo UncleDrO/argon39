@@ -1,0 +1,84 @@
+ 40CA    40K B- DECAY (1.248E+9 Y)     1999BEZQ,1999BEZS         04NDS    200408
+ 40CA  H TYP=FUL$AUT=JOHN A. CAMERON AND BALRAJ SINGH$CIT=NDS 102, 293 (2004)$  
+ 40CA2 H CUT=10-May-2004$                                                       
+ 40CA D  THE EVALUATION OF R. G. HELMER (1999BeZQ,1999BeZS) IS UPDATED          
+ 40CA2D  by the evaluators                                                      
+ 40CA c  Measurements: 2004Ko09, 2002Gr01, 2001No10, 1977Ce04, 1972Go21,        
+ 40CA2c  1967Mc10, 1966Fe09, 1965Le15, 1965Br25, 1962Fl05, 1962En01, 1961Gl07,  
+ 40CA3c  1960Sa31, 1960Eg01, 1959Ke26, 1957We43, 1956Mc20, 1955Ba25, 1955Ko21,  
+ 40CA4c  1955Su38, 1953Bu58, 1952Fe16, 1951Go29, 1951De34, 1950Sa52, 1949Ov01,  
+ 40CA5c  1948Ev09, 1947Gl07. This list is not complete, see 1978LeZA for        
+ 40CA6c  several other references that are not present in NSR database.         
+ 40CA c  The decay scheme, which includes the |b{+-} decay to the               
+ 40CA2c  ground state of {+40}Ca and two levels in {+40}Ar, is complete since   
+ 40CA3c  these are the only levels in the daughter nuclides below the           
+ 40CA4c  respective decay energies.                                             
+ 40CA d            Decay data evaluated by R. G. Helmer, September 1996 with    
+ 40CA2d  minor editing in July 1998. This                                       
+ 40CA3d  evaluation was done under the collaboration including evaluators       
+ 40CA4d  from Laboratoire Primaire des Rayonnments Ionisants (LPRI) in          
+ 40CA5d  France; Physikalisch-Technische Bundesanstalt (PTB) in Germany;        
+ 40CA6d  Imperial College in the United Kingdom; and Brookhaven National        
+ 40CA7d  Laboratory (BNL), Lawrence Berkeley National Laboratory (LBNL),        
+ 40CA8d  and Idaho National Engineering and Environmental Laboratory            
+ 40CA9d  (INEEL) in the United                                                  
+ 40CA0d  States. This evaluation was reviewed and accepted by                   
+ 40CAAd  evaluators in this collaboration.                                      
+ 40K   P  0           4-               1.248E+9 Y 3             1311.07   11    
+ 40K  cP J         From unique 3rd forbidden |b{+-} spectral shape for decay    
+ 40K 2cP to 0+ level and L transfer in charge-particle reactions.               
+ 40K  cP T$from 2004Ko09 and 2002Gr01; the same value from measurements of      
+ 40K 2cP specific activity of natural potassium salts using liquid-scintillation
+ 40K 3cP counting (LSC) technique. (2002Gr01 reported a value of 1.248|*10{+9}  
+ 40K 4cP y {I2}, later adjusted to 1.248|*10{+9} y {I3} by 2004Ko09 to correct  
+ 40K 5cP the quoted uncertainty on measured isotopic abundance of {+40}K). Both 
+ 40K 6cP papers used natural abundance of {+40}K as 0.01167% {I2} (1975Ga24).   
+ 40K 7cP The natural abundance of {+40}K=0.0117% {I1} (as recommended in the    
+ 40K 8cP International Union of Pure and Applied Chemistry 70, 217 (1998),      
+ 40K 9cP based on the measured value of 1975Ga24) would give about 4 times      
+ 40K AcP larger uncertainty on T{-1/2}. The earlier values of 1.265|*10{+9} y   
+ 40K BcP {I13} (1999BeZS,1999BeZQ) based on recomputation of 1.277|*10{+9} y    
+ 40K CcP {I8} (evaluation by 1973EnVA); and 1.26|*10{+9} y {I1} (evaluation by  
+ 40K DcP 1990Ho28 from 14 different measurements out of a total of 34           
+ 40K EcP measurements listed) are in good agreement. Variation of T{-1/2} due   
+ 40K FcP to environmental conditions has been studied by 2001No10, where no     
+ 40K GcP significant effect has been reported. Earlier (pre-1977) measurements  
+ 40K HcP of partial (|b{+-} and ce) and/or total T{-1/2} of {+40}K:             
+ 40K IcP 1977Ce04, 1972Go21, 1966Fe09, 1965Le15, 1965Br25, 1962Fl05, 1961Gl07,  
+ 40K JcP 1960Sa31, 1960Eg01, 1959Ke26, 1957We43, 1956Mc20, 1955Ba25, 1955Ko21,  
+ 40K KcP 1955Su38, 1953Bu58, 1950Sa52, 1947Gl07. Another 16 references (from    
+ 40K LcP 1931 to 1971) are listed by 1990Ho28 and in the 1978 Table of          
+ 40K McP Isotopes (1978LeZA); but are not present in the NSR database.          
+ 40K  dP T$ 1.277|*10{+9} y {I8} from evaluation of 1973EnVA, where the |b{++}  
+ 40K 2dP branch to the {+40}Ar ground state, whose intensity has been measured, 
+ 40K 3dP was taken into account, but it appears that the corresponding |e decay 
+ 40K 4dP was neglected. The |e/|b{++} ratio for this 3U transition has been     
+ 40K 5dP estimated as follows. For a 1U transition, the theoretical value       
+ 40K 6dP for this ratio is 8.5 and for a 2U transition it is 45.2. If           
+ 40K 7dP the 3U ratio is larger by the same factor, 45.2/8.5, than the          
+ 40K 8dP |e/|b{++} ratio is |?240. In the calculation of t{-1/2}, a value of    
+ 40K 9dP 200 {I100} was used. The revised |b{+-}, |b{++}, and |e branchings are 
+ 40K AdP given in the corresponding tables and are based on the |g/|b{+-} and   
+ 40K BdP |b{++}/|b{+-} data in 1973EnVA. There are 1.5405|*10{+22} atoms of     
+ 40K CdP {+40}K per gram of natural K based on an average atomic mass of 39.095 
+ 40K DdP and an atomic abundance of 1.178|*10{+-4} {I4} (1973EnVA). From the    
+ 40K EdP measured |b{+-} activity of 27.89 {I15} per second for 1 g of natural  
+ 40K FdP K and I(|b{+-})=89.14% {I11}, the total activity is 31.29 {I17} per s  
+ 40K GdP and T{-1/2}=4.0207|*10{+16} s or 1.274|*10{+9} y {I8}. With a later    
+ 40K HdP value of {+40}K/K=1.17|*10{+-4} {I1} (1990Ho28),                       
+ 40K IdP T{-1/2}=3.992|*10{+16} s {I40} or 1.265|*10{+9} y {I13}.               
+ 40CA  N                       0.8914  13 1.1218                                
+ 40CA cN BR$ Branching calculated by evaluator based on                         
+ 40CA2cN I|g(1460|g)/I|b{+-}=0.1195 {I14} and I(|b{++})/I(|b{+-})=1.12|*10{+-5} 
+ 40CA3cN {I14} from evaluation of 1973EnVA. Evaluator estimates that            
+ 40CA4cN |e/|b{++}=200 {I100} for the unique 3rd forbidden branch to the        
+ 40CA5cN {+40}Ar ground state.                                                  
+ 40CA  L  0           0+               STABLE                                   
+ 40CA  B              89.14  13            20.75                             3U 
+ 40CA cB LOGFT$ log| {If{+3u}t} from private communication from R. B.           
+ 40CA2cB Firestone; see also 1970Wa11.                                          
+ 40CA DB LOGFT$ The LOGFT code gives LOGF0T=18.052 3.                           
+ 40CAS B EAV=560.18 5                                                           
+ 40CA DB EAV$ FOR 3RD-FORBIDDEN UNIQUE; OBTAINED FROM THE LBNL CODE BETAS       
+ 40CA2DB (T.W. Burrows).                                                        
+

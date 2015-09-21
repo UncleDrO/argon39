@@ -1,0 +1,72 @@
+228AC    228RA B- DECAY                1995SO11                  97NDS    199704
+228AC  H TYP=FUL$AUT=AGDA ARTNA-COHEN$CIT=NDS 80, 723 (1997)$CUT=1-Nov-1996$    
+228RA  P 0             0+              5.75 Y     3             45.9      9     
+228AC  N  0.016    AP  1.0       1.0      1.0                                   
+228AC PN                                                                     3  
+228AC cN NT        From absolute ce/|b and deduced multipolarities              
+228AC cN NR        Relative I|g normalized to absolute I(ce) through |a(13.52|g)
+228AC cL           1995So11: measured: |g, ce, |b; reanalysis of results        
+228AC2cL published earlier in 1971HeYY, 1972HeYY.                               
+228AC cL           Other: 1961To10                                              
+228AC cL           J|p and configurations are from 1995So11                     
+228AC cL E         From least squares fit to E|g                                
+228AC cB IB        From |b{+-} spectra of 1995So11, unless otherwise noted      
+228AC cB IB(A)     I|b(6.28 level)+I|b(6.67 level)=50% {I3} (1995So11), 70%     
+228AC2cB (1961To10). Division of intensity based on |g data.                    
+228AC cG E         From ce-spectrum, unless otherwise noted                     
+228AC cG RI        Relative I|g; some could contain contributions from L| x ray 
+228AC2cG components present in this energy range.                               
+228AC cG M         From M- and N-subshell ce ratios and M-subshell conversion   
+228AC2cG coefficients                                                           
+228AC cG TI        Experimental I(|g+ce) deduced from |SIce + I|g               
+228AC cG CC        Uncertainty given is due to |DE only                         
+228AC cG M(B)      E1 mult. For the 15.5-keV |g deduced from absence of         
+228AC2cG ce-lines. If the 15.15-keV ce-lines belong to this transition, then    
+228AC3cG |a(exp)|?19; theory: |a(E1)=4.5, |a(M1)=230, |a(E2)=27200              
+228AC  G 15.15     8                                               3      APB   
+228AC cG           M1, M2 and M3 lines observed in the ce-spectrum only         
+228AC  G 15.5      2  10      2 (E1)                   4.22   15   1      APB   
+228ACS G MC=3.16 11                                                             
+228AC cG           This |g seen only in the photon spectrum may be the same     
+228AC2cG as the 15.15-keV transition observed in the ce-spectrum                
+228AC  G 16.2      1  45     5  (E1)                   3.74   7    9      AP    
+228ACS G M/T=0.75                                                               
+228AC  G 30.6      1                                                            
+228AC cG           From ce data one has mult=M1 giving I(|g+ce)|?1, or M1+E2    
+228AC2cG with |d=0.4 giving I(|g+ce)|?6                                         
+228AC  L    0.0        3+                                                       
+228AC cL           Configuration=((|p 3/2[651])(|n 3/2[631])), K=3              
+228AC  L    6.28   3   1-                                                       
+228AC cL           Configuration=((|p 3/2[532])(|n 3/2[631])), K=0              
+228AC  B              10     AP            7.1   AP                         A   
+228ACS B EAV=10.04 25                                                           
+228AC  G 6.28       3           (M2)                   7.08E+617 10       AP    
+228ACS G M/T=0.75                                                               
+228AC cG M         data also consistent with M1+E2 with |d|?0.03, but not       
+228AC2cG consistent with pure E2 or higher multipolarities.                     
+228AC  L    6.670  20  1+                                                       
+228AC cL           Configuration=((|p 3/2[651])(|n 3/2[631])), K=0              
+228AC  B              40     AP            6.5   AP                         A   
+228ACS B EAV=9.94 15                                                            
+228AC cB           E|b=39.0 {I10} (1995So11), 40 (1961To10)                     
+228AC  G 6.67       2           E2                     1.61E+63 50        AP    
+228ACS G M/T=0.75                                                               
+228AC  L   20.19   3   1-                                                       
+228AC cL           Configuration=((|p 3/2[532])(|n 5/2[633])), K=1              
+228AC  B              20     6             6.20  14                             
+228ACS B EAV=6.48 23                                                            
+228AC cB           E|b=26.0 {I15} (1995So11)                                    
+228AC  G 13.52      2 100       E1                     6.09   2    11     AP    
+228ACS G MC=4.57 2                                                              
+228AC  L   33.07   11  1+                                                       
+228AC cL           Configuration=((|p 3/2[651])(|n 5/2[633])), K=1              
+228AC  B              30     10            5.12  18                             
+228ACS B EAV=3.21 23                                                            
+228AC cB           E|b=14.0 {I15} (1995So11)                                    
+228AC  G 12.75     5  19     4 (E1(+M2))               8.7    AP 3        AP   ?
+228ACS G M/T=0.75                                                               
+228AC cG CC        from I(|g+ce) and I|g; theory: |a(E1)=7.13,                  
+228ACxcG |a(M2)=2.18|*10{+5}                                                    
+228AC  G 26.4      1            M1+E2     0.07   AP    213    AP 3        AP    
+228ACS G L/T=0.737$M/T=0.197                                                    
+

@@ -1,0 +1,4 @@
+<map id="output_possible_targets" name="output_possible_targets">
+<area shape="rect" id="node2" href="$elemnucl_8f90.html#a80682d75c547656792b6819000fb25ed" title="Returns index inuc of nuclide Z,A " alt="" coords="217,5,349,32"/>
+<area shape="rect" id="node3" href="$ensdf_8f90.html#a9f343a9e65fbf1717c6c4887c0e74884" title="Returns NUCID from Z and A compliant to ENSDF standard, i.e., mass number in cols 1&#45;3 right&#45;justied..." alt="" coords="397,5,491,32"/>
+</map>

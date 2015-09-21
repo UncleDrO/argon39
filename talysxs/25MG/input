@@ -1,0 +1,16 @@
+#
+# General
+#
+projectile a
+element MG
+mass  25
+energy erange
+#
+# Compound nucleus
+#
+widthfluc y
+#
+# Output
+#
+outspectra y
+filespectrum n

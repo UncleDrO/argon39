@@ -1,0 +1,204 @@
+211BI    211PB B- DECAY                                          04NDS    200410
+211BI  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 103, 183 (2004)$CUT=1-Jan-2003$          
+211BI cB IB$Calculated from I(|g+ce) intensity balance on level scheme          
+211BI tG $The data presented include information from the following references: 
+211BI2tG      E|g,I|g: 1988Hi14, 1976Bl13, 1971Da34, 1968Br17, 1968Go15, 1968Ha2
+211BI+tG 1,                                                                     
+211BI+tG  1967Da10,                                                             
+211BI+tG 1967Da20, 1965Me07                                                     
+211BI3tG      |a: 1971Ra30, 1968Go15, 1965Br35, 1965Co06, 1965Me07, 1963Va05, 19
+211BI+tG 1938Ch04                                                               
+211BI4tG      |g|g,sum |g|g: 1971Da34, 1968Go15, 1968Ha21, 1967Da10, 1965Me07, 1
+211BI+tG 963V                                                                   
+211BI+tG a05                                                                    
+211BI5tG      |g|g(|q),|g|g(|q,pol): 1968Da07, 1968Go15, 1965Ag03, 1965Co06, 1  
+211BI+tG 964Uh01,                                                               
+211BI+tG 1963Va05                                                               
+211BI6tG      |g|g(t): 1966Go19                                                 
+211BI7tG      |b{+-}: 1967Sc39, 1965Co06, 1963Va05                              
+211BI8tG      |b|g: 1967Sc39                                                    
+211BI9tG      |b|g(t): 1963Va05                                                 
+211BIAtG      |b|g(|q): 1971Ra30                                                
+211BIBtG                                                                        
+211BI cG           Others: 1967CaZY, 1962Gi03                                   
+211BI cG           All ce intensities have been measured relative to            
+211BI2cG I(ce(K) 351.06|g). The evaluator has renormalized all Ice to give      
+211BI3cG |a(K)(351.06|g)=0.206. The |a(exp) quoted are the weighted averages of 
+211BI4cG all measured, renormalized Ice divided by the adopted I|g.             
+211BI tG           K|a{-1}| x ray(Tl)/K|a{-1}| x ray(Bi)=3.12 {I4} (1971Da34)   
+211BI tG           K|a{-1}| x ray(Tl)/I(65.420|g)=15.5 {I2} (1971Da34)          
+211BI tG           I(65.402|g)/x-ray(Tl)=0.029 {I10} (1965Me07)                 
+211BI cG E$From 1976Bl13, unless otherwise noted. The energies quoted by        
+211BI2cG 1976Bl13 have been adjusted by the evaluator for a change in           
+211BI3cG calibration energies (compare 1979He19). The change is +10 eV for 300  
+211BI4cG <E|g<500 keV and +50 eV for E|g>600 keV.                               
+211BI cG RI$Weighted average of measurements by 1988Hi14, 1976Bl13, 1971Da34,   
+211BI2cG 1968Br17, 1968Go15, 1968Ha21, 1967Da10, 1967Da20, and 1965Me07, unless 
+211BI3cG otherwise noted.                                                       
+211BI cG MR$If |d is given without a sign, then the sign of |d is not known.    
+211BI cG E(B),RI(B,F)$From 1971Da34                                             
+211BI cG E(C,E),RI(C)$From 1988Hi14                                             
+211BI cG E(D),RI(D)$From 1968Ha21                                               
+211BI cL           The decay scheme is that proposed by 1965Me07 with           
+211BI2cL modifications from 1967Da10, 1968Ha21, and 1971Da34.                   
+211BI cL E$From a least-squares fit to E|g.                                     
+211BI cL J$From adopted levels.                                                 
+211PB  P 0.0           9/2+             36.1 M   2              1367      6     
+211BI  N 0.1291    11          1.0       1.0                                    
+211BI PN                                                                     3  
+211BI cN NR$from (0.99724 {I4})|*0.1295 {I11})=0.1291 {I11}; where {+211}Bi |a  
+211BI2cN decay branching=99.724% {I4} and I(351.06|g,{+207}Tl)=12.95% {I11} of  
+211BI3cN {+211}Bi |a decay. All I|g({+211}Pb) have been measured relative to    
+211BI4cN I(351.06|g in {+207}Tl)=100 in sources where {+211}Pb is in equilibrium
+211BI5cN with its daughter, {+211}Bi.                                           
+211BI cN BR$100%                                                                
+211BI  G   81.0    2  0.35   9                                              B   
+211BI  G   83.8    1  0.45   7                                              B   
+211BI  G   88.2    2  0.13   3                                              B   
+211BI  G   94.3    3  0.09   2                                              B   
+211BI  G   97.3    2  0.09   1                                              B   
+211BI  G  244         0.3    1                                              D   
+211BI  G  478.0    4  0.10   2                                              B   
+211BI  G  479.6    2  0.04   1                                              C   
+211BI  G  481.1    4  0.20   4                                              B   
+211BI  G  481.92   12 0.08   1                                              C   
+211BI  G  491.82   12 0.032  6                                              C   
+211BI  G  494.2    3  0.013  5                                              C   
+211BI  G  500.4    5  0.09   2                                              B   
+211BI  G  502.0    2  0.028  6                                              C   
+211BI  G 1090.5    5  0.020  5                                              B   
+211BI  L    0.0        9/2-             2.14 M   2                              
+211BI  B              91.30  12            5.99   1                             
+211BIS B EAV=470.9 24                                                           
+211BI cB E$E|b=1378 {I8}, from F-K analysis (1965Co06). Other: 1355 {I25}       
+211BIxcB (1963Va05)                                                             
+211BI cB IB$from I(|g+ce) imbalance at {+211}Bi g.s. Others (from F-K analysis):
+211BI2cB 93 {I2} (1965Co06), 92.4 {I15} (1963Va05).                             
+211BI  L  404.853  10  7/2-             0.317 NS 11                             
+211BI2 L G=1.27 20                                                              
+211BI cL J$|g|g(|q), |g|g(pol) establish J=7/2 (1968Da07,1968Go15)              
+211BI cL T$weighted average of 0.318 ns {I14} (|g|g(t) 1966Go19) and 0.315 ns   
+211BI2cL {I20} (|b|g(t) 1963Va05).                                              
+211BI cL G$from |g|g(|q,H) (liquid source, H=18.3 kG and T{-1/2}=0.317 ns {I11} 
+211BI2cL 1965Ag03).                                                             
+211BI  B              1.54   8             7.21  3                              
+211BIS B EAV=313.3 23                                                           
+211BI cB E,IB$E|b=951 {I25}, I|b=1.4 {I5} from F-K analysis of |b(404|g+427|g)  
+211BIxcB (1963Va05)                                                             
+211BI  G  404.853  10 29.3   4  M1+E2     -1.1   1     0.126  7                 
+211BIS G KC=0.098 6$ LC=0.0213 7$ MC=0.00515 15$ NC+=0.00171 6                  
+211BI cG M$from ce data. |a(K)exp=0.102 {I5} (average of renormalized           
+211BI2cG measurements of 1971Ra30,1968Go15,1965Co06,1965Me07,1963Va05);         
+211BI3cG L1/L2=2.1 (1965Br35); K/L=4 {I1} (1965Co06) (theory: L1/L2=3.2         
+211BIxcG {I2},K/L=4.6 {I3})                                                     
+211BI cG MR$from -1.15 (|g|g(|q,pol) 1968Go15) and 1.04 {I8} (from |a(K)exp).   
+211BI  L  766.54   2  (9/2,11/2)-                                               
+211BI  G  362.072  17  0.33  2                                               C ?
+211BI2 G FL=404.853                                                             
+211BI cG E$a 361-keV |g was deduced from |g|g data (1968Ha21)                   
+211BI cG RI$from 1976Bl13                                                       
+211BI  G  766.51   3   4.78  12  M1                    0.0402                   
+211BIS G KC=0.0328$ LC=0.00555                                                  
+211BI cG M$from |a(K)exp=0.042 {I5} (weighted average of renormalized values of 
+211BI2cG 1968Go15 and 1965Me07)                                                 
+211BI  L  831.953  12  9/2-            90 PS     LT                             
+211BI cL J$|g|g(|q) established J=9/2.                                          
+211BI cL T$from |b|g(t) (1963Va05)                                              
+211BI  B               6.32  10            5.73  2                              
+211BIS B EAV=159.8 21                                                           
+211BI cB E,IB$E|b=525 {I25}, I|b=5.5 {I8} from F-K analysis of |b(830|g)        
+211BIxcB (1963Va05)                                                             
+211BI  G   65.420  14  0.60  4   M1                    6.90                 F   
+211BIS G LC=5.25$ MC=1.233$ NC+=0.413                                           
+211BI cG M$from L1/L2=6.8 (1965Br35), 10 (1938Ch04); |a(L)exp=7.5               
+211BI2cG (Ice(L)(1938Ch04)/I|g). (theory: L1/L2=9.57)                           
+211BI  G  427.088  10 13.6   3  M1+E2     -0.022 9     0.1867 1              C  
+211BIS G KC=0.1524 1$ LC=0.02609 1$ MC=0.006119 2$ NC+=0.002040 1               
+211BI cG M$from |a(K)exp=0.148 {I18} (weighted average of renormalized values of
+211BI2cG 1968Go15,1965Co06,1965Me07,1963Va05); K/L=7 {I2} (1965Co06); L1/L2=5.0 
+211BI3cG (1965Br35). (theory: K/L=5.84, L1/L2=9.83)                             
+211BI cG MR$from |g|g(|q): 9/2(427|g)7/2(405|g)9/2 cascade with |d(405|g)=-1.1  
+211BI2cG {I1} and A{-2}=-0.094 {I6} (weighted average of measurements by        
+211BI3cG 1968Da07,1968Go15,1965Co06,1964Uh01,1963Va05).                         
+211BI4cG Other: 0.17 {I15} |g|g(|q,pol) (1968Go15).                             
+211BI  G  832.01   3  27.3   4  M1+E2      0.4   2     0.029  3                 
+211BIS G KC=0.024 2$ LC=0.0041 3                                                
+211BI cG M,MR$from |a(K)exp=0.024 {I2} (weighted average of renormalized values 
+211BI2cG of 1968Go15,1965Me07,1963Va05).                                        
+211BI  L  951                                                                  ?
+211BI  B              0.022  13             7.8   3                            ?
+211BIS B EAV=120.4 20                                                           
+211BI  G  546                                                                C ?
+211BI cG E$|g not seen, deduced from |g|g data (1968Ha21)                       
+211BI  G  951          0.17  10                                                ?
+211BI cG E,RI$from 1968Ha21, not observed by other investigators.               
+211BI  L 1014.40   4 (7/2,9/2,11/2)-                                            
+211BI  G  609.38   4   0.33  5                                                  
+211BI  G 1014.64   5   0.134 4                                                  
+211BI  L 1080.62   4                                                            
+211BI  B               0.056 6             6.90   6                             
+211BIS B EAV=79.7 19                                                            
+211BI  G  313.59   9   0.24  3                                              F   
+211BI2 G FL=766.54                                                              
+211BI  G  676.69   7   0.10  3                                                  
+211BI2 G FL=404.853                                                             
+211BI  G 1080.16   6   0.095 5                                                  
+211BI2 G FL=0.0                                                                 
+211BI  L 1103.5    2                                                            
+211BI  B             0.0046  7             7.87   8                             
+211BIS B EAV=72.8 18                                                            
+211BI  G 1103.52   20 0.036  5                                              E   
+211BI  L 1109.48   2   9/2-                                                     
+211BI  B               0.83  4             5.58   4                             
+211BIS B EAV=71.0 18                                                            
+211BI  G   95.0    2   0.14  2  M1+E2     1.7    +6-3  9.6    4             BC  
+211BIS G KC=2.9 9$ LC=4.9 4$ MC=1.3 1$ NC+=0.43 4                               
+211BI cG M,MR$from |a(K)exp=2.9 {I9} (K| x ray/|g in |g|g, 1965Me07)            
+211BI  G  342.91   4   0.27  4  [M1,E2]                                     F   
+211BI  G  704.64   3   3.58  8  M1+E2    -0.022  7     0.04996 1                
+211BIS G KC=0.0408$ LC=0.00691                                                  
+211BI cG M$from |a(K)exp=0.037 {I5} (weighted average of renormalized values of 
+211BI2cG 1968Go15 and 1963Va05); |g|g(|q)                                       
+211BI cG MR$from |g|g(|q): 9/2(705|g)7/2(405|g)9/2 cascade with |d(405|g)=-1.1  
+211BI2cG {I1} and A{-2}=-0.094 {I4} (weighted average of measurements by        
+211BI3cG 1968Da07,1968Go15,1965Ag03,1965Co06,1963Va05); |d=0.4 {I+3-4} from     
+211BIxcG |a(K)exp.                                                              
+211BI  G 1109.48   5   0.89  3                                                  
+211BI  L 1196.33   5                                                            
+211BI  B             0.017   3             6.70   9                             
+211BIS B EAV=45.6 18                                                            
+211BI  G  430      1 0.05    2                                              B   
+211BI  G 1196.33   5 0.079   3                                                  
+211BI  L 1234.3    4                                                            
+211BI  B             0.0013  3             7.48  12                             
+211BIS B EAV=35.0 17                                                            
+211BI  G 1234.3    4 0.010   2                                              B   
+211BI  L 1270.71   6  (7/2,9/2,11/2)                                            
+211BI  B             0.0186  11            5.90   9                             
+211BIS B EAV=25.0 17                                                            
+211BI  G  504.12   12 0.045  6                                              C   
+211BI  G  865.93   14 0.046  3                                               C  
+211BI  G 1270.71   8  0.053  4                                                  
+
+211BI    215AT A DECAY                 1982BO04,1966GR07         04NDS    200410
+211BI  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 103, 183 (2004)$CUT=1-Jan-2003$          
+211BI D  MODIFIED BY E. BROWNE (NOVEMBER 1991, March 2003).                     
+211BI c  Other: 1951Me10                                                        
+211BI c  All data are from 1966Gr07, unless otherwise noted.                    
+211BI cA HF        Using r{-0}({+211}Bi)=1.5443, average of                     
+211BI2cA r{-0}({+210}Pb)=1.5394 {I6}, r{-0}({+212}Pb)=1.5408 {I9},              
+211BI3cA r{-0}({+210}Po)=1.532 {I6}, and r{-0}({+212}Po)=1.5649 {I8} (1998Ak04).
+211BI cL J$From adopted levels                                                  
+215AT  P 0.0           9/2-             0.10 MS  2              8178      4     
+211BI  N                       1.0                                              
+211BI  L   0.0         9/2-                                                     
+211BI  A 8026      4  99.95   2 2.83                                            
+211BI cA E$from 1982Bo04, value recommended by 1991Ry01.                        
+211BI cA IA$value recommended by 1991Ry01.                                      
+211BI  L  408          7/2-                                                     
+211BI cL E$from |DQ(|a)                                                         
+211BI  A 7610      10  0.05  2  3.8E2                                           
+211BI cA IA$from |a|g                                                           
+211BI  G  404      AP                                                           
+211BI cG E$from |a|g                                                            
+

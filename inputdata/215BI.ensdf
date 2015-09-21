@@ -1,0 +1,11 @@
+215BI    219AT A DECAY                 1953HY83                  01NDS    200110
+215BI  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 763 (2001)$CUT=1-May-2001$           
+215BI cA           Measured E|a. Detector: ion chamber.                         
+219AT  P 0.0                            56 S     3              6390      50    
+215BI  N                       0.97    AP                                       
+215BI  A 6275      50  100                                                      
+215BI cA E         original energy of 1953Hy83 has been increased by 5 keV      
+215BI2cA because of a change in the calibration energy of {+211}Bi |a particles 
+215BI3cA from 6618 and 6272 keV to 6622.9 and 6278.2 keV, respectively          
+215BIxcA (1991Ry01).                                                            
+

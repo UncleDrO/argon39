@@ -1,0 +1,6 @@
+<map id="get_inputs" name="get_inputs">
+<area shape="rect" id="node2" href="$iostuff_8f90.html#a6d3fdd9af1f968e4b407c599e712c2dc" title="Starts outputfile after calling get_inputs. " alt="" coords="137,5,299,32"/>
+<area shape="rect" id="node4" href="$mcnp6extract_8f90.html#af0e37fb4a5ad0ed1a8cb19f09d6da825" title="This program extracts 39Ar values from MCNP6 output files. " alt="" coords="173,56,263,83"/>
+<area shape="rect" id="node5" href="$talysprep_8f90.html#a5e6c4dd9c50d176cf07a5dffda6ffa74" title="This program prepares input files and batch execution file for running TALYS. " alt="" coords="180,107,256,133"/>
+<area shape="rect" id="node3" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="347,5,417,32"/>
+</map>

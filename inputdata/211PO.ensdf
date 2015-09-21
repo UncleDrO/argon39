@@ -1,0 +1,14 @@
+211PO    211BI B- DECAY                                          04NDS    200410
+211PO  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 103, 183 (2004)$CUT=1-Jan-2003$          
+211PO D  Modified by E. Browne (3-7-2003).                                      
+211PO cL J$From adopted levels                                                  
+211BI  P  0.0          9/2-             2.14 M   2              574       5     
+211PO  N                       0.00276 4 1.0                                    
+211PO cN BR$0.00276 {I4}. Weighted average of: 0.00274 {I4} (1967Da10), 0.00274 
+211PO2cN {I10} (1965Nu03), 0.0029 {I1} (1962Gi04). Measured                     
+211POxcN I|a({+211}Po)/(I|a({+211}Po)+I|a({+211}Bi))                            
+211PO  L    0.0        9/2+                                                     
+211PO  B             100                    6.0                                 
+211POS B EAV=176.3 21                                                           
+211PO cB E$no |b{+-} observed                                                   
+

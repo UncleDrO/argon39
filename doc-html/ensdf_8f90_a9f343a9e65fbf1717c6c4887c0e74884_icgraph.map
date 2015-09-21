@@ -1,0 +1,11 @@
+<map id="az_to_nucid" name="az_to_nucid">
+<area shape="rect" id="node2" href="$elemnucl_8f90.html#a34c1f3496ecbc454c7857809cf1798c2" title="Adds nuclide to the nuclide array by expanding its size. " alt="" coords="155,51,271,78"/>
+<area shape="rect" id="node6" href="$elemnucl_8f90.html#a80682d75c547656792b6819000fb25ed" title="Returns index inuc of nuclide Z,A " alt="" coords="147,127,279,154"/>
+<area shape="rect" id="node3" href="$elemnucl_8f90.html#ad8eafb0d250e2592d19a8690599a6343" title="Sets up element and nuclide data structures from input files. " alt="" coords="327,38,493,65"/>
+<area shape="rect" id="node4" href="$argon39_8f90.html#a53921723df12bf3ddfe3fd2c80826bcb" title="Main program. " alt="" coords="753,114,824,141"/>
+<area shape="rect" id="node5" href="$talysprep_8f90.html#a5e6c4dd9c50d176cf07a5dffda6ffa74" title="This program prepares input files and batch execution file for running TALYS. " alt="" coords="585,38,661,65"/>
+<area shape="rect" id="node7" href="$decchains_8f90.html#af1e6b3924e08acff9381a9c85abf5f13" title="Sets up one decay chain. " alt="" coords="341,89,479,115"/>
+<area shape="rect" id="node9" href="$neutron_8f90.html#ad50d8fae10d3044e2a4281665df03b4c" title="Outputs possible (alpha,n) targets, where &quot;possible&quot; means a particular target nuclide is present..." alt="" coords="541,139,705,166"/>
+<area shape="rect" id="node10" href="$neutron_8f90.html#a673c2e038a4f5b55299066fedf562cc5" title="Sets up values and pointers to target nuclide properties. " alt="" coords="337,190,483,217"/>
+<area shape="rect" id="node8" href="$decchains_8f90.html#a4fcdff641fab56d3f1873338894797d0" title="Top subroutine to set up decay chains. " alt="" coords="551,89,695,115"/>
+</map>

@@ -1,0 +1,162 @@
+212PO    212BI B- DECAY (60.55 M)      1973DA38,1984GE07         05NDS    200503
+212PO  H TYP=ERR$AUT=E. BROWNE$DAT=26-AUG-2008$COM=Corrected NB$                
+212PO  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 104, 427 (2005)$CUT=1-Jan-2004$          
+212PO D  Modified by E. Browne (March 20, 2004).                                
+212PO cB           Q(|b{+-})=2248 {I4}                                          
+212PO cB           F-K analysis of 1957Bu34 shows an additional |b{+-} group    
+212PO2cB with E|b(endpoint)=0.08 MeV, I|b=5% of |b{+-} decay.                   
+212PO cB           |b|g: 1960Sc07                                               
+212PO cB           |b|g(|q): 1969Sc06                                           
+212PO cB           |b(|a), |b(|a)(t), |b(|a)(|q): see {+212}Po levels           
+212PO2cB from {+212}Bi |b{+-} decay (60.55 min).                                
+212PO cB IB$The intensities of the |b groups have been deduced from             
+212PO2cB the absolute I|g and the I(|g+ce) balance at each level. The           
+212PO3cB intensities of |b{+-} delayed |a's from the excited levels, other than 
+212PO4cB from the 1801 level, are insignificant. In the case of the 1801        
+212PO5cB level an |a group with intensity I|a=0.008% {I8} has been considered   
+212PO6cB in I|b calculation.                                                    
+212PO cG           The conversion coefficients based on the Ice of 1963Da11 and 
+212PO2cG 1957Vo22 have been deduced by the evaluator using the adopted I|g      
+212PO3cG and the E2 multipolarity of the 727.330|g (|a(K)=0.0106 for 1963Da11,  
+212PO4cG and |a(L)=0.0026 for 1957Vo22).                                        
+212PO cG E$From 1973Da38, unless otherwise noted                                
+212PO cG RI$From 1984Ge07 (normalized to I|g/100 {+212}Bi |b{+-} decays), unless
+212PO2cG otherwise noted. Peaks at E|g|?1300 and E|g=2200 were reported in      
+212PO3cG early studies (1947Jo05, 1947La24, 1958Ch43). These were not found by  
+212PO4cG 1960Em01 (E|g=1.34 MeV, I|g|<0.3; E|g=2.20 MeV, I|g|<1.9) and 1960Gi07 
+212PO5cG (E|g=1.3 MeV, I|g<0.2; E|g=2.2 MeV, I|g<0.06), nor reported by         
+212PO6cG later references.                                                      
+212PO cG MR$From |g|g(|q) of 1982Be09, unless otherwise noted                   
+212PO cG E(A)$From 1979He10                                                     
+212PO cG E(B)$From 1969Br24                                                     
+212PO cG E(F)$From 1957Vo22                                                     
+212PO cG E(G)$From 1982Be09                                                     
+212PO cG RI(D)$From 1973Da38                                                    
+212PO cL           ({+212}Bi |b{+-})({+212}Po |a): 1957Bu34                     
+212PO cL           ({+212}Bi |b{+-})({+212}Po |a)(t): 1982Be09.                 
+212PO2cL The authors measured (100|<E|b|<200)(10.55 MeV |a)(t)                  
+212PO3cL and obtained T{-1/2}=34 ps {I4}. It was assumed that the 10.55 |a-group
+212PO4cL originated entirely from the 1801 level. However, the currently        
+212PO5cL adopted energy of the observed "long range" |a, E|a=10554 {I2}         
+212PO6cL ({+212}Bi |b-|a (60.55 min)) gives E({+212}Po level)=1803.8 {I20}.     
+212PO7cL Since both the 1800.8 and 1805.8 could decay by |a emission, it is,    
+212PO8cL therefore, possible that this group may contain |a's from either or    
+212PO9cL both of these levels. Thus, there is no experimental evidence to       
+212POAcL conclusively assign the measured T{-1/2} to one of these two levels.   
+212PO cL           ({+212}Bi 2250 |b{+-})({+212}Po 8785 |a)(|q): isotropic      
+212PO2cL (1961De04), nonisotropic (1956Be38). (the last conclusion is not in    
+212PO3cL agreement with the adopted spin assignments).                          
+212PO cL           ({+212}Po 727 |g)({+212}Po 8785 |a)(|q): isotropic           
+212PO2cL (1961De04,1956Fi41)                                                    
+212PO cL           ({+212}Po |g, |g|g, sum |g)({+212}Po |a): 1962Be09, 1960Ga15,
+212PO2cL 1960Gi07, 1960Ha19, 1960Sc07, 1958Ch43                                 
+212PO cL           |g|g, sum |g|g: 1962Be09, 1960Ga15, 1960Gi07, 1960Sc07       
+212PO cL           Others: 1983Sc13, 1982Sa36, 1968Yt02, 1960Em01               
+212PO cL           |g|g(|q): 1982Be09, 1961Gi05                                 
+212PO cL E$From a least-squares fit to E|g                                      
+212PO cL J$From {+212}Po adopted levels.                                        
+212PO cL E(H)$From (100|<E|g|<200)(10.55 MeV |a)(t) T{-1/2}=34 ps {I4}          
+212PO2cL (1982Be09), see comment above.                                         
+212BI  P    0.0       1(-)              60.55 M  6              2252.1    17    
+212PO  N 1           1         0.6406    1.561                                  
+212PO PN                                                                     3  
+212PO cN BR$64.06% {I6} |b{+-} decay (see adopted levels)                       
+212PO cN NR$Weighted average of I|g(727.3|g): 6.93 {I18} (1992Li05),            
+212PO2cN 6.58 {I5} (1984Ge07), 7.00 {I18} (1983Va22), 7.35 {I20} (1983Sc13),    
+212PO3cN 6.9 {I4} (1982Sa36), 6.47 {I40} (1960Em01), 7.17 {I45} (1960Sc07)      
+212PO4cN converted to a |g-ray scale per 100 |b{+-} decays of {+212}Bi:=6.67    
+212POxcN {I9}/0.6406=10.41 {I14}.                                               
+212PO  G  130                                                                   
+212PO cG E$from 1960Gi07 (I|g=0.3), not found (1962Be09)                        
+212PO  L    0.0       0+                                                        
+212PO  B  2252        55.37  11           7.2669 16                             
+212POS B EAV=834.2 8                                                            
+212PO cB E$From the following measured values: 2250.5 {I25} (1948Ma30),         
+212PO2cB 2256 (1948Fe09), 2260 {I10} (1948Za05), 2270 (1957Bu34).               
+212PO cB IB$I|b=66% from F-K analysis (1957Bu34)                                
+212PO  L  727.330  9  2+                                                        
+212PO  B              4.47   11            7.721 11                             
+212POS B EAV=533.1 7                                                            
+212PO cB           (E|b>800)(727.330|g)(|q) isotropic (1969Sc06)                
+212PO cB IB$I|b=8.5% from F-K analysis (1957Bu34)                               
+212PO  G  727.330  9  10.41  14  E2                    0.0141               AC  
+212PO cG RI$See comment on decay scheme normalization.                          
+212POS G KC=0.0106$  LC=0.00260                                                 
+212PO cG M$from |a(K)exp=0.088 {I10}, K/L=3.9 {I9} (1978Av01), 4.3 (1956Kr57).  
+212PO2cG Other: 1963Da11                                                        
+212PO  L 1512.70   8  2+                                                        
+212PO cL J$(785.37|g)(727.330|g)(|q) shows 2(D+Q)2(Q)0 sequence                 
+212PO2cL (1982Be09,1961Gi05)                                                    
+212PO  B               1.44  4             7.094 12                             
+212POS B EAV=230.8 7                                                            
+212PO cB IB$I|b=5.5% for E|b(endpoint)=0.93 MeV from F-K analysis (1957Bu34)    
+212PO  G  785.37   8   1.72  2  M1+E2    +0.09   3     0.0408 2             BC  
+212POS G KC=0.0333 2$  LC=0.00568 2                                             
+212PO cG RI$Weighted average of 1.05 {I5} (1992Li05), 1.102 {I13} (1984Ge07),   
+212PO2cG 1.07 {I5} (1983Sc13): I|g(785|g)=1.100 {I12}/0.6406=1.72 {I2}.         
+212PO cG M$D+Q from |g|g(|q) (1982Be09,1961Gi05); M1+E2 from |a(K)exp=0.033 {I5}
+212PO2cG (1978Av01). Others: 1963Da11, 1957Vo22                                 
+212PO cG MR$other: 0.04 {I3} (1961Gi05)                                         
+212PO  G 1512.7    3   0.45  6  [E2]                   0.0034               D   
+212POS G KC=0.00276                                                             
+212PO cG M$|a(K)exp=0.02 (1957Vo22), in disagreement with this multipolarity.   
+212PO  L 1620.738  10 1+                                                        
+212PO cL J$(893.408|g)(727.330|g)(|q) shows 1(D+Q)2(Q)0 sequence                
+212PO2cL (1982Be09)                                                             
+212PO  B               1.86  4             6.750 10                             
+212POS B EAV=192.6 6                                                            
+212PO cB IB$I|b=6% for E|b(endpoint)=0.67 MeV from F-K analysis (1957Bu34)      
+212PO  G  893.408  5   0.59  3  M1+E2    -0.031  34    0.0294 1             AC  
+212POS G KC=0.0240$  LC=0.00408                                                 
+212PO cG M$D+Q from |g|g(|q) (1982Be09); M1+E2 from |a(K)exp=0.025              
+212PO2cG (1963Da11,1957Vo22).                                                   
+212PO  G 1620.50   10  2.29  5  (M1)                   0.0064               B   
+212PO cG RI$Weighted average of 1.44 {I9} (1992Li05), 1.49 {I3} (1984Ge07),     
+212PO2cG 1.38 {I8} (1983Sc13): I|g(1620.5|g)=1.47 {I3}/0.6406=2.29 {I5}.        
+212POS G KC=0.0053                                                              
+212PO cG M$|a(K)exp=0.0050 (1963Da11), 0.0062 (1957Vo22).                       
+212PO  L 1679.450  14 2+                                                        
+212PO cL J$(952.120|g)(727.330|g)(|q) shows 2(D+Q)2(Q)0 sequence                
+212PO2cL (1982Be09)                                                             
+212PO  B               0.23  3             7.51   6                             
+212POS B EAV=172.4 6                                                            
+212PO  G  952.120  11  0.26  5  M1+E2    +0.65   50    0.020  5             D   
+212PO3 G FLAG=A$                                                                
+212POS G KC=0.016 4$  LC=0.0028 6                                               
+212PO cG M$D+Q from |g|g(|q) (1982Be09); (M1+E2) from |a(K)exp=0.039 (1957Vo22) 
+212PO  G 1679.7    5   0.09  2  [E2]                   0.0028               D   
+212POS G KC=0.0023                                                              
+212PO  L 1800.9    2  0+                                                    H   
+212PO  B               0.030  6            8.05  10                             
+212POS B EAV=131.7 6                                                            
+212PO  G  180.2        0.005 2  [M1]                   2.18                 G   
+212POS G KC=1.77$  LC=0.312$  MC=0.0735$  NC+=0.0249                            
+212PO cG E$other: E|g=190, I|g=0.3 (1960Gi07)                                   
+212PO cG RI$measured relative to I|g(176.68 {+212}Pb |b{+-} decay) (1982Be09)   
+212PO  G 1073.6    2   0.025 3  [E2]                   0.00648              G   
+212POS G KC=0.00513$  LC=0.00101                                                
+212PO cG RI$I|g(1078.62)/I|g(1073.6)=35.7 {I35} (1982Be09)                      
+212PO cG M$measured Ice (|a(K)exp|<0.2 (1963Da11), |a(K)exp=0.2 (1957Vo22)) are 
+212PO2cG in disagreement with this assignment.                                  
+212PO  G 1800.2                  E0                             0.0064    6 F   
+212PO cG M$no photon observed                                                   
+212PO cG TI$Ice(K) measured relative to Ice(K)(2614.5|g {+208}Pb),              
+212PO2cG corrected for Ice(K)(1806|g), Ice(L+M+)(1800.2|g), pair production     
+212PO3cG (1982Be09).                                                            
+212PO  L 1805.96   10  2+                                                   H   
+212PO cL J$(1078.62|g)(727.330|g)(|q) shows 2(D+Q)2(Q)0 sequence                
+212PO2cL (1982Be09).                                                            
+212PO  B               0.66  3             6.697 18                             
+212POS B EAV=130.1 6                                                            
+212PO cB IB$I|b=9% for E|b(endpoint)=0.45 MeV from F-K analysis (1957Bu34)      
+212PO  G 1078.62   10  0.88  3  M1+E2    -0.135  35    0.0179 1             B   
+212PO cG RI$Weighted average of 0.555 {I41} (1992Li05), 0.563 {I19} (1984Ge07), 
+212PO2cG 0.58 {I4} (1983Sc13): I|g(1078.6|g)=0.564 {I16}/0.6406=0.88 {I3}.      
+212POS G KC=0.01465 10$  LC=0.00248                                             
+212PO cG M$D+Q from |g|g(|q) (1982Be09); (M1+E2) from |a(K)exp=0.014            
+212PO2cG (1963Da11,1957Vo22) (theory: |a(K)=0.01465)                            
+212PO  G 1806.0    5   0.14  3  [E2]                   0.0024               D   
+212POS G KC=0.0020                                                              
+212PO cG M$(Ice(K)=0.003 {I1} (1963Da11))/(I|g=0.14 {I3}) gives                 
+212PO2cG |a(K)exp=0.02 {I1}, not in agreement with E2 assignment.               
+

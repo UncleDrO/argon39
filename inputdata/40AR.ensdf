@@ -1,0 +1,116 @@
+ 40AR    40K EC DECAY (1.248E+9 Y)     1999BEZQ,1999BEZS         04NDS    200408
+ 40AR  H TYP=FUL$AUT=JOHN A. CAMERON AND BALRAJ SINGH$CIT=NDS 102, 293 (2004)$  
+ 40AR2 H CUT=10-May-2004$                                                       
+ 40AR D  THE EVALUATION OF R. G. HELMER (1999BeZQ,1999BeZS) IS UPDATED          
+ 40AR2D  by the evaluators                                                      
+ 40AR c  1999BeZQ, 1999BeZS: evaluations of {+40}K decay                        
+ 40AR c  Measurements: 2004Ko09, 2002Gr01, 2001No10, 1977Ce04, 1972Go21,        
+ 40AR2c  1967Mc10, 1966Fe09, 1965Le15, 1965Br25, 1962Fl05, 1962En01, 1961Gl07,  
+ 40AR3c  1960Sa31, 1960Eg01, 1959Ke26, 1957We43, 1956Mc20, 1955Ba25, 1955Ko21,  
+ 40AR4c  1955Su38, 1953Bu58, 1952Fe16, 1951Go29, 1951De34, 1950Sa52, 1949Ov01,  
+ 40AR5c  1948Ev09, 1947Gl07. This list is not complete, see 1978LeZA for        
+ 40AR6c  several other references that are not present in NSR database.         
+ 40AR c  The decay scheme, which includes the |b{+-} decay to the               
+ 40AR2c  ground state of {+40}Ca and two levels in {+40}Ar, is complete since   
+ 40AR3c  these are the only levels in the daughter nuclides below the           
+ 40AR4c  respective decay energies.                                             
+ 40AR c  In principle, the 1460-keV |g ray could be used for energy             
+ 40AR2c  calibration. However, in a Ge semiconductor detector the               
+ 40AR3c  apparent |g-ray energy depends on the source-detector                  
+ 40AR4c  configuration and {+40}K sources usually consist of a large volume     
+ 40AR5c  of material, so this E|g is usually not useful. This also means        
+ 40AR6c  that in most cases the uncertainty in the observed energy is           
+ 40AR7c  much larger than that given here.                                      
+ 40AR d            Decay data evaluated by R. G. Helmer, September 1996 with    
+ 40AR2d  minor editing in July 1998. This                                       
+ 40AR3d  evaluation was done under the collaboration including evaluators       
+ 40AR4d  from Laboratoire Primaire des Rayonnments Ionisants (LPRI) in          
+ 40AR5d  France; Physikalisch-Technische Bundesanstalt (PTB) in Germany;        
+ 40AR6d  Imperial College in the United Kingdom; and Brookhaven National        
+ 40AR7d  Laboratory (BNL), Lawrence Berkeley National Laboratory (LBNL),        
+ 40AR8d  and Idaho National Engineering and Environmental Laboratory            
+ 40AR9d  (INEEL) in the United                                                  
+ 40AR0d  States. This evaluation was reviewed and accepted by                   
+ 40ARAd  evaluators in this collaboration.                                      
+ 40K   P 0            4-               1.248E+9 Y 3             1504.69   19    
+ 40K  cP J         From unique 3rd forbidden |b{+-} spectral shape for decay    
+ 40K 2cP to 0+ level and L transfer in charge-particle reactions.               
+ 40K  cP T$from 2004Ko09 and 2002Gr01; the same value from measurements of      
+ 40K 2cP specific activity of natural potassium salts using liquid-scintillation
+ 40K 3cP counting (LSC) technique. (2002Gr01 reported a value of 1.248|*10{+9}  
+ 40K 4cP y {I2}, later adjusted to 1.248|*10{+9} y {I3} by 2004Ko09 to correct  
+ 40K 5cP the quoted uncertainty on measured isotopic abundance of {+40}K). Both 
+ 40K 6cP papers used natural abundance of {+40}K as 0.01167% {I2} (1975Ga24).   
+ 40K 7cP The natural abundance of {+40}K=0.0117% {I1} (as recommended in the    
+ 40K 8cP International Union of Pure and Applied Chemistry 70, 217 (1998),      
+ 40K 9cP based on the measured value of 1975Ga24) would give about four times   
+ 40K AcP larger uncertainty on T{-1/2}. The earlier values of 1.265|*10{+9} y   
+ 40K BcP {I13} (1999BeZS,1999BeZQ) based on recomputation of 1.277|*10{+9} y    
+ 40K CcP {I8} (evaluation by 1973EnVA); and 1.26|*10{+9} y {I1} (evaluation by  
+ 40K DcP 1990Ho28 from 14 different measurements out of a total of 34           
+ 40K EcP measurements listed) are in good agreement. Variation of T{-1/2} due   
+ 40K FcP to environmental conditions has been studied by 2001No10, where no     
+ 40K GcP significant effect has been reported. Earlier (pre-1977) measurements  
+ 40K HcP of partial (|b{+-} and ce) and/or total T{-1/2} of {+40}K:             
+ 40K IcP 1977Ce04, 1972Go21, 1966Fe09, 1965Le15, 1965Br25, 1962Fl05, 1961Gl07,  
+ 40K JcP 1960Sa31, 1960Eg01, 1959Ke26, 1957We43, 1956Mc20, 1955Ba25, 1955Ko21,  
+ 40K KcP 1955Su38, 1953Bu58, 1950Sa52, 1947Gl07. Another 16 references (from    
+ 40K LcP 1931 to 1971) are listed by 1990Ho28 and in the 1978 Table of          
+ 40K McP Isotopes (1978LeZA); but are not present in the NSR database.          
+ 40K  dP T$ 1.277|*10{+9} y {I8} from evaluation of 1973EnVA, where the |b{++}  
+ 40K 2dP branch to the {+40}Ar ground state, whose intensity has been measured, 
+ 40K 3dP was taken into account, but it appears that the corresponding |e decay 
+ 40K 4dP was neglected. The |e/|b{++} ratio for this 3U transition has been     
+ 40K 5dP estimated as follows. For a 1U transition, the theoretical value       
+ 40K 6dP for this ratio is 8.5 and for a 2U transition it is 45.2. If           
+ 40K 7dP the 3U ratio is larger by the same factor, 45.2/8.5, than the          
+ 40K 8dP |e/|b{++} ratio is |?240. In the calculation of t{-1/2}, a value of    
+ 40K 9dP 200 {I100} was used. The revised |b{+-}, |b{++}, and |e branchings are 
+ 40K AdP given in the corresponding tables and are based on the |g/|b{+-} and   
+ 40K BdP |b{++}/|b{+-} data in 1973EnVA. There are 1.5405|*10{+22} atoms of     
+ 40K CdP {+40}K per gram of natural K based on an average atomic mass of 39.095 
+ 40K DdP and an atomic abundance of 1.178|*10{+-4} {I4} (1973EnVA). From the    
+ 40K EdP measured |b{+-} activity of 27.89 {I15} per second for 1 g of natural  
+ 40K FdP K and I(|b{+-})=89.14% {I11}, the total activity is 31.29 {I17} per s  
+ 40K GdP and T{-1/2}=4.0207|*10{+16} s or 1.274|*10{+9} y {I8}. With a later    
+ 40K HdP value of {+40}K/K=1.17|*10{+-4} {I1} (1990Ho28),                       
+ 40K IcP T{-1/2}=3.992|*10{+16} s {I40} or 1.265|*10{+9} y {I13}.               
+ 40K  cP QP        From 2003Au03                                                
+ 40AR  N 9.21                   0.1086 13 9.21                                  
+ 40AR PN 1.0                             1.0                                 3  
+ 40AR cN NR        I|g(1460 |g) is from the measured |g/|b{+-}                  
+ 40AR2cN ratio (evaluated in 1973EnVA), which can be obtained from              
+ 40AR3cN I(|e,1460)/(1+|a+IPFC). |a(1460)=2.5|*10{+-5} and                      
+ 40AR4cN IPFC=7.3|*10{+-5} {I5}, so the correction for these is 0.01% and is    
+ 40AR5cN completely negligible compared to the 1% uncertainty in                
+ 40AR6cN I(|e,1460).                                                            
+ 40AR cN BR        calculated by evaluator based on                             
+ 40AR2cN I|g(1460|g)/I|b{+-}=0.1195 {I14} and I(|b{++})/I(|b{+-})=1.12|*10{+-5} 
+ 40AR3cN {I14} from evaluation of 1973EnVA. Evaluator estimates that            
+ 40AR4cN |e/|b{++}=200 {I100} for the unique 3rd forbidden branch to the        
+ 40ARxcN {+40}Ar ground state.                                                  
+ 40AR  L 0            0+               STABLE                                   
+ 40AR  E             0.00100 13   0.20 10  21.35                 0.20     10 3U 
+ 40ARS E EAV=   238.2 3$CK=   0.8795 21$CL=   0.08623 21$CM+=     0.01264 3     
+ 40AR cE IE        From |b{++}/|b{+-}=1.12|*10{+-5} {I14} (1973EnVA),           
+ 40AR2cE I(|b{++})=0.00100 {I13}. The evaluator has estimated the |e/|b{++}     
+ 40ARxcE ratio is 200 {I100}.                                                   
+ 40AR cE LOGFT     From private communication from R. B. Firestone; see also    
+ 40AR2cE 1970Wa11.                                                              
+ 40AR DE LOGFT     The LOGFT code gives LOGF0T=18.8 2, but it redivides the     
+ 40AR2DE      intensity to give I(B+)=0.09 and I(EC)=0.11.                      
+ 40AR  L 1460.851  6  2+                                                        
+ 40AR cL J$ From adopted levels                                                 
+ 40AR  E                         10.66 13  11.56 1              10.66     13 1U 
+ 40ARS E CK=  0.763 2 $ CL=  0.209 1$CM+=  0.0274 2                             
+ 40AR  G  1460.822 6  10.66  13 E2                     2.95E-5 9                
+ 40AR cG E         Evaluator scaled down the value of 1460.830 {I5} (1979He13)  
+ 40AR2cG by 5.8 ppm so that it corresponds to the energy scale of 2000He14.     
+ 40AR3cG Others: 1460.75 {I6} (1967Ki10), 1460.95 {I7} (1970Ja15).              
+ 40AR cG RI        I|g(1460)=I(|e,1460)/(1+|a+IPFC)=10.66 {I13}/1.000102 {I5}.  
+ 40AR cG CC$  |a(K)=2.65|*10{+-5} {I8} and                                      
+ 40AR2cG |a(L)=2.22|*10{+-6} {I7} interpolated from tables of 1976Ba63 and      
+ 40AR3cG |a=|a(K)+1.33*LC.                                                      
+ 40AR4cG Internal-pair-formation coefficient is IPFC=7.3|*10{+-5}               
+ 40AR5cG {I5}, interpolated from tables of 1979Sc31.                            
+
