@@ -4,7 +4,7 @@ Program `argon39` is a Fortran 90 code that handles the calculation of nucleogen
 
 ## Publication ##
 
-O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, 39Ar and 21Ne: Rates and uncertainties.” In preparation.
+O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, 39Ar and 21Ne: Rates and uncertainties.” Submitted to _Geochim. Cosmochim. Acta_ ([arXiv:1509.07436](http://arxiv.org/abs/1509.07436)).
 
 ## Quick start ##
 

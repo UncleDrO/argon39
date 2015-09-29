@@ -9,7 +9,7 @@ Software `argon39` handles the calculation of nucleogenic production rates of ne
 
 `argon39` was used for calculations presented in
 
-*  O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, <sup>39</sup>Ar and <sup>21</sup>Ne: Rates and uncertainties.” In preparation.
+*  O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, <sup>39</sup>Ar and <sup>21</sup>Ne: Rates and uncertainties.” Submitted to _Geochim. Cosmochim. Acta_ ([arXiv:1509.07436](http://arxiv.org/abs/1509.07436)).
 
 Written in Fortran 90/95 with some Fortran 2003/2008 features.
 

@@ -3,7 +3,7 @@ Detailed Description    {#detail}
 
 # Publication #    {#publication}
 
-O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, <sup>39</sup>Ar and <sup>21</sup>Ne: Rates and uncertainties.” In preparation.
+O. Šrámek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: “Subterranean production of neutrons, <sup>39</sup>Ar and <sup>21</sup>Ne: Rates and uncertainties.” Submitted to _Geochim. Cosmochim. Acta_ ([arXiv:1509.07436](http://arxiv.org/abs/1509.07436)).
 
 # Overview #    {#overview}
 
